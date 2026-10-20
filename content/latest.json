@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-21",
+  "as_of": {"en": "21 Oct 2026, 07:40 KST · US close 20 Oct · KRX close 20 Oct", "kr": "2026년 10월 21일 07:40 KST · 미국 10/20 종가 · 국내 10/20 종가 기준"},
+  "headline": {
+    "en": "Two of three macro nails are in: oil and rates. The won is the one tailwind — and it is not enough to open the biotech gate.",
+    "kr": "매크로 3대 악재 중 유가·금리 두 개가 점등. 원화 강세가 유일한 순풍이지만, 바이오 진입 게이트를 열기엔 부족."
+  },
+  "regime": {
+    "label": {"en": "Regime", "kr": "레짐"},
+    "value": {"en": "LATE CYCLE — tilting risk-off", "kr": "LATE CYCLE — 리스크오프 기울기"},
+    "note": {
+      "en": "The Fed hiked in September for the first time in three years; September CPI printed 3.7% y/y with core 2.6%; the 10-year sits near 5.1% after a 5.3% peak in early October; Brent is above $125 on the Iran conflict. Liquidity is draining, not building.",
+      "kr": "9월 FOMC에서 3년 만의 첫 인상, 9월 CPI 3.7%(근원 2.6%), 10월 초 5.3%를 찍은 미 10년물은 5.1%대. 이란 사태로 Brent는 $125 상회. 유동성은 공급이 아니라 회수 국면."
+    }
+  },
+  "posture": [
+    {"market": {"en": "US / Nasdaq", "kr": "미국 / 나스닥"}, "stance": {"en": "Defensive — no new growth longs ahead of the 28 Oct FOMC", "kr": "방어 — 10/28 FOMC 전 신규 성장주 매수 보류"}, "note": {"en": "The tape is resilient (S&P +0.4% on 20 Oct) despite a 5% ten-year. Respect it; do not chase it. A hold on 28 Oct keeps the regime where it is; a hike re-runs the dollar check.", "kr": "10년물 5%에도 S&P는 +0.4%(10/20)로 견조. 역행하지도, 추격하지도 않는다. 10/28 동결이면 현 레짐 유지, 인상이면 달러 지표를 재점검."}},
+    {"market": {"en": "Hong Kong / HKEX", "kr": "홍콩 / HKEX"}, "stance": {"en": "Out — no exposure", "kr": "관망 — 익스포저 없음"}, "note": {"en": "Geopolitical premium plus a tightening Fed is the wrong mix for HK-listed growth. Nothing on the board earns a position.", "kr": "지정학 프리미엄에 Fed 긴축이 겹친 구간. 포지션을 정당화할 재료 없음."}},
+    {"market": {"en": "Korea / Kosdaq", "kr": "한국 / 코스닥"}, "stance": {"en": "Cash — wait for foreign flow to turn", "kr": "현금 — 외국인 수급 전환 대기"}, "note": {"en": "Kosdaq −3.33% to 781.97 on 20 Oct with foreigners net selling ₩183.8bn and institutions ₩110.6bn; individuals absorbed ₩294.2bn. A strong won (USD/KRW ~1,332) is supportive, but entry waits for three sessions of foreign net buying and the index back above its 20-day average.", "kr": "10/20 코스닥 781.97(−3.33%), 외국인 −1,838억·기관 −1,106억을 개인(+2,942억)이 받아낸 하루. 원화 강세(USD/KRW 1,332선)는 우호적이나, 외국인 3거래일 연속 순매수와 20일선 회복 전까지 진입 보류."}}
+  ],
+  "biotech_gate": {
+    "label": {"en": "Biotech sector gate", "kr": "바이오 섹터 게이트"},
+    "value": {"en": "CLOSED", "kr": "닫힘"},
+    "note": {"en": "Real rates rising, Korean biotech foreign flow negative, index below trend. New biotech exposure stays exploratory-sized until two of those three flip.", "kr": "실질금리 상승, 국내 바이오 외국인 순매도, 지수 추세 이탈. 세 조건 중 두 개가 반전되기 전까지 바이오 신규 비중은 탐색 수준으로 제한."}
+  },
+  "read": {
+    "label": {"en": "IEUM's read", "kr": "IEUM's read"},
+    "en": "This is a liquidity-driven market, not an earnings-driven one. With rates and oil rising together, the asymmetry favors patience: the cost of missing the first 5% of a rally is small next to the cost of being long into a third nail. The won is the one variable moving the right way for Korean assets, and it is worth watching more closely than any single stock this week.",
+    "kr": "지금은 실적이 아니라 유동성이 가격을 정하는 시장이다. 금리와 유가가 동반 상승하는 구간에서는 기다림의 비대칭이 유리하다 — 반등 초입 5%를 놓치는 비용은 세 번째 악재까지 롱으로 맞는 비용에 비하면 작다. 국내 자산에 유리한 방향으로 움직이는 변수는 원화 하나이며, 이번 주는 개별 종목보다 환율을 더 가까이 봐야 한다."
+  },
+  "watchlist": [
+    {"name": "PharmaResearch (214450)", "name_kr": "파마리서치 (214450)", "archetype": {"en": "Commercial-stage compounder", "kr": "상업화 단계 컴파운더"}, "driver": {"en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus", "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"}, "last": "₩265,500", "tag": {"en": "press, 13 Oct intraday — stale", "kr": "언론 인용, 10/13 장중 — 최신 아님"}, "level": "₩254,500 (52w low)", "status": {"en": "Watch — re-entry signal is a 20-day average reclaim with foreign ownership rising", "kr": "관찰 — 외국인 비중 증가를 동반한 20일선 회복이 재진입 신호"}},
+    {"name": "Alteogen (196170)", "name_kr": "알테오젠 (196170)", "archetype": {"en": "Platform / royalty", "kr": "플랫폼 / 로열티"}, "driver": {"en": "Halozyme v. MSD patent series; partner royalty velocity", "kr": "Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도"}, "last": "₩231,000", "tag": {"en": "press, 20 Oct close", "kr": "언론 인용, 10/20 종가"}, "level": "₩208,000 (52w low)", "status": {"en": "No entry before the 19 Nov Germany appeal hearing — each ruling re-prices the next", "kr": "11/19 독일 항소심 전 진입 보류 — 판결 하나가 다음 판결을 재평가시키는 구조"}},
+    {"name": "KOSDAQ index", "name_kr": "코스닥 지수", "archetype": {"en": "Index", "kr": "지수"}, "driver": {"en": "Foreign net flow × won", "kr": "외국인 수급 × 원화"}, "last": "781.97 (−3.33%)", "tag": {"en": "press, 20 Oct close", "kr": "언론 인용, 10/20 종가"}, "level": "760", "status": {"en": "Risk-off — program and foreign selling absorbed by individuals", "kr": "리스크오프 — 프로그램·외국인 매도를 개인이 흡수"}}
+  ],
+  "catalysts": [
+    {"date": "2026-10-28", "event": {"en": "FOMC decision — hold vs +25bp", "kr": "FOMC — 동결 vs +25bp"}, "scope": {"en": "All markets", "kr": "전 시장"}, "why": {"en": "Sets the rates nail and the dollar check for November", "kr": "11월 금리·달러 지표의 방향을 결정"}, "priority": "HIGH"},
+    {"date": "2026-11-19", "event": {"en": "Halozyme v. MSD — Germany appeal hearing", "kr": "Halozyme–MSD 독일 항소심"}, "scope": {"en": "Alteogen", "kr": "알테오젠"}, "why": {"en": "Adverse ruling re-rates the platform royalty thesis", "kr": "불리한 판결 시 플랫폼 로열티 논리 재평가"}, "priority": "HIGH"},
+    {"date": "TBC (early Nov)", "event": {"en": "PharmaResearch 3Q26 results (DART)", "kr": "파마리서치 3Q26 실적 (DART)"}, "scope": {"en": "PharmaResearch", "kr": "파마리서치"}, "why": {"en": "Operating margin trend is the price driver", "kr": "영업이익률 추세가 가격 결정 변수"}, "priority": "MEDIUM"},
+    {"date": "TBC (late Nov)", "event": {"en": "Bank of Korea rate decision", "kr": "한국은행 금통위"}, "scope": {"en": "Kosdaq / KRW", "kr": "코스닥 / 원화"}, "why": {"en": "Korean liquidity gate", "kr": "국내 유동성 게이트"}, "priority": "MEDIUM"},
+    {"date": "2026-12-09", "event": {"en": "FOMC decision — last of 2026", "kr": "FOMC — 2026년 마지막 회의"}, "scope": {"en": "All markets", "kr": "전 시장"}, "why": {"en": "Year-end regime call", "kr": "연말 레짐 판단"}, "priority": "MEDIUM"}
+  ],
+  "sources": [
+    {"label": "Seoul Shinmun — Kosdaq close 20 Oct 2026", "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/20/20261020500234"},
+    {"label": "TopStarNews — Alteogen 20 Oct 2026", "url": "https://www.topstarnews.net/news/articleView.html?idxno=16252473"},
+    {"label": "JoongAng Economy — PharmaResearch 13 Oct 2026", "url": "https://www.joongangenews.com/news/articleView.html?idxno=554526"},
+    {"label": "J.P. Morgan Wealth Management — October 2026 FOMC preview", "url": "https://www.chase.com/personal/investments/learning-and-insights/article/will-the-federal-reserve-hike-rates-at-october-2026-fomc-meeting"},
+    {"label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes", "url": "https://www.alphavantage.co/"}
+  ]
+}

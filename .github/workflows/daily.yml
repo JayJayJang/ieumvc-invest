@@ -1,0 +1,35 @@
+name: Daily market data
+
+on:
+  schedule:
+    - cron: "30 22 * * 0-4"   # 07:30 KST, Mon–Fri
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch Alpha Vantage snapshot
+        env:
+          ALPHAVANTAGE_API_KEY: ${{ secrets.ALPHAVANTAGE_API_KEY }}
+        run: python scripts/fetch.py
+      - name: Build archive pages
+        run: python scripts/build.py
+      - name: Commit
+        run: |
+          git config user.name "ieumvc-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "data: $(TZ=Asia/Seoul date +%F) snapshot"
+          git push

@@ -413,10 +413,6 @@
    "unit": "%",
    "points": [
     {
-     "date": "2025-10-03",
-     "value": 4.13
-    },
-    {
      "date": "2025-10-06",
      "value": 4.18
     },
@@ -1451,30 +1447,17 @@
     {
      "date": "2026-10-19",
      "value": 5.15
+    },
+    {
+     "date": "2026-10-20",
+     "value": 5.12
     }
-   ],
-   "carried_from": "2026-10-21T08:25+09:00"
+   ]
   },
   "brent": {
    "label": "Brent crude",
    "unit": "USD/bbl",
    "points": [
-    {
-     "date": "2025-10-06",
-     "value": 67.09
-    },
-    {
-     "date": "2025-10-07",
-     "value": 67.1
-    },
-    {
-     "date": "2025-10-08",
-     "value": 67.42
-    },
-    {
-     "date": "2025-10-09",
-     "value": 67.23
-    },
     {
      "date": "2025-10-10",
      "value": 64.41
@@ -2498,9 +2481,24 @@
     {
      "date": "2026-10-14",
      "value": 126.55
+    },
+    {
+     "date": "2026-10-15",
+     "value": 126.35
+    },
+    {
+     "date": "2026-10-16",
+     "value": 119.33
+    },
+    {
+     "date": "2026-10-19",
+     "value": 118.82
+    },
+    {
+     "date": "2026-10-20",
+     "value": 115.22
     }
-   ],
-   "carried_from": "2026-10-21T08:25+09:00"
+   ]
   }
  },
  "quotes": [
@@ -2545,8 +2543,5 @@
    "day": "2026-10-21"
   }
  ],
- "failed": [
-  "ust10y: Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for TREASURY_YIELD.",
-  "brent: Invalid API call. Please retry or visit the documentation (https://www.alphavantage.co/documentation/) for BRENT."
- ]
+ "backfilled": "ust10y, brent re-fetched 2026-10-22T18:35+09:00 after the 07:57 run returned 'Invalid API call'"
 }

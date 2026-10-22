@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-22",
+  "as_of": {"en": "22 Oct 2026, 18:30 KST · US close 21 Oct · KRX close 22 Oct", "kr": "2026년 10월 22일 18:30 KST · 미국 10/21 종가 · 국내 10/22 종가 기준"},
+  "headline": {
+    "en": "Oil is easing off the boil, but Korea gave back its rebound in one session — foreign selling, not macro, is now the binding constraint.",
+    "kr": "유가는 한풀 꺾였지만 국내 증시는 하루 만에 반등분을 반납. 이제 발목을 잡는 건 매크로가 아니라 외국인 매도."
+  },
+  "regime": {
+    "label": {"en": "Regime", "kr": "레짐"},
+    "value": {"en": "LATE CYCLE — tilting risk-off", "kr": "LATE CYCLE — 리스크오프 기울기"},
+    "note": {
+      "en": "Two nails still in on a 60-day view: the 10-year is 5.12% (EIA/FRED, 20 Oct) against 4.69% in late July, and Brent is $115 against $92. But Brent spot has fallen from $130 on 8 Oct to $115.22 on 20 Oct and now sits below its 20-day average (~$123); front-month futures settled $108.82 on 21 Oct. The won keeps firming (USD/KRW 1,324.2). The regime label holds until the 28 Oct FOMC.",
+      "kr": "60일 기준 악재 두 개는 여전히 점등: 미 10년물 5.12%(10/20, 7월 말 4.69%), Brent $115(7월 말 $92). 다만 Brent 현물은 10/8 $130에서 10/20 $115.22로 내려와 20일 평균(~$123)을 하회, 선물은 10/21 $108.82 마감. 원화는 강세 지속(USD/KRW 1,324.2). 10/28 FOMC 전까지 레짐 판단은 유지."
+    }
+  },
+  "posture": [
+    {"market": {"en": "US / Nasdaq", "kr": "미국 / 나스닥"}, "stance": {"en": "Defensive — no new growth longs ahead of the 28 Oct FOMC", "kr": "방어 — 10/28 FOMC 전 신규 성장주 매수 보류"}, "note": {"en": "S&P +0.58% to 7,757 and Nasdaq +1.05% on 21 Oct, within 1% of the record, with the 10-year at ~5.13–5.15%. XBI −0.30% while the index rose: biotech is not participating. Unchanged until the Fed speaks.", "kr": "10/21 S&P 7,757(+0.58%), 나스닥 +1.05%로 사상 최고치 1% 이내. 10년물 5.13~5.15%. 지수 상승에도 XBI는 −0.30% — 바이오는 랠리에서 소외. FOMC 전까지 스탠스 유지."}},
+    {"market": {"en": "Hong Kong / HKEX", "kr": "홍콩 / HKEX"}, "stance": {"en": "Out — no exposure", "kr": "관망 — 익스포저 없음"}, "note": {"en": "No change. Easier oil helps at the margin; a tightening Fed does not.", "kr": "변동 없음. 유가 하락은 소폭 우호적이나 Fed 긴축 기조는 그대로."}},
+    {"market": {"en": "Korea / Kosdaq", "kr": "한국 / 코스닥"}, "stance": {"en": "Cash — foreign flow has not turned", "kr": "현금 — 외국인 수급 전환 미확인"}, "note": {"en": "21 Oct: Kosdaq +1.38% to 792.76, but foreigners still sold ₩172.0bn. 22 Oct: Kosdaq −3.62% to 764.10 (foreigners −₩156.6bn, institutions −₩104.7bn, individuals +₩257.7bn); KOSPI −3.52% to 5,533.77 with foreigners −₩399.1bn. That is three straight sessions of foreign net selling on Kosdaq, not the three of buying the entry rule needs. 760 is the line.", "kr": "10/21 코스닥 792.76(+1.38%)에도 외국인은 −1,720억. 10/22 코스닥 764.10(−3.62%; 외국인 −1,566억·기관 −1,047억·개인 +2,577억), 코스피 5,533.77(−3.52%; 외국인 −3,991억). 진입 조건인 외국인 3일 연속 순매수가 아니라 3일 연속 순매도. 760선이 지지선."}}
+  ],
+  "biotech_gate": {
+    "label": {"en": "Biotech sector gate", "kr": "바이오 섹터 게이트"},
+    "value": {"en": "CLOSED", "kr": "닫힘"},
+    "note": {"en": "Real rates still elevated, Korean foreign flow still negative, Kosdaq back below trend after a one-day bounce, XBI lagging a rising S&P. None of the three conditions has flipped.", "kr": "실질금리 고점권, 국내 외국인 순매도 지속, 코스닥은 하루 반등 후 다시 추세 이탈, XBI는 S&P 상승에도 하락. 세 조건 중 반전된 것 없음."}
+  },
+  "read": {
+    "label": {"en": "IEUM's read", "kr": "IEUM's read"},
+    "en": "Yesterday's read said the won was the variable to watch. It kept moving the right way, and Korea still fell 3.5% — which tells us the selling is about positioning, not the currency. The more interesting change is oil: a $20 fall from the October high is the first sign that one nail could come out. One week is not a trend, and Brent is still $20 above July. If it holds below its 20-day average through the FOMC while the 10-year stays under 5.2%, the count drops to one and the case for re-engaging gets real. Until then, being patient costs little.",
+    "kr": "어제는 환율을 가장 중요한 변수로 봤다. 원화는 예상대로 강세를 이어갔지만 국내 증시는 3.5% 밀렸다 — 매도의 원인이 환율이 아니라 포지션 정리라는 뜻이다. 더 주목할 변화는 유가다. 10월 고점 대비 $20 하락은 악재 하나가 빠질 수 있다는 첫 신호다. 다만 일주일은 추세가 아니며 Brent는 여전히 7월보다 $20 높다. FOMC까지 20일선 아래를 유지하고 10년물이 5.2% 아래에 머물면 악재는 하나로 줄고, 그때 재진입 논의가 의미를 갖는다. 그 전까지는 기다리는 비용이 크지 않다."
+  },
+  "watchlist": [
+    {"name": "PharmaResearch (214450)", "name_kr": "파마리서치 (214450)", "archetype": {"en": "Commercial-stage compounder", "kr": "상업화 단계 컴파운더"}, "driver": {"en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus", "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"}, "last": "₩265,500", "tag": {"en": "press, 13 Oct intraday — stale; no fresh print found", "kr": "언론 인용, 10/13 장중 — 최신 아님, 신규 시세 미확인"}, "level": "₩254,500 (52w low)", "status": {"en": "Watch — re-entry signal is a 20-day average reclaim with foreign ownership rising", "kr": "관찰 — 외국인 비중 증가를 동반한 20일선 회복이 재진입 신호"}},
+    {"name": "Alteogen (196170)", "name_kr": "알테오젠 (196170)", "archetype": {"en": "Platform / royalty", "kr": "플랫폼 / 로열티"}, "driver": {"en": "Halozyme v. MSD patent series; partner royalty velocity", "kr": "Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도"}, "last": "≈₩231,000 (−3.75%)", "tag": {"en": "derived: 21 Oct close ₩240,000 (+3.90%, press) × 22 Oct −3.75% (Newspim) — confirm on KRX", "kr": "추정: 10/21 종가 ₩240,000(+3.90%, 언론) × 10/22 −3.75%(뉴스핌) — KRX 확인 필요"}, "level": "₩208,000 (52w low)", "status": {"en": "No entry before the 19 Nov Germany appeal hearing. Round-trip in two sessions shows no sponsor yet.", "kr": "11/19 독일 항소심 전 진입 보류. 이틀 만에 상승분 반납 — 아직 매수 주체 부재."}},
+    {"name": "KOSDAQ index", "name_kr": "코스닥 지수", "archetype": {"en": "Index", "kr": "지수"}, "driver": {"en": "Foreign net flow × won", "kr": "외국인 수급 × 원화"}, "last": "764.10 (−3.62%)", "tag": {"en": "press, 22 Oct close", "kr": "언론 인용, 10/22 종가"}, "level": "760", "status": {"en": "Risk-off — 4 points above support; a close below 760 resets the entry clock", "kr": "리스크오프 — 지지선까지 4포인트, 760 이탈 시 진입 시계 리셋"}}
+  ],
+  "catalysts": [
+    {"date": "2026-10-28", "event": {"en": "FOMC decision — hold vs +25bp", "kr": "FOMC — 동결 vs +25bp"}, "scope": {"en": "All markets", "kr": "전 시장"}, "why": {"en": "Sets the rates nail and the dollar check for November", "kr": "11월 금리·달러 지표의 방향을 결정"}, "priority": "HIGH"},
+    {"date": "Ongoing", "event": {"en": "Brent vs its 20-day average (~$123 spot)", "kr": "Brent 20일 평균(현물 ~$123) 하회 지속 여부"}, "scope": {"en": "All markets", "kr": "전 시장"}, "why": {"en": "Holding below through the FOMC would pull the oil nail", "kr": "FOMC까지 하회 유지 시 유가 악재 해제"}, "priority": "HIGH"},
+    {"date": "2026-11-19", "event": {"en": "Halozyme v. MSD — Germany appeal hearing", "kr": "Halozyme–MSD 독일 항소심"}, "scope": {"en": "Alteogen", "kr": "알테오젠"}, "why": {"en": "Adverse ruling re-rates the platform royalty thesis", "kr": "불리한 판결 시 플랫폼 로열티 논리 재평가"}, "priority": "HIGH"},
+    {"date": "TBC (early Nov)", "event": {"en": "PharmaResearch 3Q26 results (DART)", "kr": "파마리서치 3Q26 실적 (DART)"}, "scope": {"en": "PharmaResearch", "kr": "파마리서치"}, "why": {"en": "Operating margin trend is the price driver", "kr": "영업이익률 추세가 가격 결정 변수"}, "priority": "MEDIUM"},
+    {"date": "TBC (late Nov)", "event": {"en": "Bank of Korea rate decision", "kr": "한국은행 금통위"}, "scope": {"en": "Kosdaq / KRW", "kr": "코스닥 / 원화"}, "why": {"en": "Korean liquidity gate", "kr": "국내 유동성 게이트"}, "priority": "MEDIUM"},
+    {"date": "2026-12-09", "event": {"en": "FOMC decision — last of 2026", "kr": "FOMC — 2026년 마지막 회의"}, "scope": {"en": "All markets", "kr": "전 시장"}, "why": {"en": "Year-end regime call", "kr": "연말 레짐 판단"}, "priority": "MEDIUM"}
+  ],
+  "sources": [
+    {"label": "Newspim — KOSPI/Kosdaq close 22 Oct 2026", "url": "https://www.newspim.com/news/view/20261022001100"},
+    {"label": "News1 — Kosdaq close 21 Oct 2026", "url": "https://www.news1.kr/finance/general-stock/6327437"},
+    {"label": "Asia News Agency — Alteogen close 21 Oct 2026", "url": "https://www.anewsa.com/detail.php?number=3209945"},
+    {"label": "CNBC — US stocks 20–21 Oct 2026", "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"},
+    {"label": "CNBC — Oil price 21 Oct 2026", "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html"},
+    {"label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes", "url": "https://www.alphavantage.co/"}
+  ]
+}

@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-22",
+  "headline": {
+   "en": "Kosdaq gives back the whole rebound (−3.62%) as foreigners sell again; two of three macro nails stay in and the biotech gate stays shut.",
+   "kr": "코스닥 −3.62%, 하루 만에 반등분 전부 반납. 외국인 재차 순매도, 매크로 3대 악재 중 2개 점등 유지 — 바이오 게이트도 닫힌 채."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off",
+   "kr": "LATE CYCLE — 리스크오프 기울기"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-21",
   "headline": {
    "en": "Two of three macro nails are in: oil and rates. The won is the one tailwind — and it is not enough to open the biotech gate.",

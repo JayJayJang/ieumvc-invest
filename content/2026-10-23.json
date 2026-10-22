@@ -1,0 +1,287 @@
+{
+ "date": "2026-10-23",
+ "as_of": {
+  "en": "23 Oct 2026, 08:20 KST · US close 22 Oct · KRX close 22 Oct (23 Oct session not yet open)",
+  "kr": "2026년 10월 23일 08:20 KST · 미국 10/22 종가 · 국내 10/22 종가 기준(10/23 장 개장 전)"
+ },
+ "headline": {
+  "en": "Wall Street's AI-spending scare (Nasdaq −2.6%) lands on a Kosdaq already at 764; the 10-year slips under 5% but two of three nails stay lit and the biotech gate stays shut.",
+  "kr": "미국 증시 AI 투자 부담에 나스닥 −2.6% 급락, 764까지 밀린 코스닥엔 추가 악재. 美 10년물 5% 아래로 내려왔지만 3대 악재 2개 점등 유지 — 바이오 게이트 닫힘."
+ },
+ "regime": {
+  "label": {
+   "en": "Regime",
+   "kr": "레짐"
+  },
+  "value": {
+   "en": "LATE CYCLE — tilting risk-off",
+   "kr": "LATE CYCLE — 리스크오프 기울기"
+  },
+  "note": {
+   "en": "Nails: 2 of 3 (US 10Y at 5.13% on 21 Oct and Brent at $115.22 on 20 Oct, both above their level ~60 sessions earlier; USD/KRW 1,326.71 on 21 Oct, below). The 10-year then fell about 14bp on 22 Oct to just under 5% (CNBC/Yahoo; first sub-5% in a month) — still well above the 4.65% of late July, so the rates nail stays lit, though the easing is the first relief in the liquidity picture. Snapshot of 23 Oct 07:58 KST has no failed fetches; series lag one to two sessions, so 22 Oct prints are press-sourced. TLT +1.87%, UUP −0.07%. FOMC 28 Oct unchanged on the calendar.",
+   "kr": "3대 지표 2/3 점등(10/21 미 10년물 5.13%, 10/20 Brent $115.22 — 모두 약 60거래일 전보다 높고, 10/21 원/달러 1,326.71원은 낮음). 10/22 미 10년물은 약 14bp 급락해 5% 아래로 내려왔으나(CNBC·야후파이낸스, 한 달 만에 처음) 7월 말 4.65%보다는 여전히 높아 금리 지표는 점등 유지. 유동성 측면에선 첫 숨통이지만 아직 추세 전환은 아니다. 10/23 07:58 스냅샷은 수집 실패 항목 없음, 다만 시계열이 1~2거래일 지연돼 10/22 수치는 언론 기준. TLT +1.87%, UUP −0.07%. FOMC는 10/28 일정 변동 없음."
+  }
+ },
+ "posture": [
+  {
+   "market": {
+    "en": "US / Nasdaq",
+    "kr": "미국 / 나스닥"
+   },
+   "stance": {
+    "en": "Defensive — no new growth longs ahead of the 28 Oct FOMC",
+    "kr": "방어 — 10/28 FOMC 전 신규 성장주 매수 보류"
+   },
+   "note": {
+    "en": "Nasdaq Composite −2.6% to 26,008.86, its worst session since June, and S&P 500 −1.21% to 7,663.43, worst since July (CNBC), on AI-spending worries after Meta raised its AI outlay. Snapshot: SPY −1.18%, XBI −0.75%, EWY −4.98%. The Tuesday–Wednesday chip-led rally has been retraced.",
+    "kr": "나스닥 종합 −2.6%(26,008.86)로 6월 이후 최악, S&P 500 −1.21%(7,663.43)로 7월 이후 최악(CNBC). 메타의 AI 투자 확대 발표로 AI 자금조달 부담이 재부각. 스냅샷 기준 SPY −1.18%, XBI −0.75%, EWY −4.98%. 반도체 주도 반등분은 하루 만에 상당 부분 반납."
+   }
+  },
+  {
+   "market": {
+    "en": "Hong Kong / HKEX",
+    "kr": "홍콩 / HKEX"
+   },
+   "stance": {
+    "en": "Out — no exposure",
+    "kr": "관망 — 익스포저 없음"
+   },
+   "note": {
+    "en": "Oil near $115 (Brent $115.22 on 20 Oct, EIA) and a Fed that has not finished tightening keep the geopolitical premium on HK-listed growth. No fresh HKEX data was gathered today.",
+    "kr": "Brent $115 안팎(10/20 $115.22, EIA)과 긴축을 끝내지 못한 Fed가 홍콩 상장 성장주의 지정학 프리미엄을 유지시키는 구간. 오늘은 HKEX 별도 수치를 확인하지 못함."
+   }
+  },
+  {
+   "market": {
+    "en": "Korea / Kosdaq",
+    "kr": "한국 / 코스닥"
+   },
+   "stance": {
+    "en": "Cash — wait for foreign flow to turn",
+    "kr": "현금 — 외국인 수급 전환 대기"
+   },
+   "note": {
+    "en": "Kosdaq −28.66pt (−3.62%) to 764.10 on 22 Oct; foreigners net sold ₩156.6bn and institutions ₩104.7bn against ₩257.7bn of individual buying. KOSPI −3.52% to 5,533.77 (foreigners −₩399.1bn, institutions −₩683.4bn, individuals +₩1.04tn). USD/KRW 1,324.2 at the day-session close. With EWY −4.98% in New York overnight, the 23 Oct open is exposed to a test of the 760 level.",
+    "kr": "10/22 코스닥 764.10(−28.66p, −3.62%). 외국인 −1,566억·기관 −1,047억을 개인 +2,577억이 받음. 코스피 5,533.77(−3.52%), 외국인 −3,991억·기관 −6,834억·개인 +1조364억. 주간 종가 USD/KRW 1,324.2원. 간밤 뉴욕에서 EWY가 −4.98%를 기록해 10/23 개장은 760선 시험 가능성이 열려 있다."
+   }
+  }
+ ],
+ "biotech_gate": {
+  "label": {
+   "en": "Biotech sector gate",
+   "kr": "바이오 섹터 게이트"
+  },
+  "value": {
+   "en": "CLOSED",
+   "kr": "닫힘"
+  },
+  "note": {
+   "en": "10-year back under 5% is a first thaw, but real rates remain high, Kosdaq foreigners net sold again on 22 Oct (−₩156.6bn), and the index sits just above 760. XBI fell 0.75% in the snapshot as risk assets sold off. Nothing has flipped.",
+   "kr": "10년물이 5% 아래로 내려온 건 첫 해빙 신호지만 실질금리 부담은 여전하고, 10/22 코스닥 외국인은 −1,566억 순매도, 지수는 760선 바로 위. 스냅샷 기준 XBI −0.75%로 위험자산 매도에 동행. 뒤집힌 조건은 없다."
+  }
+ },
+ "read": {
+  "label": {
+   "en": "IEUM's read",
+   "kr": "IEUM's read"
+  },
+  "en": "Two nights, two regimes: chips lifted Wall Street on Wednesday and an AI-funding scare took it back on Thursday, which tells you the US index is a single-theme tape. The one genuinely new fact is the 10-year dipping under 5% — a flight-to-bonds move rather than a growth-friendly one, so it eases the rates nail without opening the biotech gate. For Korea, the foreign bid failed to appear on a 3.6% Kosdaq down day and EWY fell nearly 5% overnight; the won at 1,324 is the only supportive variable. Until foreigners buy for several sessions in a row, a bounce in Korean biotech is position squaring, not a trend.",
+  "kr": "미국은 수요일엔 반도체가 끌어올리고 목요일엔 AI 투자 재원 우려가 되돌린, 단일 테마 장세다. 유일한 새 변수는 10년물의 5% 하회인데, 성장주 우호적인 하락이라기보다 안전자산 선호에 가까워 금리 지표 부담은 덜어도 바이오 게이트를 열 재료는 못 된다. 한국은 코스닥 −3.6%에도 외국인 매수세가 나타나지 않았고 간밤 EWY는 5% 가까이 빠졌다. 1,324원대 원화가 유일한 우군. 외국인이 수 거래일 연속 순매수로 돌아서기 전까지 국내 바이오 반등은 추세 전환보다 포지션 정리로 보는 편이 합리적이다."
+ },
+ "watchlist": [
+  {
+   "name": "PharmaResearch (214450)",
+   "name_kr": "파마리서치 (214450)",
+   "archetype": {
+    "en": "Commercial-stage compounder",
+    "kr": "상업화 단계 컴파운더"
+   },
+   "driver": {
+    "en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus",
+    "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"
+   },
+   "last": "₩263,000",
+   "tag": {
+    "en": "press, 21 Oct after-market (Topstar News); 22 Oct close not found. Foreign ownership 15.51%",
+    "kr": "언론 인용, 10/21 애프터마켓(톱스타뉴스), 10/22 종가 확인 불가. 외국인 소진율 15.51%"
+   },
+   "level": "₩254,500 (52w low)",
+   "status": {
+    "en": "Watch — re-entry signal is a 20-day average reclaim with foreign ownership rising",
+    "kr": "관찰 — 외국인 비중 증가를 동반한 20일선 회복이 재진입 신호"
+   }
+  },
+  {
+   "name": "Alteogen (196170)",
+   "name_kr": "알테오젠 (196170)",
+   "archetype": {
+    "en": "Platform / royalty",
+    "kr": "플랫폼 / 로열티"
+   },
+   "driver": {
+    "en": "Halozyme v. MSD patent series; partner royalty velocity; absorption of Alteogen Biologics (merger date 29 Dec)",
+    "kr": "Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도, 알테오젠바이오로직스 흡수합병(합병기일 12/29)"
+   },
+   "last": "₩230,500",
+   "tag": {
+    "en": "press, 22 Oct 14:26 intraday, −3.96% (JoongAng Economy); close not found. Foreign ownership 16.36%",
+    "kr": "언론 인용, 10/22 14:26 장중 −3.96%(중앙이코노미뉴스), 종가 확인 불가. 외국인 소진율 16.36%"
+   },
+   "level": "₩208,000 (52w low)",
+   "status": {
+    "en": "No entry before the 19 Nov Germany appeal hearing — price is closing in on the ₩208,000 52-week low",
+    "kr": "11/19 독일 항소심 전 진입 보류 — 52주 저점 ₩208,000에 근접"
+   }
+  },
+  {
+   "name": "KOSDAQ index",
+   "name_kr": "코스닥 지수",
+   "archetype": {
+    "en": "Index",
+    "kr": "지수"
+   },
+   "driver": {
+    "en": "Foreign net flow × won",
+    "kr": "외국인 수급 × 원화"
+   },
+   "last": "764.10 (−3.62%)",
+   "tag": {
+    "en": "press, 22 Oct close (Newspim 16:04)",
+    "kr": "언론 인용, 10/22 종가(뉴스핌 16:04)"
+   },
+   "level": "760",
+   "status": {
+    "en": "Risk-off — Nasdaq's overnight drop puts 760 in play at the open",
+    "kr": "리스크오프 — 간밤 나스닥 급락으로 개장 후 760선 시험 가능성"
+   }
+  }
+ ],
+ "catalysts": [
+  {
+   "date": "2026-10-28",
+   "event": {
+    "en": "FOMC decision — hold vs +25bp",
+    "kr": "FOMC — 동결 vs +25bp"
+   },
+   "scope": {
+    "en": "All markets",
+    "kr": "전 시장"
+   },
+   "why": {
+    "en": "Sets the rates nail and the dollar check for November",
+    "kr": "11월 금리·달러 지표의 방향을 결정"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "2026-11-19",
+   "event": {
+    "en": "Halozyme v. MSD — Germany appeal hearing",
+    "kr": "Halozyme–MSD 독일 항소심"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Adverse ruling re-rates the platform royalty thesis",
+    "kr": "불리한 판결 시 플랫폼 로열티 논리 재평가"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "TBC (early Nov)",
+   "event": {
+    "en": "PharmaResearch 3Q26 results (DART)",
+    "kr": "파마리서치 3Q26 실적 (DART)"
+   },
+   "scope": {
+    "en": "PharmaResearch",
+    "kr": "파마리서치"
+   },
+   "why": {
+    "en": "Operating margin trend is the price driver",
+    "kr": "영업이익률 추세가 가격 결정 변수"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "TBC (late Nov)",
+   "event": {
+    "en": "Bank of Korea rate decision",
+    "kr": "한국은행 금통위"
+   },
+   "scope": {
+    "en": "Kosdaq / KRW",
+    "kr": "코스닥 / 원화"
+   },
+   "why": {
+    "en": "Korean liquidity gate",
+    "kr": "국내 유동성 게이트"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-09",
+   "event": {
+    "en": "FOMC decision — last of 2026",
+    "kr": "FOMC — 2026년 마지막 회의"
+   },
+   "scope": {
+    "en": "All markets",
+    "kr": "전 시장"
+   },
+   "why": {
+    "en": "Year-end regime call",
+    "kr": "연말 레짐 판단"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-29",
+   "event": {
+    "en": "Alteogen–Alteogen Biologics merger effective date (per company decision of 6 Oct, as reported by JobPost)",
+    "kr": "알테오젠–알테오젠바이오로직스 합병기일(10/6 이사회 결정, 잡포스트 보도)"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Corporate-structure change; dated per press, not yet checked against the DART filing",
+    "kr": "지배구조 변화 이벤트. 일정은 언론 기준이며 DART 공시 대조 전"
+   },
+   "priority": "LOW"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Newspim — KOSPI/KOSDAQ close, 22 Oct 2026 (16:04 KST)",
+   "url": "https://www.newspim.com/news/view/20261022001100"
+  },
+  {
+   "label": "CNBC — Stock market news for Oct. 22, 2026",
+   "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "Yahoo Finance — Stock market today, Thursday Oct. 22",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-22-dow-sp-500-nasdaq-tesla-meta-112217857.html"
+  },
+  {
+   "label": "Benzinga — Meta sinks 6%, 10-year yield falls below 5%",
+   "url": "https://www.benzinga.com/markets/equities/26/10/62539017/meta-ai-spending-10-year-yield-below-5-stock-market-today"
+  },
+  {
+   "label": "JoongAng Economy — Alteogen, 22 Oct 2026 (14:26 KST)",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=557448"
+  },
+  {
+   "label": "Topstar News — PharmaResearch, 21 Oct 2026 after-market",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16253853"
+  },
+  {
+   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 23 Oct 07:58 KST)",
+   "url": "https://www.alphavantage.co/"
+  }
+ ]
+}

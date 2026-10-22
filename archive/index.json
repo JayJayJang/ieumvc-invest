@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-23",
+  "headline": {
+   "en": "Wall Street's AI-spending scare (Nasdaq −2.6%) lands on a Kosdaq already at 764; the 10-year slips under 5% but two of three nails stay lit and the biotech gate stays shut.",
+   "kr": "미국 증시 AI 투자 부담에 나스닥 −2.6% 급락, 764까지 밀린 코스닥엔 추가 악재. 美 10년물 5% 아래로 내려왔지만 3대 악재 2개 점등 유지 — 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off",
+   "kr": "LATE CYCLE — 리스크오프 기울기"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-22",
   "headline": {
    "en": "Kosdaq gives back the whole rebound (−3.62%) as foreigners sell again; two of three macro nails stay in and the biotech gate stays shut.",

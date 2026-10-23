@@ -100,15 +100,15 @@
     "en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus",
     "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"
    },
-   "last": "₩255,000 (−3.41%)",
+   "last": "₩239,500 (−6.08%)",
    "tag": {
-    "en": "KRX close 22 Oct (Daum Finance). Foreign ownership 15.52%",
-    "kr": "KRX 종가 10/22 (다음 금융). 외국인 소진율 15.52%"
+    "en": "KRX close 23 Oct (Daum Finance). Foreign ownership 15.52% (22 Oct)",
+    "kr": "KRX 종가 10/23 (다음 금융). 외국인 소진율 15.52%(10/22)"
    },
-   "level": "₩254,500 (52w low)",
+   "level": "₩232,500 (52w low, adj., 23 Oct)",
    "status": {
-    "en": "Watch — broke the ₩254,500 52-week low intraday on 22 Oct (₩252,500) and closed just above it. A close below ₩254,500 cancels the setup; re-entry still needs a 20-day average reclaim with foreign ownership rising.",
-    "kr": "관찰 — 10/22 장중 52주 저점 ₩254,500 이탈(₩252,500) 후 종가는 소폭 회복. ₩254,500 하회 마감 시 셋업 무효, 재진입은 외국인 비중 증가를 동반한 20일선 회복이 조건."
+    "en": "Setup cancelled — closed below ₩254,500 on 23 Oct and set a new 52-week low intraday. Re-entry needs a new base and a 20-day average reclaim with foreign ownership rising.",
+    "kr": "셋업 무효 — 10/23 ₩254,500 하회 마감, 장중 52주 신저가 경신. 재진입은 새 바닥 형성과 외국인 비중 증가를 동반한 20일선 회복이 조건."
    }
   },
   {

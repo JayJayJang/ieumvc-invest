@@ -14,6 +14,15 @@ Static site (GitHub Pages) for IEUM Value Creator's daily market brief.
 1. The workflow fetches the data snapshot automatically (secret `ALPHAVANTAGE_API_KEY` required).
 2. Add `content/<date>.json` for the day's brief, run `python scripts/build.py`, commit and push — or trigger the workflow after pushing the content file; it runs `build.py` too.
 
+## Price rules (no estimates)
+Every price, close and yield in a brief is a published, final figure. If one cannot be confirmed, write "not confirmed" — never derive, interpolate or carry an intraday print as a close.
+- **Korean stocks and indices** — KRX regular-session close (15:30). Source: Daum Finance daily quotes (`finance.daum.net/api/quote/A<code>/days`). Do not use Naver Pay prices: they mix in Nextrade (NXT) pre-/after-market trades and differ from the KRX close. Intraday and after-market press prints are not closes.
+- **US Treasury yields** — US Treasury daily par yield curve (`home.treasury.gov`, daily treasury rates CSV). Use these for any day the Alpha Vantage series has not caught up to; do not use press approximations ("about 14bp", "just under 5%").
+- **US equity closes** — Alpha Vantage EOD quotes in `data/<date>.json`; index levels from a named press source with its timestamp.
+- **Investor flows, USD/KRW day-session close** — press-quoted KRX/market figures with source and time.
+- If the morning workflow logs `failed` series in `data/<date>.json`, re-fetch them before writing the brief rather than relying on carried-forward values.
+- Tag every watchlist price with its source and session (e.g. "KRX close 22 Oct (Daum Finance)").
+
 ## Setup (once)
 1. Repository → Settings → Secrets and variables → Actions → New repository secret `ALPHAVANTAGE_API_KEY`.
 2. Settings → Pages → Source: Deploy from a branch, `main` / `/ (root)`; Custom domain `invest.ieumvc.com`; Enforce HTTPS.

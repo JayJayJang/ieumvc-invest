@@ -21,6 +21,7 @@ Every price, close and yield in a brief is a published, final figure. If one can
 - **US equity closes** — Alpha Vantage EOD quotes in `data/<date>.json`; index levels from a named press source with its timestamp.
 - **Investor flows, USD/KRW day-session close** — press-quoted KRX/market figures with source and time.
 - If the morning workflow logs `failed` series in `data/<date>.json`, re-fetch them before writing the brief rather than relying on carried-forward values.
+- **52-week highs/lows** — adjusted for corporate actions (bonus issues, splits), taken from the KRX daily series; label them "adj." with the date set.
 - Tag every watchlist price with its source and session (e.g. "KRX close 22 Oct (Daum Finance)").
 
 ## Setup (once)

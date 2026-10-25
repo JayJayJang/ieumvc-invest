@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-26",
+  "headline": {
+   "en": "Brent hits $116.72, the highest since June 2022, and the 10-year drifts back to 4.99%; Kosdaq slips to 751.69 on a thin foreign bid. Two of three nails stay lit and the biotech gate stays shut.",
+   "kr": "Brent 연고점 $116.72(2022년 6월 이후 최고), 美 10년물은 4.99%로 반등. 코스닥은 751.69로 밀리며 760선 이탈. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off",
+   "kr": "LATE CYCLE — 리스크오프 기울기"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-23",
   "headline": {
    "en": "Wall Street's AI-spending scare (Nasdaq −2.6%) lands on a Kosdaq already at 764; the 10-year drops 17bp to 4.96% but two of three nails stay lit and the biotech gate stays shut.",

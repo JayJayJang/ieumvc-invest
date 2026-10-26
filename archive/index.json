@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-27",
+  "headline": {
+   "en": "Kosdaq gaps down 3.26% to 727.21 and KOSPI drops to 5,469.47, a seven-month low, as foreigners sell ₩695.5bn; Wall Street rebounds on Anthropic's IPO filing. Two of three nails lit, biotech gate shut.",
+   "kr": "코스닥 3.26% 급락한 727.21, 코스피는 외국인 6,955억 원 순매도 속 7개월 최저 5,469.47 마감. 뉴욕증시는 앤트로픽 IPO 서류 제출 소식에 반등. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off",
+   "kr": "LATE CYCLE — 리스크오프 기울기"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-26",
   "headline": {
    "en": "Brent hits $116.72, the highest since June 2022, and the 10-year drifts back to 4.99%; Kosdaq slips to 751.69 on a thin foreign bid. Two of three nails stay lit and the biotech gate stays shut.",

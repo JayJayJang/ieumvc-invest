@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-28",
+  "headline": {
+   "en": "Kosdaq rebounds 2.29% to 743.83 and KOSPI jumps 3.09% to 5,638.34 as foreigners turn net buyers (₩835.9bn on KOSPI); Wall Street adds 0.6% ahead of today's FOMC. Two of three nails lit, biotech gate still shut.",
+   "kr": "코스닥 2.29% 반등한 743.83, 코스피는 외국인 8,359억 원 순매수 속 3.09% 급반등한 5,638.34 마감. 뉴욕증시는 오늘 FOMC 앞두고 0.6% 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off (relief bounce, not a turn)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(기술적 반등, 추세 전환 아님)"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-27",
   "headline": {
    "en": "Kosdaq gaps down 3.26% to 727.21 and KOSPI drops to 5,469.47, a seven-month low, as foreigners sell ₩695.5bn; Wall Street rebounds on Anthropic's IPO filing. Two of three nails lit, biotech gate shut.",

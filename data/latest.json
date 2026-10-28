@@ -1,15 +1,11 @@
 {
- "as_of": "2026-10-28T08:01+09:00",
+ "as_of": "2026-10-29T08:06+09:00",
  "source": "Alpha Vantage \u2014 FRED 10Y CMT (daily), FX daily USD/KRW, EIA Brent (daily), end-of-day quotes; fetched by the workflow",
  "series": {
   "ust10y": {
    "label": "US 10Y Treasury yield",
    "unit": "%",
    "points": [
-    {
-     "date": "2025-10-10",
-     "value": 4.05
-    },
     {
      "date": "2025-10-14",
      "value": 4.03
@@ -1045,6 +1041,10 @@
     {
      "date": "2026-10-26",
      "value": 5.0
+    },
+    {
+     "date": "2026-10-27",
+     "value": 4.99
     }
    ]
   },
@@ -1052,10 +1052,6 @@
    "label": "USD/KRW",
    "unit": "KRW",
    "points": [
-    {
-     "date": "2026-06-09",
-     "value": 1522.48
-    },
     {
      "date": "2026-06-10",
      "value": 1522.31
@@ -1451,6 +1447,10 @@
     {
      "date": "2026-10-26",
      "value": 1325.55
+    },
+    {
+     "date": "2026-10-27",
+     "value": 1326.27
     }
    ]
   },
@@ -1458,26 +1458,6 @@
    "label": "Brent crude",
    "unit": "USD/bbl",
    "points": [
-    {
-     "date": "2025-10-10",
-     "value": 64.41
-    },
-    {
-     "date": "2025-10-13",
-     "value": 64.15
-    },
-    {
-     "date": "2025-10-14",
-     "value": 63.0
-    },
-    {
-     "date": "2025-10-15",
-     "value": 62.33
-    },
-    {
-     "date": "2025-10-16",
-     "value": 61.08
-    },
     {
      "date": "2025-10-17",
      "value": 61.23
@@ -2497,6 +2477,26 @@
     {
      "date": "2026-10-20",
      "value": 115.22
+    },
+    {
+     "date": "2026-10-21",
+     "value": 117.37
+    },
+    {
+     "date": "2026-10-22",
+     "value": 125.39
+    },
+    {
+     "date": "2026-10-23",
+     "value": 128.3
+    },
+    {
+     "date": "2026-10-26",
+     "value": 128.12
+    },
+    {
+     "date": "2026-10-27",
+     "value": 123.1
     }
    ]
   }
@@ -2505,42 +2505,42 @@
   {
    "symbol": "SPY",
    "name": "S&P 500 (US beta)",
-   "price": 769.66,
-   "change_pct": 0.5605,
-   "prev_close": 765.37,
-   "day": "2026-10-27"
+   "price": 772.31,
+   "change_pct": 0.3443,
+   "prev_close": 769.66,
+   "day": "2026-10-28"
   },
   {
    "symbol": "XBI",
    "name": "US biotech (XBI)",
-   "price": 154.84,
-   "change_pct": 2.9042,
-   "prev_close": 150.47,
-   "day": "2026-10-27"
+   "price": 157.51,
+   "change_pct": 1.7244,
+   "prev_close": 154.84,
+   "day": "2026-10-28"
   },
   {
    "symbol": "EWY",
    "name": "Korea (EWY, USD terms)",
-   "price": 157.46,
-   "change_pct": 3.1037,
-   "prev_close": 152.72,
-   "day": "2026-10-27"
+   "price": 165.91,
+   "change_pct": 5.3664,
+   "prev_close": 157.46,
+   "day": "2026-10-28"
   },
   {
    "symbol": "TLT",
    "name": "Long Treasuries",
-   "price": 81.63,
-   "change_pct": -0.0612,
-   "prev_close": 81.68,
-   "day": "2026-10-27"
+   "price": 80.99,
+   "change_pct": -0.784,
+   "prev_close": 81.63,
+   "day": "2026-10-28"
   },
   {
    "symbol": "UUP",
    "name": "US dollar index",
-   "price": 29.12,
-   "change_pct": 0.3792,
-   "prev_close": 29.01,
-   "day": "2026-10-27"
+   "price": 29.06,
+   "change_pct": -0.206,
+   "prev_close": 29.12,
+   "day": "2026-10-28"
   }
  ]
 }

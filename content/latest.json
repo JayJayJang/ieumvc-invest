@@ -1,12 +1,12 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "as_of": {
-  "en": "28 Oct 2026, 08:30 KST · US close 27 Oct · KRX close 27 Oct (28 Oct session not yet open)",
-  "kr": "2026년 10월 28일 08:30 KST · 미국 10/27 종가 · 국내 10/27 종가 기준(10/28 장 개장 전)"
+  "en": "29 Oct 2026, 08:30 KST · US close 28 Oct · KRX close 28 Oct (29 Oct session not yet open)",
+  "kr": "2026년 10월 29일 08:30 KST · 미국 10/28 종가 · 국내 10/28 종가 기준(10/29 장 개장 전)"
  },
  "headline": {
-  "en": "Kosdaq rebounds 2.29% to 743.83 and KOSPI jumps 3.09% to 5,638.34 as foreigners turn net buyers (₩835.9bn on KOSPI); Wall Street adds 0.6% ahead of today's FOMC. Two of three nails lit, biotech gate still shut.",
-  "kr": "코스닥 2.29% 반등한 743.83, 코스피는 외국인 8,359억 원 순매수 속 3.09% 급반등한 5,638.34 마감. 뉴욕증시는 오늘 FOMC 앞두고 0.6% 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  "en": "KOSPI surges 6.63% to 6,012.44 on SK hynix and Samsung Electronics, Kosdaq +3.69% to 771.28 — above its 22 Oct close — but foreigners sold ₩185.7bn on Kosdaq; the Fed holds 10–2 with two votes for a hike and the 10-year par yield rises to 5.05%. Two of three nails lit, biotech gate still shut.",
+  "kr": "코스피, SK하이닉스·삼성전자 급등에 6.63% 오른 6,012.44 마감. 코스닥은 3.69% 상승한 771.28로 10/22 종가를 넘어섰지만 외국인은 1,857억 원 순매도. 연준은 10대 2로 동결(2명 인상 소수의견), 미 10년물 par 5.05%로 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
  },
  "regime": {
   "label": {
@@ -14,12 +14,12 @@
    "kr": "레짐"
   },
   "value": {
-   "en": "LATE CYCLE — tilting risk-off (relief bounce, not a turn)",
-   "kr": "LATE CYCLE — 리스크오프 기울기(기술적 반등, 추세 전환 아님)"
+   "en": "LATE CYCLE — tilting risk-off (chip-led rally; rates and oil unchanged)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(반도체 주도 랠리, 금리·유가 부담 지속)"
   },
   "note": {
-   "en": "Nails: 2 of 3 (US 10Y 5.00% on 26 Oct vs 4.68% on 30 Jul; Brent $115.22 on 20 Oct (EIA) vs $91.82 on 27 Jul — both above their level ~60 sessions earlier; USD/KRW 1,325.55 on 26 Oct vs 1,428.99 on 3 Aug, below). The data snapshot of 28 Oct 08:01 KST has no failed fetches, but the 10Y and USD/KRW series end 26 Oct and Brent ends 20 Oct, so the nails are read on lagged data. US Treasury par 10-year: 4.99% on 27 Oct (5.00% on 26 Oct; home.treasury.gov). Press on 27 Oct: WTI near $100 and Brent toward $114, both intraday readings, not closes (Kitco). Seoul FX close 1,323.70 (Newspim, 15:57 KST). Snapshot 27 Oct: SPY +0.56%, XBI +2.90%, EWY +3.10%, TLT −0.06%, UUP +0.38%. FOMC decision 28 Oct (meeting 27–28 Oct).",
-   "kr": "3대 지표 2/3 점등(10/26 미 10년물 5.00% vs 7/30 4.68%, 10/20 Brent $115.22(EIA) vs 7/27 $91.82 — 모두 약 60거래일 전보다 높고, 10/26 원/달러 1,325.55원은 8/3 1,428.99원보다 낮음). 10/28 08:01 스냅샷에 수집 실패 항목은 없으나 10년물·환율 시계열은 10/26, Brent는 10/20까지여서 지연된 데이터 기준. 미 재무부 par 10년물은 10/27 4.99%(10/26 5.00%, home.treasury.gov). 10/27 언론 기준 WTI $100 안팎, Brent $114 부근은 장중 시세로 종가가 아님(Kitco). 서울 외환시장 종가 1,323.70원(뉴스핌 15:57). 10/27 스냅샷 기준 SPY +0.56%, XBI +2.90%, EWY +3.10%, TLT −0.06%, UUP +0.38%. FOMC는 10/27~28일, 결정은 10/28."
+   "en": "Nails: 2 of 3 (US 10Y 4.99% on 27 Oct vs 4.75% on 31 Jul; Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,326.27 on 27 Oct vs 1,428.84 on 4 Aug, below). The data snapshot of 29 Oct 08:06 KST has no failed fetches; the 10Y, USD/KRW and Brent series end 27 Oct, and the EOD quotes are for 28 Oct. US Treasury par 10-year: 5.05% on 28 Oct (4.99% on 27 Oct; home.treasury.gov). Press on 28 Oct: Brent near $115.3 and WTI near $101.9 (Kitco, 20:51 report; Eurasia Business News cites settlements of $115.32 and $102.78). Seoul FX close 1,337.70, up 14.0 won (Newspim, 16:02 KST). Snapshot 28 Oct: SPY +0.34%, XBI +1.72%, EWY +5.37%, TLT −0.78%, UUP −0.21%. FOMC held at 3.75–4.00% on 28 Oct.",
+   "kr": "3대 지표 2/3 점등(10/27 미 10년물 4.99% vs 7/31 4.75%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/27 원/달러 1,326.27원은 8/4 1,428.84원보다 낮음). 10/29 08:06 스냅샷에 수집 실패 항목은 없으며, 10년물·환율·Brent 시계열은 10/27까지, ETF 종가는 10/28 기준. 미 재무부 par 10년물은 10/28 5.05%(10/27 4.99%, home.treasury.gov). 10/28 언론 기준 Brent $115.3 부근·WTI $101.9 부근(Kitco 20:51 보도, Eurasia Business News는 정산가 Brent $115.32·WTI $102.78 인용). 서울 외환시장 종가 1,337.70원, 14.0원 상승(뉴스핌 16:02). 10/28 스냅샷 기준 SPY +0.34%, XBI +1.72%, EWY +5.37%, TLT −0.78%, UUP −0.21%. FOMC는 10/28 기준금리 3.75~4.00% 동결."
   }
  },
  "posture": [
@@ -29,12 +29,12 @@
     "kr": "미국 / 나스닥"
    },
    "stance": {
-    "en": "Defensive — gains are a pre-FOMC bounce; the decision lands today",
-    "kr": "방어 — FOMC(10/28) 결정 앞둔 반등, 결과 확인 전"
+    "en": "Defensive — the Fed held but the tone leans toward a hike",
+    "kr": "방어 — 연준 동결했으나 인상 쪽으로 기운 어조"
    },
    "note": {
-    "en": "S&P 500 +0.60% to 7,722.60, Nasdaq Composite +1.18% to 26,477.81 and the Dow +0.03% to 52,377.57 on 27 Oct, with AI-related names leading (Kitco, 21:21 KST report). The 10-year held near 5% (Treasury par 4.99%) and oil stayed around $100–114 intraday. Fed funds futures priced about a 91% chance of no change this week and roughly 73% odds of further tightening by year-end (Kitco, CME-based). Alphabet and Microsoft report 28 Oct. Snapshot: SPY +0.56%, XBI +2.90%, EWY +3.10%.",
-    "kr": "10/27 S&P 500 +0.60%(7,722.60), 나스닥 종합 +1.18%(26,477.81), 다우 +0.03%(52,377.57). AI 관련주가 상승을 주도(Kitco, 21:21 KST 보도). 10년물은 5% 부근(재무부 par 4.99%)에서 정체, 유가는 장중 $100~114대. 연방기금금리 선물은 이번 주 동결 확률 약 91%, 연내 추가 긴축 확률 약 73%를 반영(Kitco 인용). 알파벳·마이크로소프트는 10/28 실적 발표. 스냅샷 기준 SPY +0.56%, XBI +2.90%, EWY +3.10%."
+    "en": "The Fed held at 3.75–4.00% by 10–2; Lisa Cook and Beth Hammack voted for a 25bp hike (Kitco, 28 Oct PM report). Futures put about an 83% chance on a hike at the 8–9 Dec meeting (Kitco). Late-session index levels diverge by outlet: S&P 500 near 7,738 and Nasdaq near 26,479 (Kitco), 7,744.27 and 26,549.85 in an undated screenshot (Eurasia Business News) — neither is a confirmed close. Snapshot EOD: SPY +0.34%, XBI +1.72%, TLT −0.78%. Treasury par 10-year 5.05%. Microsoft reported fiscal Q1 revenue of $92.28bn, Azure +48%, and rose about 4.2% after hours (Eurasia Business News); Alphabet also reported after the close and its reaction was not confirmed.",
+    "kr": "연준은 기준금리 3.75~4.00%를 10대 2로 동결. 리사 쿡과 베스 해맥이 25bp 인상 소수의견(Kitco 10/28 PM 리포트). 12/8~9 회의에서 인상 확률 약 83% 반영(Kitco). 장 마감 무렵 지수 수준은 매체별로 엇갈려 S&P 500 7,738 부근·나스닥 26,479 부근(Kitco), 시점 미표기 스크린샷 기준 7,744.27·26,549.85(Eurasia Business News) — 어느 쪽도 확정 종가 아님. 스냅샷 종가 기준 SPY +0.34%, XBI +1.72%, TLT −0.78%. 재무부 par 10년물 5.05%. 마이크로소프트는 회계 1분기 매출 922.8억 달러, 애저 +48%를 발표하고 시간외 약 4.2% 상승(Eurasia Business News). 알파벳도 장 마감 후 실적을 발표했으나 주가 반응은 확인하지 못함."
    }
   },
   {
@@ -47,8 +47,8 @@
     "kr": "관망 — 익스포저 없음"
    },
    "note": {
-    "en": "Oil near $100–114 and a 10-year near 5% keep the funding premium on HK-listed growth. No fresh HKEX data was gathered today.",
-    "kr": "유가 $100~114대와 5% 부근의 10년물이 홍콩 상장 성장주의 조달 프리미엄을 유지시키는 구간. 오늘은 HKEX 별도 수치를 확인하지 못함."
+    "en": "A 10-year par yield at 5.05% and Brent near $115 keep the funding premium on HK-listed growth. No fresh HKEX data was gathered today.",
+    "kr": "par 10년물 5.05%, Brent $115 부근으로 홍콩 상장 성장주의 조달 프리미엄은 유지되는 구간. 오늘은 HKEX 별도 수치를 확인하지 못함."
    }
   },
   {
@@ -57,12 +57,12 @@
     "kr": "한국 / 코스닥"
    },
    "stance": {
-    "en": "Cash — one session of foreign buying does not make a turn",
-    "kr": "현금 — 하루 외국인 순매수로는 전환 확인 어려움"
+    "en": "Cash — the rally is chip-led and foreigners sold the Kosdaq",
+    "kr": "현금 — 반도체 주도 랠리, 코스닥은 외국인 순매도"
    },
    "note": {
-    "en": "Kosdaq +16.62pt (+2.29%) to 743.83 on 27 Oct; foreigners net bought ₩64.7bn and institutions ₩153.7bn while individuals sold ₩206.2bn (Newspim, 15:57 KST; flows may include NXT). KOSPI +168.87pt (+3.09%) to 5,638.34, with foreigners buying ₩835.9bn, institutions ₩418.5bn and individuals selling ₩1.4046tn (Newspim); Special Times (16:11 KST) shows ₩591bn, ₩282bn and −₩949bn on a different basis. Turnover was ₩15.29tn on KOSPI and ₩5.68tn on Kosdaq (Special Times). Kosdaq remains below the 764.10 of 22 Oct. USD/KRW 1,323.70 at the Seoul close (Newspim). EWY +3.10% in New York overnight.",
-    "kr": "10/27 코스닥 743.83(+16.62p, +2.29%). 외국인 +647억·기관 +1,537억, 개인 −2,062억(뉴스핌 15:57; NXT 포함 집계일 수 있음). 코스피는 5,638.34(+168.87p, +3.09%), 외국인 +8,359억·기관 +4,185억·개인 −1조 4,046억(뉴스핌). 스페셜타임스(16:11)는 집계 기준이 달라 외국인 +5,910억·기관 +2,820억·개인 −9,490억으로 보도. 거래대금은 코스피 15조 2,900억 원, 코스닥 5조 6,800억 원(스페셜타임스). 코스닥은 10/22 종가 764.10을 아직 밑돈다. 서울 외환시장 마감 원/달러 1,323.70원(뉴스핌). 간밤 뉴욕에서 EWY +3.10%."
+    "en": "Kosdaq +27.45pt (+3.69%) to 771.28 on 28 Oct, above the 764.10 of 22 Oct; foreigners net sold ₩185.7bn, institutions bought ₩226.6bn and individuals sold ₩34.5bn (Newspim, 16:02 KST; Seoul Shinmun's 15:30 tally shows −₩184.9bn, +₩224.2bn and −₩31.1bn). KOSPI +374.10pt (+6.63%) to 6,012.44, with foreigners buying ₩1.1485tn, institutions ₩1.1519tn and individuals selling ₩2.2970tn (Newspim). Samsung Electronics rose 9.01% and SK hynix 10.89% after SK hynix reported record Q3 operating profit of ₩83.3tn; a KOSPI200 futures buy sidecar triggered for the second day running, the first back-to-back trigger in 65 trading days (Newspim). USD/KRW 1,337.70 at the Seoul close, weaker won by 14.0. EWY +5.37% in New York on 28 Oct (snapshot).",
+    "kr": "10/28 코스닥 771.28(+27.45p, +3.69%)로 10/22 종가 764.10을 넘어섰다. 외국인 −1,857억·기관 +2,266억·개인 −345억(뉴스핌 16:02; 서울신문 15:30 집계는 −1,849억·+2,242억·−311억). 코스피는 6,012.44(+374.10p, +6.63%), 외국인 +1조 1,485억·기관 +1조 1,519억·개인 −2조 2,970억(뉴스핌). SK하이닉스가 3분기 사상 최대 영업이익 83조 3,338억 원을 내놓은 가운데 삼성전자 +9.01%, SK하이닉스 +10.89%. 코스피200 선물 매수 사이드카가 이틀 연속 발동, 65거래일 만의 연속 발동(뉴스핌). 서울 외환시장 마감 원/달러 1,337.70원, 14.0원 상승(원화 약세). 10/28 뉴욕에서 EWY +5.37%(스냅샷)."
    }
   }
  ],
@@ -76,8 +76,8 @@
    "kr": "닫힘"
   },
   "note": {
-   "en": "Bounce signals appeared — XBI +2.90% in the US snapshot, Kosdaq +2.29% and foreigners buying both boards — but the 10-year is still near 5%, Brent is far above its level three months ago and the Kosdaq index sits below 764 of 22 Oct. One session of buying after a three-day slide does not flip the gate; the FOMC outcome is the next read.",
-   "kr": "반등 신호는 나왔다. 미국 XBI +2.90%, 코스닥 +2.29%, 양 시장 외국인 순매수. 그러나 10년물은 여전히 5% 부근, Brent는 3개월 전보다 크게 높고 코스닥은 10/22 종가 764선 아래다. 급락 뒤 하루 매수세로 게이트가 열리지는 않으며, FOMC 결과가 다음 확인 지점이다."
+   "en": "Signals are mixed: XBI +1.72% in the US snapshot and Kosdaq +3.69% above its 22 Oct close, but foreigners sold the Kosdaq, the 10-year par yield rose to 5.05%, Brent is far above its level three months ago, two Fed members voted for a hike and futures price about 83% odds of one in December. The Korean rally is concentrated in large-cap semiconductors rather than biotech. The gate stays shut until rates ease or foreign money returns to the Kosdaq.",
+   "kr": "신호는 엇갈린다. 미국 XBI +1.72%, 코스닥 +3.69%로 10/22 종가를 넘어섰지만, 코스닥은 외국인 순매도, 10년물 par는 5.05%로 상승, Brent는 3개월 전보다 크게 높고, 연준 위원 2명이 인상을 주장했으며 12월 인상 확률은 약 83%로 반영돼 있다. 국내 랠리는 바이오가 아니라 반도체 대형주에 집중됐다. 금리 안정이나 코스닥 외국인 자금 복귀 전까지 게이트는 닫힘을 유지."
   }
  },
  "read": {
@@ -85,8 +85,8 @@
    "en": "IEUM's read",
    "kr": "IEUM's read"
   },
-  "en": "Seoul got the bounce Wall Street had on Monday: KOSPI rose 3.09% as foreigners bought ₩835.9bn after two days of selling, and Kosdaq recovered 2.29% to 743.83, though that is still below its 22 Oct close. Nothing on the macro side moved: the 10-year is at 4.99% and Brent is above $110, so the 28 Oct FOMC remains a hawkish-pause risk, with futures leaning toward another hike by year-end. The foreign buying is large but one-day, and turnover of ₩5.68tn on Kosdaq is thin for a rebound of this size. Until the Fed tone and a second session of foreign flow confirm, Korean biotech strength reads as a snap-back inside a downtrend, not a regime change.",
-  "kr": "월요일 뉴욕이 먼저 보인 반등이 화요일 서울에도 왔다. 외국인이 이틀 매도 뒤 코스피에서 8,359억 원을 순매수하며 지수는 3.09% 뛰었고, 코스닥도 2.29% 오른 743.83으로 회복했지만 10/22 종가에는 못 미친다. 거시 변수는 달라진 게 없다. 10년물 4.99%, Brent 110달러대로 10/28 FOMC는 여전히 '매파적 동결' 리스크이며, 선물 시장은 연내 추가 인상 쪽으로 기울어 있다. 외국인 순매수 규모는 크지만 하루짜리이고, 코스닥 거래대금 5조 6,800억 원은 이 정도 반등치고는 얇다. 연준 어조와 외국인 수급의 이틀째 확인이 나오기 전까지 국내 바이오 강세는 하락 추세 속 되돌림으로 보는 편이 합리적이다."
+  "en": "Seoul's 6.63% KOSPI surge is a semiconductor event: SK hynix posted record Q3 operating profit, Samsung Electronics and SK hynix rose 9% and 11%, and foreigners and institutions each bought about ₩1.15tn. Kosdaq followed with +3.69% to 771.28, but foreigners were net sellers there, so the biotech-heavy board is rising on domestic institutions rather than on the foreign money that has defined its turns. Macro did not help: the Fed held 10–2 with two dissents for a hike, futures price about 83% odds of a December increase, the 10-year par yield rose to 5.05% and Brent sits near $115. A liquidity-first read puts the Kosdaq bounce inside a rates headwind that has not eased; strength in chips is not yet strength in biotech.",
+  "kr": "코스피 6.63% 급등은 반도체 이벤트다. SK하이닉스가 사상 최대 3분기 영업이익을 발표하자 삼성전자와 SK하이닉스가 각각 9%, 11% 뛰었고, 외국인과 기관이 각각 1조 1,500억 원 안팎을 순매수했다. 코스닥도 3.69% 올라 771.28을 기록했지만 외국인은 순매도였다. 바이오 비중이 큰 코스닥이 외국인이 아닌 국내 기관 매수로 오른 셈이다. 거시 환경은 우호적이지 않다. 연준은 2명의 인상 소수의견 속에 10대 2로 동결했고, 12월 인상 확률은 약 83%로 반영돼 있으며, 10년물 par는 5.05%로 올랐고 Brent는 115달러 부근이다. 유동성 우선 관점에서 코스닥 반등은 아직 풀리지 않은 금리 부담 안에 있다. 반도체 강세가 곧 바이오 강세는 아닌 국면이다."
  },
  "watchlist": [
   {
@@ -100,15 +100,15 @@
     "en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus",
     "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"
    },
-   "last": "₩231,500 (+0.87%)",
+   "last": "₩228,500 (−1.30%)",
    "tag": {
-    "en": "KRX close 27 Oct (Daum Finance); prior close ₩229,500 (−4.18%) on 26 Oct. Foreign ownership: not found",
-    "kr": "10/27 KRX 종가(다음 금융), 전일 10/26 종가 ₩229,500(−4.18%). 외국인 소진율: 미확인"
+    "en": "KRX close 28 Oct (Daum Finance); prior close ₩231,500 (+0.87%) on 27 Oct. Foreign ownership: not found",
+    "kr": "10/28 KRX 종가(다음 금융), 전일 10/27 종가 ₩231,500(+0.87%). 외국인 소진율: 미확인"
    },
-   "level": "₩228,500 (52w low, 26 Oct; Daum KRX series, 129 sessions, unadjusted)",
+   "level": "₩225,500 (intraday low, 28 Oct; Daum KRX series, unadjusted)",
    "status": {
-    "en": "Setup cancelled — held above the 26 Oct low of ₩228,500 and closed +0.87%, but still below ₩254,500 after a three-session slide (₩264,000 on 21 Oct). A new base and 20-day average reclaim with rising foreign ownership are needed; ownership not found.",
-    "kr": "셋업 무효 — 10/26 저가 ₩228,500을 지키며 +0.87% 마감했으나 ₩254,500 하회 상태(10/21 종가 ₩264,000에서 3거래일 하락). 새 바닥과 외국인 비중 증가 동반한 20일선 회복 필요. 소진율 미확인."
+    "en": "Weak — closed −1.30% at ₩228,500, the prior low, with an intraday low of ₩225,500 on a day Kosdaq rose 3.69%. Still below ₩254,500; a new base and a 20-day average reclaim with rising foreign ownership are needed; ownership not found.",
+    "kr": "약세 — 코스닥이 3.69% 오른 날 −1.30% 하락한 ₩228,500 마감, 장중 저가 ₩225,500. ₩254,500 하회 상태. 새 바닥과 외국인 비중 증가를 동반한 20일선 회복 필요. 소진율 미확인."
    }
   },
   {
@@ -122,15 +122,15 @@
     "en": "Halozyme v. MSD patent series; partner royalty velocity; absorption of Alteogen Biologics (merger date 29 Dec)",
     "kr": "Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도, 알테오젠바이오로직스 흡수합병(합병기일 12/29)"
    },
-   "last": "₩218,500 (0.00%)",
+   "last": "₩223,000 (+2.06%)",
    "tag": {
-    "en": "KRX close 27 Oct (Daum Finance), unchanged; range ₩217,000–229,500 on the day. Prior close ₩218,500 (−2.67%) on 26 Oct. Foreign ownership: not found",
-    "kr": "10/27 KRX 종가(다음 금융), 보합. 장중 ₩217,000~229,500. 10/26 종가 ₩218,500(−2.67%). 외국인 소진율: 미확인"
+    "en": "KRX close 28 Oct (Daum Finance); range ₩219,000–228,500 on the day. Prior close ₩218,500 (0.00%) on 27 Oct. Foreign ownership: not found",
+    "kr": "10/28 KRX 종가(다음 금융). 장중 ₩219,000~228,500. 전일 10/27 종가 ₩218,500(보합). 외국인 소진율: 미확인"
    },
    "level": "₩194,671 (52w low, adj., 14 Jul)",
    "status": {
-    "en": "No entry before the 19 Nov Germany appeal hearing. The stock gave back an intraday high of ₩229,500 to close flat while Kosdaq rose 2.29%, a relative-weakness tell.",
-    "kr": "11/19 독일 항소심 전 진입 보류. 장중 ₩229,500까지 올랐다가 보합 마감, 코스닥이 2.29% 오른 날 상대적 약세를 보임."
+    "en": "On hold ahead of the 19 Nov Germany appeal hearing. +2.06% trailed the Kosdaq's +3.69%, a relative-weakness tell.",
+    "kr": "11/19 독일 항소심 전까지 관망. +2.06%는 코스닥 +3.69%에 못 미쳐 상대적 약세."
    }
   },
   {
@@ -144,51 +144,19 @@
     "en": "Foreign net flow × won",
     "kr": "외국인 수급 × 원화"
    },
-   "last": "743.83 (+2.29%)",
+   "last": "771.28 (+3.69%)",
    "tag": {
-    "en": "KRX close 27 Oct (Newspim, 15:57 KST; Special Times 16:11)",
-    "kr": "KRX 종가 10/27 (뉴스핌 15:57, 스페셜타임스 16:11)"
+    "en": "KRX close 28 Oct (Newspim, 16:02 KST; Seoul Shinmun 15:30)",
+    "kr": "KRX 종가 10/28 (뉴스핌 16:02, 서울신문 15:30)"
    },
-   "level": "700",
+   "level": "764.10 (22 Oct close) / 700",
    "status": {
-    "en": "Rebound — 750 not reclaimed; the 22 Oct close of 764.10 is the first resistance, 700 the support",
-    "kr": "반등 — 750선 미회복. 1차 저항은 10/22 종가 764.10, 지지는 700선"
+    "en": "Rebound — the 22 Oct close of 764.10 is reclaimed; foreigners were net sellers, 800 is the next round level, 700 the support",
+    "kr": "반등 — 10/22 종가 764.10 회복. 외국인은 순매도. 다음 심리선은 800, 지지는 700선"
    }
   }
  ],
  "catalysts": [
-  {
-   "date": "2026-10-28",
-   "event": {
-    "en": "FOMC decision (27–28 Oct) — hold vs +25bp",
-    "kr": "FOMC(10/27~28) — 동결 vs +25bp"
-   },
-   "scope": {
-    "en": "All markets",
-    "kr": "전 시장"
-   },
-   "why": {
-    "en": "Hold priced at about 91% (Kitco, CME-based); a hawkish tone would keep the rates nail lit into November",
-    "kr": "동결 확률 약 91% 반영(Kitco, CME 기준). 매파적 어조면 11월까지 금리 지표 점등 지속"
-   },
-   "priority": "HIGH"
-  },
-  {
-   "date": "2026-10-28",
-   "event": {
-    "en": "Alphabet and Microsoft earnings (per Yahoo Finance, 26 Oct)",
-    "kr": "알파벳·마이크로소프트 실적(야후파이낸스 10/26 보도)"
-   },
-   "scope": {
-    "en": "US / Nasdaq",
-    "kr": "미국 / 나스닥"
-   },
-   "why": {
-    "en": "Tests whether the AI rally in the 26 Oct session has earnings support; date per press, not verified on company releases",
-    "kr": "10/26 AI 반등이 실적으로 뒷받침되는지 확인. 일정은 언론 기준이며 기업 공시 대조 전"
-   },
-   "priority": "MEDIUM"
-  },
   {
    "date": "2026-11-19",
    "event": {
@@ -232,7 +200,7 @@
     "kr": "코스닥 / 원화"
    },
    "why": {
-    "en": "Korean liquidity gate; date not verified against a Bank of Korea release (one secondary source points to 26 Nov)",
+    "en": "Korean liquidity gate; date not verified against a Bank of Korea release (secondary sources point to 26 Nov)",
     "kr": "국내 유동성 게이트. 한국은행 공식 일정 미대조(2차 자료는 11/26을 시사)"
    },
    "priority": "MEDIUM"
@@ -248,8 +216,8 @@
     "kr": "전 시장"
    },
    "why": {
-    "en": "Year-end regime call",
-    "kr": "연말 레짐 판단"
+    "en": "Futures price about 83% odds of a hike (Kitco, 28 Oct); year-end regime call. Fed calendar lists 8–9 Dec",
+    "kr": "선물 시장은 인상 확률 약 83% 반영(Kitco 10/28). 연말 레짐 판단. 연준 일정상 12/8~9"
    },
    "priority": "MEDIUM"
   },
@@ -272,27 +240,31 @@
  ],
  "sources": [
   {
-   "label": "Newspim — market close, KOSPI 5,638.34 / Kosdaq 743.83, flows and USD/KRW 1,323.70, 27 Oct 2026 (15:57 KST)",
-   "url": "https://www.newspim.com/news/view/20261027000983"
+   "label": "Newspim — market close, KOSPI 6,012.44 / Kosdaq 771.28, flows and USD/KRW 1,337.70, 28 Oct 2026 (16:02 KST)",
+   "url": "https://www.newspim.com/news/view/20261028001316"
   },
   {
-   "label": "Special Times — KOSPI close, flows and turnover, 27 Oct 2026 (16:11 KST)",
-   "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=478865"
+   "label": "Seoul Shinmun — Kosdaq close 771.28 and flows, 28 Oct 2026 (15:30 tally)",
+   "url": "https://seoul.co.kr/news/economy/securities/2026/10/28/20261028500292"
   },
   {
-   "label": "Seoul Shinmun — Kosdaq close 727.21, 26 Oct 2026 (15:55 KST)",
-   "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/26/20261026500216"
+   "label": "Newspim — KOSPI close 6,012.44, 28 Oct 2026",
+   "url": "https://www.newspim.com/news/view/20261028001405"
   },
   {
-   "label": "Seoul Shinmun — Kosdaq close 764.10, 22 Oct 2026",
+   "label": "Kosdaq close 764.10, 22 Oct 2026 (Seoul Shinmun)",
    "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500245"
   },
   {
-   "label": "Kitco — Wall Street close and Fed expectations, 27 Oct 2026 (21:21 KST)",
-   "url": "https://www.kitco.com/news/article/2026-10-27/gold-climbs-above-4050-wall-street-rallies-ahead-fed-decision-kitco-pm"
+   "label": "Kitco — Fed holds rates, two officials favor hike, 28 Oct 2026 (PM report, 20:51)",
+   "url": "https://www.kitco.com/news/article/2026-10-28/gold-steadies-silver-falls-fed-holds-rates-two-officials-favor-hike-kitco"
   },
   {
-   "label": "US Treasury — daily par yield curve, 27 Oct 2026",
+   "label": "Eurasia Business News — stock market wrap, Fed hold, Microsoft results, 28 Oct 2026",
+   "url": "https://eurasiabusinessnews.com/2026/10/28/stock-market-today-fed-holds-rates-steady-dow-sp-500-and-nasdaq-post-modest-gains/"
+  },
+  {
+   "label": "US Treasury — daily par yield curve, 28 Oct 2026",
    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv"
   },
   {
@@ -300,11 +272,11 @@
    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
   },
   {
-   "label": "Daum Finance — KRX daily closes, PharmaResearch / Alteogen (27 Oct)",
+   "label": "Daum Finance — KRX daily closes, PharmaResearch / Alteogen (28 Oct)",
    "url": "https://finance.daum.net/quotes/A214450"
   },
   {
-   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 28 Oct 08:01 KST)",
+   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 29 Oct 08:06 KST)",
    "url": "https://www.alphavantage.co/"
   }
  ]

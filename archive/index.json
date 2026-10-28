@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-29",
+  "headline": {
+   "en": "KOSPI surges 6.63% to 6,012.44 on SK hynix and Samsung Electronics, Kosdaq +3.69% to 771.28 — above its 22 Oct close — but foreigners sold ₩185.7bn on Kosdaq; the Fed holds 10–2 with two votes for a hike and the 10-year par yield rises to 5.05%. Two of three nails lit, biotech gate still shut.",
+   "kr": "코스피, SK하이닉스·삼성전자 급등에 6.63% 오른 6,012.44 마감. 코스닥은 3.69% 상승한 771.28로 10/22 종가를 넘어섰지만 외국인은 1,857억 원 순매도. 연준은 10대 2로 동결(2명 인상 소수의견), 미 10년물 par 5.05%로 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off (chip-led rally; rates and oil unchanged)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(반도체 주도 랠리, 금리·유가 부담 지속)"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-28",
   "headline": {
    "en": "Kosdaq rebounds 2.29% to 743.83 and KOSPI jumps 3.09% to 5,638.34 as foreigners turn net buyers (₩835.9bn on KOSPI); Wall Street adds 0.6% ahead of today's FOMC. Two of three nails lit, biotech gate still shut.",

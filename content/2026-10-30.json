@@ -18,8 +18,8 @@
    "kr": "LATE CYCLE — 리스크오프 기울기(AI 트레이드 흔들림, 금리·유가 부담 지속)"
   },
   "note": {
-   "en": "Nails: 2 of 3 (US 10Y 4.99% on 27 Oct vs 4.75% on 31 Jul; Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,326.27 on 27 Oct vs 1,428.84 on 4 Aug, below). Data caveat: the newest snapshot is the one of 29 Oct 08:06 KST (no failed fetches); no 30 Oct snapshot was available at writing, so the series end 27 Oct and the EOD quotes (SPY +0.34%, XBI +1.72%, EWY +5.37%) are for 28 Oct — 29 Oct ETF closes were not confirmed. US Treasury par 10-year: 4.98% on 29 Oct (5.05% on 28 Oct; home.treasury.gov). Press on 29 Oct: Brent $115.70 and WTI $102.90, both higher (TradingView/Seeking Alpha wrap, undated). Seoul FX 1,336.30 at 15:33 KST, won stronger by 7.20 (EBN, 15:43 KST). September PCE in line with expectations: headline +0.5% m/m, core +0.3% m/m (same wrap).",
-   "kr": "3대 지표 2/3 점등(10/27 미 10년물 4.99% vs 7/31 4.75%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/27 원/달러 1,326.27원은 8/4 1,428.84원보다 낮음). 데이터 유의: 가장 최근 스냅샷은 10/29 08:06(수집 실패 없음)이며 10/30 스냅샷은 작성 시점에 없어 시계열은 10/27까지, ETF 종가(SPY +0.34%, XBI +1.72%, EWY +5.37%)는 10/28 기준이다. 10/29 ETF 종가는 확인하지 못함. 미 재무부 par 10년물은 10/29 4.98%(10/28 5.05%, home.treasury.gov). 10/29 언론 기준 Brent $115.70, WTI $102.90으로 모두 상승(트레이딩뷰/시킹알파 시황, 시각 미표기). 서울 외환시장 15:33 기준 1,336.30원, 7.20원 하락(원화 강세, EBN 15:43). 9월 PCE는 전망치 부합: 헤드라인 전월比 +0.5%, 근원 +0.3%."
+   "en": "Nails: 2 of 3 (US 10Y 5.05% on 28 Oct vs 4.70% on 3 Aug and Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,341.69 on 28 Oct vs 1,421.09 on 5 Aug, below). The data snapshot of 30 Oct 08:08 KST has no failed fetches; the 10Y and USD/KRW series end 28 Oct, Brent ends 27 Oct, and the EOD quotes are for 29 Oct: SPY −0.38%, XBI +0.18%, EWY −2.46%, TLT +0.62%, UUP −0.07%. US Treasury par 10-year: 4.98% on 29 Oct (5.05% on 28 Oct; home.treasury.gov). Press on 29 Oct: Brent $115.70 and WTI $102.90, both higher (TradingView/Seeking Alpha wrap, undated). Seoul FX 1,336.30 at 15:33 KST, won stronger by 7.20 (EBN, 15:43 KST). September PCE in line with expectations: headline +0.5% m/m, core +0.3% m/m (same wrap).",
+   "kr": "3대 지표 2/3 점등(10/28 미 10년물 5.05% vs 8/3 4.70%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/28 원/달러 1,341.69원은 8/5 1,421.09원보다 낮음). 10/30 08:08 스냅샷에 수집 실패 항목은 없으며 10년물·환율 시계열은 10/28, Brent는 10/27까지, ETF 종가는 10/29 기준: SPY −0.38%, XBI +0.18%, EWY −2.46%, TLT +0.62%, UUP −0.07%. 미 재무부 par 10년물은 10/29 4.98%(10/28 5.05%, home.treasury.gov). 10/29 언론 기준 Brent $115.70, WTI $102.90으로 모두 상승(트레이딩뷰/시킹알파 시황, 시각 미표기). 서울 외환시장 15:33 기준 1,336.30원, 7.20원 하락(원화 강세, EBN 15:43). 9월 PCE는 전망치 부합: 헤드라인 전월比 +0.5%, 근원 +0.3%."
   }
  },
  "posture": [
@@ -33,8 +33,8 @@
     "kr": "방어 — AI 주도 조정, 인상 가능성은 여전"
    },
    "note": {
-    "en": "Nasdaq Composite −1.4%, S&P 500 −0.3% and Dow −0.3% on Thursday as Alphabet fell about 12.5% after a third-quarter miss, on worries over AI spending and negative free cash flow; selling spread to Nebius and CoreWeave (TradingView/Seeking Alpha). Equal-weight S&P 500 and small caps rose. September PCE matched forecasts (core +0.3% m/m). Treasury par 10-year 4.98%, 2-year about 4.66% and 30-year about 5.32% per the same wrap. The 83% December-hike pricing quoted on 28 Oct (Kitco) was not refreshed today. Index levels are given as percentage moves only; closing levels were not confirmed across outlets.",
-    "kr": "목요일 나스닥 −1.4%, S&P 500 −0.3%, 다우 −0.3%. 알파벳이 3분기 실적 부진에 AI 투자 부담과 마이너스 잉여현금흐름이 겹치며 약 12.5% 급락했고, 네비우스·코어위브 등 AI 관련주로 매도가 번졌다(트레이딩뷰/시킹알파). 동일가중 S&P 500과 소형주는 상승. 9월 PCE는 전망 부합(근원 전월比 +0.3%). 같은 시황 기준 10년물 4.98%, 2년물 4.66%, 30년물 5.32%. 10/28 Kitco의 12월 인상 확률 83%는 오늘 갱신하지 못함. 지수 종가 수준은 매체별 차이가 있어 등락률로만 표기."
+    "en": "Nasdaq Composite −1.4%, S&P 500 −0.3% and Dow −0.3% on Thursday as Alphabet fell about 12.5% after a third-quarter miss, on worries over AI spending and negative free cash flow; selling spread to Nebius and CoreWeave (TradingView/Seeking Alpha). Equal-weight S&P 500 and small caps rose. September PCE matched forecasts (core +0.3% m/m). Snapshot EOD: SPY −0.38%, XBI +0.18%, EWY −2.46%. Treasury par 10-year 4.98%, 2-year about 4.66% and 30-year about 5.32% per the same wrap. The 83% December-hike pricing quoted on 28 Oct (Kitco) was not refreshed today. Index levels are given as percentage moves only; closing levels were not confirmed across outlets.",
+    "kr": "목요일 나스닥 −1.4%, S&P 500 −0.3%, 다우 −0.3%. 알파벳이 3분기 실적 부진에 AI 투자 부담과 마이너스 잉여현금흐름이 겹치며 약 12.5% 급락했고, 네비우스·코어위브 등 AI 관련주로 매도가 번졌다(트레이딩뷰/시킹알파). 동일가중 S&P 500과 소형주는 상승. 9월 PCE는 전망 부합(근원 전월比 +0.3%). 스냅샷 종가 SPY −0.38%, XBI +0.18%, EWY −2.46%. 같은 시황 기준 10년물 4.98%, 2년물 4.66%, 30년물 5.32%. 10/28 Kitco의 12월 인상 확률 83%는 오늘 갱신하지 못함. 지수 종가 수준은 매체별 차이가 있어 등락률로만 표기."
    }
   },
   {
@@ -280,7 +280,7 @@
    "url": "https://finance.daum.net/quotes/A214450"
   },
   {
-   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 29 Oct 08:06 KST)",
+   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 30 Oct 08:08 KST)",
    "url": "https://www.alphavantage.co/"
   }
  ]

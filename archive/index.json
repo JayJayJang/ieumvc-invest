@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-10-30",
+  "headline": {
+   "en": "KOSPI gives back 1.24% to 5,937.66 and Kosdaq falls 2.34% to 753.23, below its 22 Oct close, as foreigners sold ₩130.4bn on the Kosdaq; Nasdaq −1.4% on Alphabet's record drop, S&P 500 −0.3%, 10-year par yield eases to 4.98%. Two of three nails lit, biotech gate still shut.",
+   "kr": "코스피, 전날 급등 후 차익매물에 1.24% 내린 5,937.66 마감. 코스닥은 2.34% 하락한 753.23으로 10/22 종가(764.10)를 다시 내줬고 외국인은 1,304억 원 순매도. 뉴욕은 알파벳 급락 여파로 나스닥 −1.4%, S&P 500 −0.3%, 미 10년물 par는 4.98%로 소폭 하락. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off (AI-trade wobble; rates and oil still elevated)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(AI 트레이드 흔들림, 금리·유가 부담 지속)"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-10-29",
   "headline": {
    "en": "KOSPI surges 6.63% to 6,012.44 on SK hynix and Samsung Electronics, Kosdaq +3.69% to 771.28 — above its 22 Oct close — but foreigners sold ₩185.7bn on Kosdaq; the Fed holds 10–2 with two votes for a hike and the 10-year par yield rises to 5.05%. Two of three nails lit, biotech gate still shut.",

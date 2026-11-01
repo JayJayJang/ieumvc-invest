@@ -1,15 +1,11 @@
 {
- "as_of": "2026-10-30T08:08+09:00",
+ "as_of": "2026-11-02T08:00+09:00",
  "source": "Alpha Vantage \u2014 FRED 10Y CMT (daily), FX daily USD/KRW, EIA Brent (daily), end-of-day quotes; fetched by the workflow",
  "series": {
   "ust10y": {
    "label": "US 10Y Treasury yield",
    "unit": "%",
    "points": [
-    {
-     "date": "2025-10-15",
-     "value": 4.05
-    },
     {
      "date": "2025-10-16",
      "value": 3.99
@@ -1045,6 +1041,10 @@
     {
      "date": "2026-10-28",
      "value": 5.05
+    },
+    {
+     "date": "2026-10-29",
+     "value": 4.98
     }
    ]
   },
@@ -1052,14 +1052,6 @@
    "label": "USD/KRW",
    "unit": "KRW",
    "points": [
-    {
-     "date": "2026-06-11",
-     "value": 1515.83
-    },
-    {
-     "date": "2026-06-12",
-     "value": 1517.76
-    },
     {
      "date": "2026-06-15",
      "value": 1513.32
@@ -1451,6 +1443,14 @@
     {
      "date": "2026-10-28",
      "value": 1341.69
+    },
+    {
+     "date": "2026-10-29",
+     "value": 1339.28
+    },
+    {
+     "date": "2026-10-30",
+     "value": 1333.46
     }
    ]
   },
@@ -2505,42 +2505,42 @@
   {
    "symbol": "SPY",
    "name": "S&P 500 (US beta)",
-   "price": 769.36,
-   "change_pct": -0.382,
-   "prev_close": 772.31,
-   "day": "2026-10-29"
+   "price": 755.72,
+   "change_pct": -1.7729,
+   "prev_close": 769.36,
+   "day": "2026-10-30"
   },
   {
    "symbol": "XBI",
    "name": "US biotech (XBI)",
-   "price": 157.79,
-   "change_pct": 0.1778,
-   "prev_close": 157.51,
-   "day": "2026-10-29"
+   "price": 155.98,
+   "change_pct": -1.1471,
+   "prev_close": 157.79,
+   "day": "2026-10-30"
   },
   {
    "symbol": "EWY",
    "name": "Korea (EWY, USD terms)",
-   "price": 161.83,
-   "change_pct": -2.4592,
-   "prev_close": 165.91,
-   "day": "2026-10-29"
+   "price": 152.89,
+   "change_pct": -5.5243,
+   "prev_close": 161.83,
+   "day": "2026-10-30"
   },
   {
    "symbol": "TLT",
    "name": "Long Treasuries",
-   "price": 81.49,
-   "change_pct": 0.6174,
-   "prev_close": 80.99,
-   "day": "2026-10-29"
+   "price": 81.84,
+   "change_pct": 0.4295,
+   "prev_close": 81.49,
+   "day": "2026-10-30"
   },
   {
    "symbol": "UUP",
    "name": "US dollar index",
-   "price": 29.04,
-   "change_pct": -0.0688,
-   "prev_close": 29.06,
-   "day": "2026-10-29"
+   "price": 29.0,
+   "change_pct": -0.1377,
+   "prev_close": 29.04,
+   "day": "2026-10-30"
   }
  ]
 }

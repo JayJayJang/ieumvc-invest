@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-02",
+  "headline": {
+   "en": "KOSPI plunges 3.48% to 5,730.74 and Kosdaq 3.83% to 724.38 as foreigners sold ₩1.61tn of KOSPI; Wall Street had its worst day since June (S&P 500 −1.8%, Nasdaq −2.9%) on Intel's 29% drop, and the 10-year par yield eased to 4.94%. Two of three nails lit, biotech gate shut.",
+   "kr": "코스피, 외국인 1조 6,149억 원 순매도 속에 3.48% 급락한 5,730.74 마감. 코스닥도 3.83% 내린 724.38. 뉴욕은 인텔 29% 폭락 여파로 6월 이후 최악의 하루(S&P 500 −1.8%, 나스닥 −2.9%)를 보냈고, 미 10년물 par는 4.94%로 하락. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off (AI-capex doubts; oil and rates still elevated)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(AI 투자 회의론, 유가·금리 부담 지속)"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-10-30",
   "headline": {
    "en": "KOSPI gives back 1.24% to 5,937.66 and Kosdaq falls 2.34% to 753.23, below its 22 Oct close, as foreigners sold ₩130.4bn on the Kosdaq; Nasdaq −1.4% on Alphabet's record drop, S&P 500 −0.3%, 10-year par yield eases to 4.98%. Two of three nails lit, biotech gate still shut.",

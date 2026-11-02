@@ -18,8 +18,8 @@
    "kr": "LATE CYCLE — 리스크오프 기울기(AI 투자 회의론 지속, 미·이란 대화 기대로 유가는 진정, 금리 부담 여전)"
   },
   "note": {
-   "en": "Nails: 2 of 3, unchanged from the 2 Nov snapshot (US 10Y 4.98% on 29 Oct vs 4.63% on 4 Aug and Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,333.46 on 30 Oct vs 1,407.48 on 7 Aug, below). No fresh data snapshot for 3 Nov was available at writing; the latest (2 Nov 08:00 KST) has no failed fetches but is one day old, its series ending 29 Oct (10Y), 27 Oct (Brent), 30 Oct (USD/KRW and ETF closes). US Treasury par 10-year: 4.91% on 2 Nov (4.94% on 30 Oct), 2-year 4.59%, 30-year 5.28% (home.treasury.gov). Seoul FX closed at 1,343.8 on 2 Nov, up ₩9.5, the weakest won in about two weeks (Betanews/Nate News flash, 2 Nov). Brent/WTI settlements for 2 Nov: not found; Reuters reported oil falling and energy shares down about 4% on US-Iran peace hopes (Investing.com, updated 2 Nov 16:42).",
-   "kr": "3대 지표 2/3 점등, 11/2 스냅샷과 동일(10/29 미 10년물 4.98% vs 8/4 4.63%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/30 원/달러 1,333.46원은 8/7 1,407.48원보다 낮음). 작성 시점에 11/3자 스냅샷은 없었고, 최신본(11/2 08:00)은 수집 실패 항목은 없으나 하루 지난 자료로 10년물은 10/29, Brent는 10/27, 환율·ETF는 10/30까지. 미 재무부 par 10년물은 11/2 4.91%(10/30 4.94%), 2년물 4.59%, 30년물 5.28%(home.treasury.gov). 11/2 서울 외환시장 마감 1,343.8원으로 9.5원 올라 약 2주 만의 원화 약세(베타뉴스·네이트뉴스 속보). 11/2 Brent·WTI 정산가는 미확인. 로이터는 미·이란 평화 협상 기대로 유가가 하락하고 에너지주가 4% 안팎 내렸다고 전함(인베스팅닷컴, 11/2 16:42 갱신)."
+   "en": "Nails: 2 of 3 (US 10Y 4.94% on 30 Oct vs 4.63% on 5 Aug and Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,333.46 on 30 Oct vs 1,407.48 on 7 Aug, below). The data snapshot of 3 Nov 08:09 KST has no failed fetches; series end 30 Oct (10Y, USD/KRW) and 27 Oct (Brent); EOD quotes are for 2 Nov: SPY −0.47%, XBI −2.52%, EWY −0.75%, TLT +0.28%. US Treasury par 10-year: 4.91% on 2 Nov (4.94% on 30 Oct), 2-year 4.59%, 30-year 5.28% (home.treasury.gov). Seoul FX closed at 1,343.8 on 2 Nov, up ₩9.5, the weakest won in about two weeks (Betanews/Nate News flash, 2 Nov). Brent/WTI settlements for 2 Nov: not found; Reuters reported oil falling and energy shares down about 4% on US-Iran peace hopes (Investing.com, updated 2 Nov 16:42).",
+   "kr": "3대 지표 2/3 점등(10/30 미 10년물 4.94% vs 8/5 4.63%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/30 원/달러 1,333.46원은 8/7 1,407.48원보다 낮음). 11/3 08:09 스냅샷에 수집 실패 항목은 없으며 10년물·환율은 10/30, Brent는 10/27까지, ETF 종가는 11/2 기준: SPY −0.47%, XBI −2.52%, EWY −0.75%, TLT +0.28%. 미 재무부 par 10년물은 11/2 4.91%(10/30 4.94%), 2년물 4.59%, 30년물 5.28%(home.treasury.gov). 11/2 서울 외환시장 마감 1,343.8원으로 9.5원 올라 약 2주 만의 원화 약세(베타뉴스·네이트뉴스 속보). 11/2 Brent·WTI 정산가는 미확인. 로이터는 미·이란 평화 협상 기대로 유가가 하락하고 에너지주가 4% 안팎 내렸다고 전함(인베스팅닷컴, 11/2 16:42 갱신)."
   }
  },
  "posture": [
@@ -292,7 +292,7 @@
    "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
   },
   {
-   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 2 Nov 08:00 KST)",
+   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 3 Nov 08:09 KST)",
    "url": "https://www.alphavantage.co/"
   }
  ]

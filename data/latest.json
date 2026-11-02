@@ -1,15 +1,11 @@
 {
- "as_of": "2026-11-02T08:00+09:00",
+ "as_of": "2026-11-03T08:09+09:00",
  "source": "Alpha Vantage \u2014 FRED 10Y CMT (daily), FX daily USD/KRW, EIA Brent (daily), end-of-day quotes; fetched by the workflow",
  "series": {
   "ust10y": {
    "label": "US 10Y Treasury yield",
    "unit": "%",
    "points": [
-    {
-     "date": "2025-10-16",
-     "value": 3.99
-    },
     {
      "date": "2025-10-17",
      "value": 4.02
@@ -1045,6 +1041,10 @@
     {
      "date": "2026-10-29",
      "value": 4.98
+    },
+    {
+     "date": "2026-10-30",
+     "value": 4.94
     }
    ]
   },
@@ -2505,42 +2505,42 @@
   {
    "symbol": "SPY",
    "name": "S&P 500 (US beta)",
-   "price": 755.72,
-   "change_pct": -1.7729,
-   "prev_close": 769.36,
-   "day": "2026-10-30"
+   "price": 752.15,
+   "change_pct": -0.4724,
+   "prev_close": 755.72,
+   "day": "2026-11-02"
   },
   {
    "symbol": "XBI",
    "name": "US biotech (XBI)",
-   "price": 155.98,
-   "change_pct": -1.1471,
-   "prev_close": 157.79,
-   "day": "2026-10-30"
+   "price": 152.05,
+   "change_pct": -2.5196,
+   "prev_close": 155.98,
+   "day": "2026-11-02"
   },
   {
    "symbol": "EWY",
    "name": "Korea (EWY, USD terms)",
-   "price": 152.89,
-   "change_pct": -5.5243,
-   "prev_close": 161.83,
-   "day": "2026-10-30"
+   "price": 151.74,
+   "change_pct": -0.7522,
+   "prev_close": 152.89,
+   "day": "2026-11-02"
   },
   {
    "symbol": "TLT",
    "name": "Long Treasuries",
-   "price": 81.84,
-   "change_pct": 0.4295,
-   "prev_close": 81.49,
-   "day": "2026-10-30"
+   "price": 81.73,
+   "change_pct": 0.2849,
+   "prev_close": 81.4978,
+   "day": "2026-11-02"
   },
   {
    "symbol": "UUP",
    "name": "US dollar index",
-   "price": 29.0,
-   "change_pct": -0.1377,
-   "prev_close": 29.04,
-   "day": "2026-10-30"
+   "price": 28.975,
+   "change_pct": -0.0862,
+   "prev_close": 29.0,
+   "day": "2026-11-02"
   }
  ]
 }

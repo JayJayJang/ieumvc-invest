@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-04",
+  "headline": {
+   "en": "KOSPI plunges 3.59% to 5,648.79 and Kosdaq 4.08% to 704.39 as foreigners sold ₩1.53tn on the main board and individuals bought the dip; Wall Street ended mixed on midterm day (S&P 500 +0.36%, Nasdaq +0.83%, Dow −0.38%) and the 10-year par yield rose to 4.95%. Two of three nails lit, biotech gate shut.",
+   "kr": "코스피 3.59% 급락한 5,648.79, 코스닥 4.08% 급락한 704.39 마감. 외국인이 코스피에서 1조 5,299억 원을 순매도했고 개인이 저가 매수로 받아냈다. 뉴욕은 중간선거일 혼조(S&P 500 +0.36%, 나스닥 +0.83%, 다우 −0.38%)였고 미 10년물 par는 4.95%로 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "LATE CYCLE — tilting risk-off (Korean selloff led by foreigners; 10-year par yield back near 5%; oil still elevated)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(외국인 주도의 국내 증시 급락, 미 10년물 par 5% 근접 재상승, 유가 고수준 지속)"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-03",
   "headline": {
    "en": "KOSPI rebounds 2.24% to 5,859.08 and Kosdaq 1.38% to 734.36 on ₩1.22tn of institutional buying, though foreigners still sold; on Wall Street the Nasdaq fell 1.07% while oil slid on US-Iran peace hopes, and the 10-year par yield eased to 4.91%. Two of three nails lit, biotech gate shut.",

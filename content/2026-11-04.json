@@ -1,0 +1,299 @@
+{
+ "date": "2026-11-04",
+ "as_of": {
+  "en": "4 Nov 2026, 08:30 KST · US close 3 Nov · KRX close 3 Nov (4 Nov session not yet open)",
+  "kr": "2026년 11월 4일 08:30 KST · 미국 11/3 종가 · 국내 11/3 종가 기준(11/4 장 개장 전)"
+ },
+ "headline": {
+  "en": "KOSPI plunges 3.59% to 5,648.79 and Kosdaq 4.08% to 704.39 as foreigners sold ₩1.53tn on the main board and individuals bought the dip; Wall Street ended mixed on midterm day (S&P 500 +0.36%, Nasdaq +0.83%, Dow −0.38%) and the 10-year par yield rose to 4.95%. Two of three nails lit, biotech gate shut.",
+  "kr": "코스피 3.59% 급락한 5,648.79, 코스닥 4.08% 급락한 704.39 마감. 외국인이 코스피에서 1조 5,299억 원을 순매도했고 개인이 저가 매수로 받아냈다. 뉴욕은 중간선거일 혼조(S&P 500 +0.36%, 나스닥 +0.83%, 다우 −0.38%)였고 미 10년물 par는 4.95%로 상승. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+ },
+ "regime": {
+  "label": {
+   "en": "Regime",
+   "kr": "레짐"
+  },
+  "value": {
+   "en": "LATE CYCLE — tilting risk-off (Korean selloff led by foreigners; 10-year par yield back near 5%; oil still elevated)",
+   "kr": "LATE CYCLE — 리스크오프 기울기(외국인 주도의 국내 증시 급락, 미 10년물 par 5% 근접 재상승, 유가 고수준 지속)"
+  },
+  "note": {
+   "en": "Nails: 2 of 3 (US 10Y 4.94% on 30 Oct vs 4.63% on 5 Aug and Brent $123.10 on 27 Oct vs $88.90 on 3 Aug — both above their level ~60 sessions earlier; USD/KRW 1,333.46 on 30 Oct vs 1,407.48 on 7 Aug, below). The data snapshot (3 Nov 08:09 KST) has no failed fetches and is under 2 days old, but the 4 Nov run had not landed at writing: series end 30 Oct (10Y, USD/KRW) and 27 Oct (Brent); EOD quotes are for 2 Nov (SPY −0.47%, XBI −2.52%, EWY −0.75%, TLT +0.28%). US Treasury par 10-year: 4.95% on 3 Nov (4.91% on 2 Nov), 2-year 4.61%, 30-year 5.32% (home.treasury.gov). Seoul FX closed at 1,341.0 on 3 Nov, down ₩2.8 (Betanews, 3 Nov). Brent/WTI settlements for 3 Nov: not found; Investing.com's 3 Nov report cited Brent at $104.32, an in-session figure, not a settlement.",
+   "kr": "3대 지표 2/3 점등(10/30 미 10년물 4.94% vs 8/5 4.63%, 10/27 Brent $123.10 vs 8/3 $88.90 — 모두 약 60거래일 전보다 높고, 10/30 원/달러 1,333.46원은 8/7 1,407.48원보다 낮음). 11/3 08:09 스냅샷에는 수집 실패 항목이 없고 2일 이내 자료이나, 작성 시점에 11/4 수집분은 반영 전: 10년물·환율은 10/30, Brent는 10/27까지, ETF 종가는 11/2 기준(SPY −0.47%, XBI −2.52%, EWY −0.75%, TLT +0.28%). 미 재무부 par 10년물은 11/3 4.95%(11/2 4.91%), 2년물 4.61%, 30년물 5.32%(home.treasury.gov). 11/3 서울 외환시장 마감 1,341.0원으로 2.8원 내림(베타뉴스, 11/3). 11/3 Brent·WTI 정산가는 미확인. 인베스팅닷컴 11/3 기사의 Brent $104.32는 장중 수치로 정산가가 아님."
+  }
+ },
+ "posture": [
+  {
+   "market": {
+    "en": "US / Nasdaq",
+    "kr": "미국 / 나스닥"
+   },
+   "stance": {
+    "en": "Defensive — chips bounce, rates back near 5%",
+    "kr": "방어 — 반도체 반등에도 금리는 5% 근접"
+   },
+   "note": {
+    "en": "Tuesday: S&P 500 +0.3% to 7,567.72, Nasdaq Composite +0.8% to 25,372.01, Dow −0.4% to 51,786.15 (Investing.com, updated 3 Nov 16:11 ET; other outlets show S&P 7,568.92 / Dow 51,786.72, so decimals differ by source). Chips rose for the first time in five sessions; Apple fell nearly 2% after guiding gross margin to 45–46% against 46.9% expected on memory costs. US midterm results are due after the close; the same report cites Iranian officials calling the US reply to their proposal 'not convincing'. Treasury par 10-year 4.95%.",
+    "kr": "화요일 S&P 500 +0.3% 7,567.72, 나스닥 +0.8% 25,372.01, 다우 −0.4% 51,786.15(인베스팅닷컴, 미 동부 11/3 16:11 갱신. 타 매체는 S&P 7,568.92·다우 51,786.72로 소수점 차이). 반도체가 5거래일 만에 반등. 애플은 메모리 비용을 이유로 매출총이익률 가이던스를 45~46%(시장 기대 46.9%)로 제시해 2% 가까이 하락. 중간선거 결과는 장 마감 후 발표 예정이며, 같은 기사는 이란 측이 미국의 답변이 '설득력이 없다'고 밝혔다고 전함. par 10년물 4.95%."
+   }
+  },
+  {
+   "market": {
+    "en": "Hong Kong / HKEX",
+    "kr": "홍콩 / HKEX"
+   },
+   "stance": {
+    "en": "Out — no exposure",
+    "kr": "관망 — 익스포저 없음"
+   },
+   "note": {
+    "en": "A 10-year par yield near 4.95% and a Korean/Asian risk-off tape keep the funding premium on HK-listed growth. No fresh HKEX data was gathered today.",
+    "kr": "par 10년물 4.95% 안팎과 국내·아시아 위험회피 분위기로 홍콩 상장 성장주의 조달 프리미엄은 유지. 오늘은 HKEX 별도 수치를 확인하지 못함."
+   }
+  },
+  {
+   "market": {
+    "en": "Korea / Kosdaq",
+    "kr": "한국 / 코스닥"
+   },
+   "stance": {
+    "en": "Cash — breakdown, foreigners and institutions both sold",
+    "kr": "현금 — 지지선 이탈, 외국인·기관 동반 매도"
+   },
+   "note": {
+    "en": "Kosdaq −29.97pt (−4.08%) to 704.39 on 3 Nov, 59.7pt under the 764.10 of 22 Oct and a whisker above 700; institutions −₩234.6bn, foreigners −₩74.9bn, individuals +₩319.9bn. KOSPI −210.29pt (−3.59%) to 5,648.79; foreigners −₩1,529.9bn, institutions −₩514.7bn, individuals +₩1,664.4bn; Samsung Electronics −4.15%, SK hynix −5.03% (Businesskorea, 3 Nov 16:58 KST). USD/KRW closed at 1,341.0 (−2.8), cushioned by lower oil and dollar.",
+    "kr": "11/3 코스닥 704.39(−29.97p, −4.08%)로 10/22 종가 764.10보다 59.7p 낮고 700선 바로 위. 기관 −2,346억, 외국인 −749억, 개인 +3,199억. 코스피 5,648.79(−210.29p, −3.59%), 외국인 −1조 5,299억·기관 −5,147억·개인 +1조 6,644억, 삼성전자 −4.15%·SK하이닉스 −5.03%(비즈니스코리아, 11/3 16:58 KST). 원/달러 마감 1,341.0원(−2.8원), 유가·달러 약세가 상승폭을 제한."
+   }
+  }
+ ],
+ "biotech_gate": {
+  "label": {
+   "en": "Biotech sector gate",
+   "kr": "바이오 섹터 게이트"
+  },
+  "value": {
+   "en": "CLOSED",
+   "kr": "닫힘"
+  },
+  "note": {
+   "en": "Signals worsened: the Kosdaq fell 4.08% to 704.39, within 5 points of 700, with both foreigners (−₩74.9bn) and institutions (−₩234.6bn) selling, while 10-year par yield rose to 4.95%. USD/KRW held at 1,341.0 and chip-led US strength was not enough to offset. The gate stays shut until foreign money returns to the Kosdaq and rates ease.",
+   "kr": "신호는 악화됐다. 코스닥은 4.08% 급락해 700선 코앞인 704.39에 마감했고 외국인(−749억)과 기관(−2,346억)이 동반 매도, 미 10년물 par는 4.95%로 올랐다. 원/달러는 1,341.0원에 머물렀으나 미 반도체 반등만으로는 상쇄되지 않았다. 코스닥에 외국인 자금이 돌아오고 금리가 안정될 때까지 게이트는 닫힘 유지."
+  }
+ },
+ "read": {
+  "label": {
+   "en": "IEUM's read",
+   "kr": "IEUM's read"
+  },
+  "en": "Tuesday was a foreign-led flush, and the Kosdaq paid more than the KOSPI. KOSPI fell 3.59% to 5,648.79 with foreigners selling ₩1.53tn and individuals absorbing ₩1.66tn; the Kosdaq dropped 4.08% to 704.39, now 60 points under its 22 Oct close, with institutions as well as foreigners on the sell side. That undoes Monday's institutional bounce within a session. New York offered no rescue: the Nasdaq rose 0.83% as chips rebounded, but the 10-year par yield climbed to 4.95%, near the 5% line that has capped risk appetite, and Apple's margin warning on memory costs shows the AI hardware chain is not uniformly strong. The won barely moved (1,341.0), so this was equity de-risking rather than currency stress. With midterm results due after the US close and Iran headlines still driving oil, the next test is whether 700 on the Kosdaq holds on lighter selling; until then, the liquidity read stays defensive.",
+  "kr": "화요일은 외국인이 주도한 투매였고, 타격은 코스피보다 코스닥이 컸다. 코스피는 외국인이 1조 5,300억 원을 팔며 3.59% 내린 5,648.79로 마감했고 개인이 1조 6,600억 원을 받아냈다. 코스닥은 4.08% 급락한 704.39로 10/22 종가보다 60p 낮아졌으며 외국인뿐 아니라 기관도 매도에 가담했다. 월요일 기관 주도의 반등이 하루 만에 되돌려진 셈이다. 뉴욕도 구원투수가 되지 못했다. 반도체 반등에 나스닥은 0.83% 올랐지만 10년물 par는 4.95%로 올라 위험선호의 상단으로 작용해 온 5%선에 근접했고, 애플이 메모리 비용을 이유로 마진 가이던스를 낮춘 점은 AI 하드웨어 밸류체인이 일률적으로 강하지 않음을 보여 준다. 원/달러는 1,341.0원으로 거의 움직이지 않아 환율 위기라기보다 주식 비중 축소 성격이 짙다. 미 장 마감 후 중간선거 결과가 나오고 이란 관련 소식이 유가를 좌우하는 가운데, 코스닥 700선이 약한 매도에서 지켜지는지가 다음 시험대다. 그때까지 유동성 판단은 방어적이다."
+ },
+ "watchlist": [
+  {
+   "name": "PharmaResearch (214450)",
+   "name_kr": "파마리서치 (214450)",
+   "archetype": {
+    "en": "Commercial-stage compounder",
+    "kr": "상업화 단계 컴파운더"
+   },
+   "driver": {
+    "en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus",
+    "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"
+   },
+   "last": "₩220,000 (−1.12%)",
+   "tag": {
+    "en": "KRX close 3 Nov (Daum Finance); prior close ₩222,500 on 2 Nov. Range ₩216,000–223,000. Foreign ownership: not found",
+    "kr": "11/3 KRX 종가(다음 금융), 전 거래일(11/2) 종가 ₩222,500. 장중 ₩216,000~223,000. 외국인 소진율: 미확인"
+   },
+   "level": "₩208,000 (intraday low, 30 Oct; Daum KRX series, unadjusted)",
+   "status": {
+    "en": "Held up — −1.12% to ₩220,000 against the Kosdaq's −4.08%, a wide relative-strength gap; stays above the 30 Oct low. Foreign ownership (not found) is the missing confirmation.",
+    "kr": "선방 — 코스닥 −4.08% 속에서 −1.12%로 ₩220,000 마감, 상대 강세 폭이 큼. 10/30 저점 위 유지. 외국인 비중(미확인) 확인이 관건."
+   }
+  },
+  {
+   "name": "Alteogen (196170)",
+   "name_kr": "알테오젠 (196170)",
+   "archetype": {
+    "en": "Platform / royalty",
+    "kr": "플랫폼 / 로열티"
+   },
+   "driver": {
+    "en": "Halozyme v. MSD patent series; partner royalty velocity; absorption of Alteogen Biologics (merger date 29 Dec)",
+    "kr": "Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도, 알테오젠바이오로직스 흡수합병(합병기일 12/29)"
+   },
+   "last": "₩213,500 (+0.23%)",
+   "tag": {
+    "en": "KRX close 3 Nov (Daum Finance); range ₩209,500–220,500. Prior close ₩213,000 on 2 Nov. Foreign ownership: not found",
+    "kr": "11/3 KRX 종가(다음 금융). 장중 ₩209,500~220,500. 전 거래일(11/2) 종가 ₩213,000. 외국인 소진율: 미확인"
+   },
+   "level": "₩194,671 (52w low, adj., 14 Jul)",
+   "status": {
+    "en": "On hold ahead of the 19 Nov Germany appeal hearing. +0.23% while the Kosdaq fell 4.08% shows relative resilience, but the intraday range (₩209,500–220,500) was wide. The 52-week low of ₩194,671 (adjusted, 14 Jul) is about 9% below the close.",
+    "kr": "11/19 독일 항소심 전까지 관망. 코스닥 −4.08% 속 +0.23%로 상대적 강세이나 장중 변동폭(₩209,500~220,500)은 컸다. 52주 저점 ₩194,671(수정주가, 7/14)은 종가보다 약 9% 아래."
+   }
+  },
+  {
+   "name": "KOSDAQ index",
+   "name_kr": "코스닥 지수",
+   "archetype": {
+    "en": "Index",
+    "kr": "지수"
+   },
+   "driver": {
+    "en": "Foreign net flow × won",
+    "kr": "외국인 수급 × 원화"
+   },
+   "last": "704.39 (−4.08%)",
+   "tag": {
+    "en": "KRX close 3 Nov (Businesskorea, 16:58 KST; Kosdaq −29.97pt)",
+    "kr": "KRX 종가 11/3 (비즈니스코리아 16:58 KST, −29.97p)"
+   },
+   "level": "700 / 764.10 (22 Oct close)",
+   "status": {
+    "en": "Breakdown — 59.7pt below the 22 Oct close of 764.10 and 4pt above 700; foreigners and institutions both selling. 700 is the immediate support, 734.36 (2 Nov close) the first resistance",
+    "kr": "붕괴 — 10/22 종가 764.10보다 59.7p 아래, 700선까지 4p. 외국인·기관 동반 매도. 700선이 즉각 지지, 11/2 종가 734.36이 첫 저항"
+   }
+  }
+ ],
+ "catalysts": [
+  {
+   "date": "2026-11-04",
+   "event": {
+    "en": "US midterm election results; AMD results after the 3 Nov close",
+    "kr": "미 중간선거 결과 발표; AMD 실적(11/3 장 마감 후)"
+   },
+   "scope": {
+    "en": "US / Nasdaq",
+    "kr": "미국 / 나스닥"
+   },
+   "why": {
+    "en": "Policy and AI-chip sentiment; results not yet known at writing; AMD figures not verified",
+    "kr": "정책 불확실성과 AI 반도체 투자심리. 작성 시점에 결과 미확정, AMD 수치 미확인"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-11-19",
+   "event": {
+    "en": "Halozyme v. MSD — Germany appeal hearing",
+    "kr": "Halozyme–MSD 독일 항소심"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Adverse ruling re-rates the platform royalty thesis",
+    "kr": "불리한 판결 시 플랫폼 로열티 논리 재평가"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "TBC (TradingView lists 18 Nov)",
+   "event": {
+    "en": "PharmaResearch 3Q26 results (DART)",
+    "kr": "파마리서치 3Q26 실적 (DART)"
+   },
+   "scope": {
+    "en": "PharmaResearch",
+    "kr": "파마리서치"
+   },
+   "why": {
+    "en": "Operating margin trend is the price driver; date from TradingView only, not yet on DART",
+    "kr": "영업이익률 추세가 가격 결정 변수. 일정은 트레이딩뷰 기준이며 DART 공시 대조 전"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "TBC (late Nov)",
+   "event": {
+    "en": "Bank of Korea rate decision",
+    "kr": "한국은행 금통위"
+   },
+   "scope": {
+    "en": "Kosdaq / KRW",
+    "kr": "코스닥 / 원화"
+   },
+   "why": {
+    "en": "Korean liquidity gate; Bank of Korea held at 3.00% on 22 Oct per press; November date not verified against a Bank of Korea release (secondary sources point to 26 Nov)",
+    "kr": "국내 유동성 게이트. 한국은행은 10/22 금리를 3.00%로 동결(언론 보도). 11월 회의 일정은 한은 공식 일정 미대조(2차 자료는 11/26을 시사)"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-09",
+   "event": {
+    "en": "FOMC decision — last of 2026",
+    "kr": "FOMC — 2026년 마지막 회의"
+   },
+   "scope": {
+    "en": "All markets",
+    "kr": "전 시장"
+   },
+   "why": {
+    "en": "Futures priced about 83% odds of a hike on 28 Oct (Kitco; not refreshed); year-end regime call. Fed calendar lists 8–9 Dec",
+    "kr": "선물 시장은 10/28 기준 인상 확률 약 83% 반영(Kitco, 미갱신). 연말 레짐 판단. 연준 일정상 12/8~9"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-29",
+   "event": {
+    "en": "Alteogen–Alteogen Biologics merger effective date (per company decision of 6 Oct, as reported by JobPost)",
+    "kr": "알테오젠–알테오젠바이오로직스 합병기일(10/6 이사회 결정, 잡포스트 보도)"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Corporate-structure change; dated per press, not yet checked against the DART filing",
+    "kr": "지배구조 변화 이벤트. 일정은 언론 기준이며 DART 공시 대조 전"
+   },
+   "priority": "LOW"
+  }
+ ],
+ "sources": [
+  {
+   "label": "Businesskorea — KOSPI −3.59%, Kosdaq −4.08%, investor flows, 3 Nov 2026 (16:58 KST)",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280364"
+  },
+  {
+   "label": "Nate News flash — KOSPI 5,648 close, 3 Nov 2026",
+   "url": "https://m.news.nate.com/view/20261103n26813"
+  },
+  {
+   "label": "Betanews — USD/KRW 1,341 close, 3 Nov 2026",
+   "url": "https://www.betanews.net/article/view/beta202611030146"
+  },
+  {
+   "label": "Daum Finance — KRX daily closes, PharmaResearch / Alteogen (3 Nov)",
+   "url": "https://finance.daum.net/quotes/A214450"
+  },
+  {
+   "label": "Investing.com — Wall Street close 3 Nov 2026 (updated 16:11 ET)",
+   "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-apple-dips-after-mixed-earnings-4993314"
+  },
+  {
+   "label": "MarketScreener — Wall Street closes mixed ahead of midterm results, 3 Nov 2026",
+   "url": "https://www.marketscreener.com/news/wall-street-closes-mixed-ahead-of-midterm-election-results-ce785fdedc8bf021"
+  },
+  {
+   "label": "US Treasury — daily par yield curve, 3 Nov 2026",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv"
+  },
+  {
+   "label": "Kosdaq close 764.10, 22 Oct 2026 (Seoul Shinmun)",
+   "url": "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500245"
+  },
+  {
+   "label": "Federal Reserve — 2026 FOMC meeting calendar",
+   "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+  },
+  {
+   "label": "Alpha Vantage — FRED 10Y CMT, EIA Brent, FX daily, EOD quotes (snapshot 3 Nov 08:09 KST)",
+   "url": "https://www.alphavantage.co/"
+  }
+ ]
+}

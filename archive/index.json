@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-05",
+  "headline": {
+   "en": "Wall Street surged on midterm clarity (Dow +3.03% to 53,357.19, S&P 500 +1.6% to 7,689.58, Nasdaq +1.4% to 25,736.51) and the 10-year par yield eased to 4.90%; KOSPI closed +0.62% at 5,683.80 and Kosdaq +1.50% at 714.95 after a 400-point intraday swing, foreigners selling ₩2.51tn on the main board. Two of three nails lit, biotech gate still shut.",
+   "kr": "뉴욕증시는 중간선거 불확실성 해소에 급등(다우 +3.03% 53,357.19, S&P 500 +1.6% 7,689.58, 나스닥 +1.4% 25,736.51)했고 미 10년물 par는 4.90%로 하락. 코스피는 장중 400포인트 넘는 출렁임 끝에 0.62% 오른 5,683.80, 코스닥은 1.50% 오른 714.95에 마감했다. 외국인은 코스피에서 2조 5,117억 원 순매도. 3대 악재 2개 점등, 바이오 게이트는 닫힘 유지."
+  },
+  "regime": {
+   "en": "LATE CYCLE — risk-off tilt easing (US relief rally and a Kosdaq bounce, but foreigners still sellers in Korea; 10-year par yield 4.90%; oil volatile)",
+   "kr": "LATE CYCLE — 리스크오프 기울기 완화(미국 안도 랠리와 코스닥 반등, 다만 국내에서는 외국인 매도 지속, 10년물 par 4.90%, 유가 변동성 큼)"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-04",
   "headline": {
    "en": "KOSPI plunges 3.59% to 5,648.79 and Kosdaq 4.08% to 704.39 as foreigners sold ₩1.53tn on the main board and individuals bought the dip; Wall Street ended mixed on midterm day (S&P 500 +0.36%, Nasdaq +0.83%, Dow −0.38%) and the 10-year par yield rose to 4.95%. Two of three nails lit, biotech gate shut.",

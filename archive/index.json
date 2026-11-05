@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-06",
+  "headline": {
+   "en": "AI-trade rout on both sides of the Pacific: S&P 500 −4.35% to 7,353.79, Dow −3.44% to 51,523.06, Nasdaq −5.5% into correction; KOSPI −5.28% to 5,383.80 (sell-side sidecar) and Kosdaq −5.11% to 678.41, foreigners selling ₩3.39tn on the main board. Two of three nails lit, biotech gate shut.",
+   "kr": "AI 트레이드 붕괴, 태평양 양안 동반 급락: S&P 500 −4.35% 7,353.79, 다우 −3.44% 51,523.06, 나스닥 약 −5.5%로 조정권 진입. 코스피는 매도 사이드카 속에 5.28% 내린 5,383.80, 코스닥은 5.11% 내린 678.41에 마감했고 외국인은 코스피에서 3조 3,928억 원 순매도. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION — liquidity shock (equity drawdown with VIX near 27–28; 10-year par yield 4.84%; foreign selling accelerating in Korea)",
+   "kr": "RISK-OFF CONTRACTION — 유동성 충격(VIX 27~28대 급등, 10년물 par 4.84%, 국내 외국인 매도 가속)"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-05",
   "headline": {
    "en": "Wall Street surged on midterm clarity (Dow +3.03% to 53,357.19, S&P 500 +1.6% to 7,689.58, Nasdaq +1.4% to 25,736.51) and the 10-year par yield eased to 4.90%; KOSPI closed +0.62% at 5,683.80 and Kosdaq +1.50% at 714.95 after a 400-point intraday swing, foreigners selling ₩2.51tn on the main board. Two of three nails lit, biotech gate still shut.",

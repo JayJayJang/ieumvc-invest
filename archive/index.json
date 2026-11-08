@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-09",
+  "headline": {
+   "en": "Friday: Wall Street steadied (S&P 500 +0.31% to 7,376.86, Nasdaq +1.09%) but Seoul absorbed the delayed AI rout — KOSPI −6.02% to 5,059.69 (−11.7% on the week), Kosdaq −5.03% to 644.27, foreigners selling ₩2.77tn on the KOSPI. Two of three nails lit, biotech gate shut.",
+   "kr": "금요일 월가는 진정(S&P 500 +0.31% 7,376.86, 나스닥 +1.09%)됐지만 국내 증시는 AI 급락 여파를 뒤늦게 반영했다. 코스피는 6.02% 내린 5,059.69(주간 −11.7%), 코스닥은 5.03% 내린 644.27에 마감했고 외국인은 코스피에서 2조 7,700억 원가량 순매도. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION — liquidity shock persists (VIX 25.64 after 28; 10-year par yield 4.86%; strong payrolls raise Fed-hike risk; won weaker at 1,356.6)",
+   "kr": "RISK-OFF CONTRACTION — 유동성 충격 지속(VIX 25.64로 진정세지만 여전히 높음, 10년물 par 4.86%, 고용 호조로 연준 인상 경계, 원/달러 1,356.6원으로 약세)"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-11-06",
   "headline": {
    "en": "AI-trade rout on both sides of the Pacific: S&P 500 −4.35% to 7,353.79, Dow −3.44% to 51,523.06, Nasdaq −5.5% into correction; KOSPI −5.28% to 5,383.80 (sell-side sidecar) and Kosdaq −5.11% to 678.41, foreigners selling ₩3.39tn on the main board. Two of three nails lit, biotech gate shut.",

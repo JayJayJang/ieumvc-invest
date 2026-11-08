@@ -1,15 +1,11 @@
 {
- "as_of": "2026-11-06T08:12+09:00",
+ "as_of": "2026-11-09T08:03+09:00",
  "source": "Alpha Vantage \u2014 FRED 10Y CMT (daily), FX daily USD/KRW, EIA Brent (daily), end-of-day quotes; fetched by the workflow",
  "series": {
   "ust10y": {
    "label": "US 10Y Treasury yield",
    "unit": "%",
    "points": [
-    {
-     "date": "2025-10-22",
-     "value": 3.97
-    },
     {
      "date": "2025-10-23",
      "value": 4.01
@@ -1045,6 +1041,10 @@
     {
      "date": "2026-11-04",
      "value": 4.9
+    },
+    {
+     "date": "2026-11-05",
+     "value": 4.84
     }
    ]
   },
@@ -1052,10 +1052,6 @@
    "label": "USD/KRW",
    "unit": "KRW",
    "points": [
-    {
-     "date": "2026-06-19",
-     "value": 1529.91
-    },
     {
      "date": "2026-06-22",
      "value": 1538.0
@@ -1451,6 +1447,10 @@
     {
      "date": "2026-11-05",
      "value": 1357.9
+    },
+    {
+     "date": "2026-11-06",
+     "value": 1363.64
     }
    ]
   },
@@ -2505,42 +2505,42 @@
   {
    "symbol": "SPY",
    "name": "S&P 500 (US beta)",
-   "price": 734.06,
-   "change_pct": -4.2709,
-   "prev_close": 766.81,
-   "day": "2026-11-05"
+   "price": 735.29,
+   "change_pct": 0.3124,
+   "prev_close": 733.0,
+   "day": "2026-11-06"
   },
   {
    "symbol": "XBI",
    "name": "US biotech (XBI)",
-   "price": 148.58,
-   "change_pct": -6.6122,
-   "prev_close": 159.1,
-   "day": "2026-11-05"
+   "price": 152.21,
+   "change_pct": 2.5674,
+   "prev_close": 148.4,
+   "day": "2026-11-06"
   },
   {
    "symbol": "EWY",
    "name": "Korea (EWY, USD terms)",
-   "price": 134.127,
-   "change_pct": -11.8282,
-   "prev_close": 152.12,
-   "day": "2026-11-05"
+   "price": 137.01,
+   "change_pct": 4.0714,
+   "prev_close": 131.65,
+   "day": "2026-11-06"
   },
   {
    "symbol": "TLT",
    "name": "Long Treasuries",
-   "price": 81.965,
-   "change_pct": 0.2507,
-   "prev_close": 81.76,
-   "day": "2026-11-05"
+   "price": 81.92,
+   "change_pct": -0.0122,
+   "prev_close": 81.93,
+   "day": "2026-11-06"
   },
   {
    "symbol": "UUP",
    "name": "US dollar index",
-   "price": 28.9335,
-   "change_pct": 0.1159,
-   "prev_close": 28.9,
-   "day": "2026-11-05"
+   "price": 29.13,
+   "change_pct": 0.7261,
+   "prev_close": 28.92,
+   "day": "2026-11-06"
   }
  ]
 }

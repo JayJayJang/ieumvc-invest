@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-10",
+  "headline": {
+   "en": "Monday: Wall Street rebounded hard (S&P 500 +2.34% to 7,549.79, Nasdaq +2.65%, Brent −4.9% to $93.50) but Seoul did not follow — KOSPI −0.81% to 5,018.85 with foreigners selling a seventh straight day (−₩693bn), Kosdaq −0.82% to 638.97, and Alteogen −16.01% on a US drug-pricing rule. Two of three nails lit, biotech gate shut.",
+   "kr": "월요일 월가는 강하게 반등(S&P 500 +2.34% 7,549.79, 나스닥 +2.65%, Brent −4.9% $93.50)했지만 국내 증시는 따라가지 못했다. 코스피는 0.81% 내린 5,018.85로 외국인이 7거래일 연속 6,930억 원을 순매도했고, 코스닥은 0.82% 내린 638.97. 알테오젠은 미국 약가협상 규정 여파로 16.01% 급락. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, stabilising — US rebound and falling oil, but ~80% odds of a December Fed hike, 10-year par 4.88% and persistent KOSPI foreign selling keep liquidity tight; won firmer at 1,347.1",
+   "kr": "RISK-OFF CONTRACTION(안정화 시도) — 미국 반등·유가 하락에도 12월 연준 인상 확률 약 80%, 10년물 par 4.88%, 코스피 외국인 매도 지속으로 유동성은 여전히 빡빡. 원/달러는 1,347.1원으로 강세"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-09",
   "headline": {
    "en": "Friday: Wall Street steadied (S&P 500 +0.31% to 7,376.86, Nasdaq +1.09%) but Seoul absorbed the delayed AI rout — KOSPI −6.02% to 5,059.69 (−11.7% on the week), Kosdaq −5.03% to 644.27, foreigners selling ₩2.77tn on the KOSPI. Two of three nails lit, biotech gate shut.",

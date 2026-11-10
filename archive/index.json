@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-11",
+  "headline": {
+   "en": "Seoul snapped back on Tuesday — KOSPI +4.39% to 5,239.13 with foreigners buying for the first time in eight sessions, Kosdaq +4.48% to 667.61 — but a hot October CPI then pushed the US 10-year par yield to 4.98% and the 2-year up 17bp, S&P 500 −0.38%, and Waller opened the door to a 50bp December hike. Two of three nails lit, biotech gate shut.",
+   "kr": "화요일 국내 증시는 급반등했다. 코스피는 4.39% 오른 5,239.13으로 외국인이 8거래일 만에 순매수로 돌아섰고, 코스닥은 4.48% 오른 667.61. 그러나 이어진 미국 장에서 10월 CPI가 예상을 웃돌며 10년물 par 금리는 4.98%, 2년물은 17bp 뛰었고 S&P 500은 0.38% 하락. 월러 이사는 12월 50bp 인상 가능성까지 열어뒀다. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, relief rally inside it — Korea bounced on short-covering and bargain buying, but a hot CPI lifted the 10-year par to 4.98% and put a 50bp December hike on the table; oil (Brent $91.49) and the won (1,337.5) are the only easing inputs",
+   "kr": "RISK-OFF CONTRACTION(국면 내 기술적 반등) — 국내는 저가매수·숏커버로 반등했지만 CPI 상회로 미 10년물 par는 4.98%까지 올랐고 12월 50bp 인상론까지 부상. 유가(Brent $91.49)와 원화(1,337.5원)만이 완화 요인"
+  },
+  "nails": 2
+ },
+ {
   "date": "2026-11-10",
   "headline": {
    "en": "Monday: Wall Street rebounded hard (S&P 500 +2.34% to 7,549.79, Nasdaq +2.65%, Brent −4.9% to $93.50) but Seoul did not follow — KOSPI −0.81% to 5,018.85 with foreigners selling a seventh straight day (−₩693bn), Kosdaq −0.82% to 638.97, and Alteogen −16.01% on a US drug-pricing rule. Two of three nails lit, biotech gate shut.",

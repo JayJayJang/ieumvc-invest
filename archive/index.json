@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-12",
+  "headline": {
+   "en": "Seoul extended the bounce on Wednesday — KOSPI +2.60% to 5,375.36 on ₩658.7bn of foreign buying, Kosdaq +5.62% to 705.10, back above 700 for the first time in five sessions — and New York followed with S&P 500 +1.31% on CoreWeave. But CME now prices about a 90% chance of a December hike, and foreigners still sold the Kosdaq. Two of three nails lit, biotech gate shut.",
+   "kr": "수요일 국내 증시는 반등을 이어갔다. 코스피는 외국인 6,587억 원 순매수에 2.60% 오른 5,375.36, 코스닥은 5.62% 급등한 705.10으로 5거래일 만에 700선을 되찾았다. 뉴욕도 코어위브 효과에 S&P 500이 1.31% 올랐다. 다만 CME 기준 12월 인상 확률은 약 90%까지 올라섰고, 코스닥에서 외국인은 여전히 매도 우위. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, relief rally broadening — equities in Seoul and New York rallied two days running, but a December Fed hike is now ~90% priced, the 10-year par sits at 4.98% and Brent firmed back to $92.76; only the won (1,333.6) is clearly easing",
+   "kr": "RISK-OFF CONTRACTION(반등 확산 국면) — 서울·뉴욕 증시는 이틀 연속 올랐지만 12월 연준 인상 확률은 약 90%, 미 10년물 par는 4.98%, Brent는 $92.76로 다시 올라섰다. 뚜렷한 완화 요인은 원화(1,333.6원)뿐"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-11",
   "headline": {
    "en": "Seoul snapped back on Tuesday — KOSPI +4.39% to 5,239.13 with foreigners buying for the first time in eight sessions, Kosdaq +4.48% to 667.61 — but a hot October CPI then pushed the US 10-year par yield to 4.98% and the 2-year up 17bp, S&P 500 −0.38%, and Waller opened the door to a 50bp December hike. Two of three nails lit, biotech gate shut.",

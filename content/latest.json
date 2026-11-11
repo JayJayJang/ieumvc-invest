@@ -1,12 +1,12 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "as_of": {
-  "en": "11 Nov 2026, 08:30 KST · US close 10 Nov · KRX close 10 Nov (11 Nov session not yet open)",
-  "kr": "2026년 11월 11일 08:30 KST · 미국 11/10 종가 · 국내 11/10 종가 기준(11/11 장 개장 전)"
+  "en": "12 Nov 2026, 08:30 KST · US close 11 Nov · KRX close 11 Nov (12 Nov session not yet open)",
+  "kr": "2026년 11월 12일 08:30 KST · 미국 11/11 종가 · 국내 11/11 종가 기준(11/12 장 개장 전)"
  },
  "headline": {
-  "en": "Seoul snapped back on Tuesday — KOSPI +4.39% to 5,239.13 with foreigners buying for the first time in eight sessions, Kosdaq +4.48% to 667.61 — but a hot October CPI then pushed the US 10-year par yield to 4.98% and the 2-year up 17bp, S&P 500 −0.38%, and Waller opened the door to a 50bp December hike. Two of three nails lit, biotech gate shut.",
-  "kr": "화요일 국내 증시는 급반등했다. 코스피는 4.39% 오른 5,239.13으로 외국인이 8거래일 만에 순매수로 돌아섰고, 코스닥은 4.48% 오른 667.61. 그러나 이어진 미국 장에서 10월 CPI가 예상을 웃돌며 10년물 par 금리는 4.98%, 2년물은 17bp 뛰었고 S&P 500은 0.38% 하락. 월러 이사는 12월 50bp 인상 가능성까지 열어뒀다. 3대 악재 2개 점등, 바이오 게이트 닫힘."
+  "en": "Seoul extended the bounce on Wednesday — KOSPI +2.60% to 5,375.36 on ₩658.7bn of foreign buying, Kosdaq +5.62% to 705.10, back above 700 for the first time in five sessions — and New York followed with S&P 500 +1.31% on CoreWeave. But CME now prices about a 90% chance of a December hike, and foreigners still sold the Kosdaq. Two of three nails lit, biotech gate shut.",
+  "kr": "수요일 국내 증시는 반등을 이어갔다. 코스피는 외국인 6,587억 원 순매수에 2.60% 오른 5,375.36, 코스닥은 5.62% 급등한 705.10으로 5거래일 만에 700선을 되찾았다. 뉴욕도 코어위브 효과에 S&P 500이 1.31% 올랐다. 다만 CME 기준 12월 인상 확률은 약 90%까지 올라섰고, 코스닥에서 외국인은 여전히 매도 우위. 3대 악재 2개 점등, 바이오 게이트 닫힘."
  },
  "regime": {
   "label": {
@@ -14,12 +14,12 @@
    "kr": "레짐"
   },
   "value": {
-   "en": "RISK-OFF CONTRACTION, relief rally inside it — Korea bounced on short-covering and bargain buying, but a hot CPI lifted the 10-year par to 4.98% and put a 50bp December hike on the table; oil (Brent $91.49) and the won (1,337.5) are the only easing inputs",
-   "kr": "RISK-OFF CONTRACTION(국면 내 기술적 반등) — 국내는 저가매수·숏커버로 반등했지만 CPI 상회로 미 10년물 par는 4.98%까지 올랐고 12월 50bp 인상론까지 부상. 유가(Brent $91.49)와 원화(1,337.5원)만이 완화 요인"
+   "en": "RISK-OFF CONTRACTION, relief rally broadening — equities in Seoul and New York rallied two days running, but a December Fed hike is now ~90% priced, the 10-year par sits at 4.98% and Brent firmed back to $92.76; only the won (1,333.6) is clearly easing",
+   "kr": "RISK-OFF CONTRACTION(반등 확산 국면) — 서울·뉴욕 증시는 이틀 연속 올랐지만 12월 연준 인상 확률은 약 90%, 미 10년물 par는 4.98%, Brent는 $92.76로 다시 올라섰다. 뚜렷한 완화 요인은 원화(1,333.6원)뿐"
   },
   "note": {
-   "en": "Nails: 2 of 3 (US 10Y 4.88% on 9 Nov vs 4.63% on 13 Aug and Brent $107.03 on 3 Nov vs $92.74 on 10 Aug — both above their level ~60 sessions earlier; USD/KRW 1,340.20 on 9 Nov vs 1,415.48 on 17 Aug, below). The data snapshot (11 Nov 08:09 KST) has no failed fetches and is under 2 days old, but series lag: 10Y and USD/KRW end 9 Nov, Brent 3 Nov (stale). The Brent nail rests on that stale point — on the 10 Nov settlement of $91.49 (CNBC) Brent would sit below its 10 Aug level and the count would be 1 of 3. EOD quotes are 10 Nov: SPY $750.02 (−0.35%), XBI $155.03 (−1.19%), EWY $139.215 (−2.03%), TLT $80.88 (−1.32%), UUP $29.145 (+0.60%). US Treasury par yields 10 Nov: 10-year 4.98% (4.88% on 9 Nov), 2-year 4.73% (4.56%), 30-year 5.35% (home.treasury.gov). Seoul FX day-session close 1,337.5, down ₩9.6 (Newspim, 10 Nov 16:03 KST).",
-   "kr": "3대 지표 2/3 점등(11/9 미 10년물 4.88% vs 8/13 4.63%, 11/3 Brent $107.03 vs 8/10 $92.74 — 모두 약 60거래일 전보다 높고, 11/9 원/달러 1,340.20원은 8/17 1,415.48원보다 낮음). 11/11 08:09 스냅샷에는 수집 실패 항목이 없고 2일 이내 자료이나 시계열 종료일이 제각각: 10년물·환율 11/9, Brent 11/3(지연). Brent 점등은 이 지연된 값에 근거한 것으로, 11/10 정산가 $91.49(CNBC) 기준이면 8/10 수준을 밑돌아 1/3이 된다. ETF 종가는 11/10 기준 SPY $750.02(−0.35%), XBI $155.03(−1.19%), EWY $139.215(−2.03%), TLT $80.88(−1.32%), UUP $29.145(+0.60%). 미 재무부 par 11/10: 10년물 4.98%(11/9 4.88%), 2년물 4.73%(4.56%), 30년물 5.35%(home.treasury.gov). 11/10 서울 외환시장 주간 마감 1,337.5원, 9.6원 하락(뉴스핌 16:03 KST)."
+   "en": "Nails: 2 of 3 (US 10Y 4.88% on 9 Nov vs 4.63% on 13 Aug and Brent $107.03 on 3 Nov vs $92.74 on 10 Aug — both above their level ~60 sessions earlier; USD/KRW 1,340.20 on 9 Nov vs 1,415.48 on 17 Aug, below). The 12 Nov 07:30 KST workflow run had not committed a snapshot when this brief was written, so the count uses the 11 Nov 08:09 KST snapshot: no failed fetches and under 2 days old, but series lag (10Y and USD/KRW end 9 Nov, Brent 3 Nov). On the 11 Nov Brent settlement of $92.76 (Seeking Alpha, 4:47 PM ET) the oil nail is only marginally lit ($0.02 above 10 Aug), so the count is 2 of 3 either way. The US bond market was closed on 11 Nov for Veterans Day, so the latest Treasury par yields remain 10 Nov: 10-year 4.98%, 2-year 4.73%, 30-year 5.35% (home.treasury.gov). EOD ETF quotes in the snapshot are 10 Nov (SPY $750.02, XBI $155.03, EWY $139.215, TLT $80.88, UUP $29.145); 11 Nov ETF closes were not confirmed. Seoul FX day-session close 1,333.6, down ₩3.9 (Seoul Finance, 11 Nov).",
+   "kr": "3대 지표 2/3 점등(11/9 미 10년물 4.88% vs 8/13 4.63%, 11/3 Brent $107.03 vs 8/10 $92.74 — 모두 약 60거래일 전보다 높고, 11/9 원/달러 1,340.20원은 8/17 1,415.48원보다 낮음). 작성 시점까지 11/12 07:30 워크플로 스냅샷이 커밋되지 않아 11/11 08:09 스냅샷 기준으로 산출. 수집 실패 항목은 없고 2일 이내 자료이나 시계열이 지연됨(10년물·환율 11/9, Brent 11/3). 11/11 Brent 정산가 $92.76(Seeking Alpha, 미 동부 16:47) 기준으로도 8/10보다 $0.02 높아 간신히 점등, 결과는 어느 쪽이든 2/3. 11/11은 재향군인의 날로 미 채권시장이 휴장해 최신 par 금리는 11/10 기준 10년물 4.98%, 2년물 4.73%, 30년물 5.35%(home.treasury.gov). 스냅샷의 ETF 종가는 11/10 기준(SPY $750.02, XBI $155.03, EWY $139.215, TLT $80.88, UUP $29.145)이며 11/11 ETF 종가는 미확인. 11/11 서울 외환시장 주간 마감 1,333.6원, 3.9원 하락(서울파이낸스)."
   }
  },
  "posture": [
@@ -29,12 +29,12 @@
     "kr": "미국 / 나스닥"
    },
    "stance": {
-    "en": "Defensive — hot CPI reprices the front end; Nvidia results 17 Nov",
-    "kr": "방어적 — CPI 상회로 단기물 재가격, 11/17 엔비디아 실적 대기"
+    "en": "Defensive — AI rebound, but a December hike is now the base case; Nvidia results 17 Nov",
+    "kr": "방어적 — AI주 반등에도 12월 인상이 기본 시나리오로, 11/17 엔비디아 실적 대기"
    },
    "note": {
-    "en": "Tuesday: S&P 500 −0.38% to 7,520.93, Dow −157.86pt (−0.30%) to 52,231.89, Nasdaq Composite −0.74% to 25,065.87 (CNBC, 10 Nov). October CPI +0.4% m/m headline and +0.3% core, both above consensus; no 12-month rate was published because October 2025 data were never collected. Waller said a 50bp December hike should be considered on that core pace; Logan sees two more quarter-point hikes; CME odds of a half-point move rose to about 13.6% from near zero (as reported). 10-year par 4.98%, 2-year 4.73%; the 10-year auction cleared at 5.020%. Nvidia −5.53% to $168.80; VIX 19.63 (Avalon Capital Research, 10 Nov). Brent settled −1.17% at $91.49, WTI −0.93% at $86.04 on Iran de-escalation (CNBC).",
-    "kr": "화요일 S&P 500 −0.38% 7,520.93, 다우 −157.86p(−0.30%) 52,231.89, 나스닥 종합 −0.74% 25,065.87(CNBC 11/10). 10월 CPI는 전월비 헤드라인 +0.4%, 근원 +0.3%로 모두 예상 상회. 2025년 10월 자료 미수집으로 전년비는 발표되지 않음. 월러 이사는 근원 물가가 이 속도면 12월 50bp 인상도 검토해야 한다고 했고, 로건 총재는 25bp 두 차례 추가 인상 필요성을 언급. CME 기준 50bp 인상 확률은 0% 부근에서 약 13.6%로 상승(보도 기준). 10년물 par 4.98%, 2년물 4.73%, 10년물 입찰은 5.020%에 낙찰. 엔비디아 −5.53% $168.80, VIX 19.63(Avalon Capital Research 11/10). 이란 긴장 완화로 Brent는 1.17% 내린 $91.49, WTI는 0.93% 내린 $86.04에 정산(CNBC)."
+    "en": "Wednesday: S&P 500 +1.31% to 7,619.38, Dow +254.60pt (+0.49%) to 52,486.49, Nasdaq Composite +1.60% to 25,466.19 (CNBC, updated 4:22 PM EST, 11 Nov). CoreWeave rallied nearly 25% after a third-quarter revenue beat and raised 2026 guidance; Nvidia +2.9% after falling nearly 10% earlier in the week. The bond market was shut for Veterans Day, so there was no Treasury read on the CPI reaction. Goolsbee called the October CPI report \"borderline disturbing\"; after Waller's remarks in London, CME FedWatch odds of a December quarter-point hike rose to about 90% (CNBC). Brent settled +$1.27 at $92.76, WTI $86.53 (Seeking Alpha, 4:47 PM ET).",
+    "kr": "수요일 S&P 500 +1.31% 7,619.38, 다우 +254.60p(+0.49%) 52,486.49, 나스닥 종합 +1.60% 25,466.19(CNBC 11/11 미 동부 16:22 기준). 코어위브는 3분기 매출 서프라이즈와 2026년 가이던스 상향에 25% 가까이 급등했고, 엔비디아는 주초 10% 가까운 낙폭 이후 2.9% 반등. 재향군인의 날로 채권시장이 휴장해 CPI에 대한 금리 반응은 확인되지 않았다. 굴스비 총재는 10월 CPI를 \"우려스러운 수준에 가깝다\"고 평가했고, 런던에서 나온 월러 이사 발언 이후 CME 페드워치 기준 12월 25bp 인상 확률은 약 90%로 높아졌다(CNBC). Brent는 $1.27 오른 $92.76, WTI는 $86.53에 정산(Seeking Alpha, 미 동부 16:47)."
    }
   },
   {
@@ -47,8 +47,8 @@
     "kr": "관망 — 익스포저 없음"
    },
    "note": {
-    "en": "No fresh HKEX data was gathered today. A firmer dollar (UUP +0.60%) and a 50bp-hike tail after CPI are the wrong mix for HK-listed growth and biotech names, which depend on dollar liquidity through the HKD peg.",
-    "kr": "오늘은 HKEX 별도 수치를 확인하지 못함. CPI 이후 달러 강세(UUP +0.60%)와 50bp 인상 꼬리위험은 홍콩달러 페그를 통해 달러 유동성에 묶인 홍콩 상장 성장주·바이오에 불리한 조합."
+    "en": "No fresh HKEX data was gathered today. A December Fed hike priced at about 90% keeps dollar liquidity tight for HK-listed growth and biotech names, which import US rates through the HKD peg; the AI-led rebound in New York does not change that funding backdrop.",
+    "kr": "오늘은 HKEX 별도 수치를 확인하지 못함. 12월 연준 인상 확률이 약 90%에 이르면서 홍콩달러 페그로 미 금리를 그대로 들여오는 홍콩 상장 성장주·바이오의 달러 유동성 여건은 여전히 빡빡하다. 뉴욕의 AI주 주도 반등이 이 자금 여건을 바꾸지는 못한다."
    }
   },
   {
@@ -57,12 +57,12 @@
     "kr": "한국 / 코스닥"
    },
    "stance": {
-    "en": "Cash — relief bounce, but foreigners still sold the Kosdaq",
-    "kr": "현금 — 기술적 반등이나 코스닥 외국인은 여전히 매도"
+    "en": "Cash — 700 reclaimed on institutional buying; foreign confirmation still missing",
+    "kr": "현금 — 기관 매수로 700선 회복, 외국인 확인은 아직"
    },
    "note": {
-    "en": "Kosdaq +28.64pt (+4.48%) to 667.61 on 10 Nov; investors: institutions +₩221.9bn, foreigners −₩127.3bn, individuals −₩89.8bn. KOSPI +220.28pt (+4.39%) to 5,239.13 (high 5,300.92), the first gain since 4 Nov after a near-12% three-day fall; foreigners +₩632.7bn, institutions +₩745.4bn, individuals −₩1.83tn (Newspim, 10 Nov 16:03 KST; Joongang Economy News at 16:05 shows foreigners +₩396.5bn, so the provisional split varies by outlet). Buy-side sidecars triggered in both markets; Samsung Electronics +4.74% to ₩198,900, SK hynix +6.69% to ₩1,212,000; Samsung Biologics −2.78%, Celltrion −3.33%. VKOSPI −8.98% to 58.19. USD/KRW day-session close 1,337.5 (−9.6). EWY then fell 2.03% in New York after CPI.",
-    "kr": "11/10 코스닥은 667.61(+28.64p, +4.48%). 투자자별: 기관 +2,219억·외국인 −1,273억·개인 −898억 원. 코스피는 5,239.13(+220.28p, +4.39%, 장중 고점 5,300.92)으로 3거래일 약 12% 급락 뒤 11/4 이후 첫 상승 마감. 외국인 +6,327억·기관 +7,454억·개인 −1조 8,289억 원(뉴스핌 11/10 16:03 KST, 중앙이코노미뉴스 16:05 기준 외국인 +3,965억 원으로 잠정치는 매체별 상이). 양 시장 모두 장 초반 매수 사이드카 발동. 삼성전자 +4.74% ₩198,900, SK하이닉스 +6.69% ₩1,212,000, 삼성바이오로직스 −2.78%, 셀트리온 −3.33%. VKOSPI −8.98% 58.19. 원/달러 주간 마감 1,337.5원(−9.6원). 이후 뉴욕에서 EWY는 CPI 여파로 2.03% 하락."
+    "en": "Kosdaq +37.49pt (+5.62%) to 705.10 on 11 Nov, back above 700 for the first time in five sessions, with a buy sidecar for a second straight day. Investors (KRX data via Daum Finance): institutions +₩313.0bn, foreigners −₩135.4bn, individuals −₩183.8bn; Financial News (18:30 KST) shows institutions +₩406.3bn and foreigners −₩225.1bn, so the split varies by outlet but foreigners were sellers in both. Press tied part of the move to talk of a Kosdaq support package; the FSS called a rumoured 13 Nov announcement \"completely untrue\" (Financial News). KOSPI +136.23pt (+2.60%) to 5,375.36; foreigners +₩658.7bn, individuals −₩715.6bn, institutions −₩481.6bn (MediaPen, 11 Nov 16:16 KST). SK hynix +5.36%, Samsung Electronics +3.57%; Samsung Biologics −2.59%. USD/KRW day-session close 1,333.6 (−3.9), the lowest close since 27 Oct (Etoday).",
+    "kr": "11/11 코스닥은 705.10(+37.49p, +5.62%)으로 5거래일 만에 700선을 되찾았고, 이틀 연속 매수 사이드카가 발동됐다. 투자자별(다음 금융 KRX 자료): 기관 +3,130억·외국인 −1,354억·개인 −1,838억 원. 파이낸셜뉴스(18:30 KST)는 기관 +4,063억·외국인 −2,251억 원으로 집계해 매체별 수치는 다르지만 외국인 매도 우위는 공통. 코스닥 부양책 기대가 일부 반영됐다는 분석이 나왔으나, 금감원은 13일 발표설에 대해 \"전혀 사실이 아니다\"라고 일축(파이낸셜뉴스). 코스피는 5,375.36(+136.23p, +2.60%), 외국인 +6,587억·개인 −7,156억·기관 −4,816억 원(미디어펜 11/11 16:16 KST). SK하이닉스 +5.36%, 삼성전자 +3.57%, 삼성바이오로직스 −2.59%. 원/달러 주간 마감 1,333.6원(−3.9원)으로 10/27 이후 최저 종가(이투데이)."
    }
   }
  ],
@@ -76,8 +76,8 @@
    "kr": "닫힘"
   },
   "note": {
-   "en": "The bounce did not change the signals. The Kosdaq closed at 667.61, still 32pt under 700, and foreigners sold ₩127.3bn of it even on a +4.48% day; large-cap bio lagged (Samsung Biologics −2.78%, Celltrion −3.33%, pharma sector −1.84% per Joongang Economy News). Alteogen recovered only a quarter of Monday's fall. In the US, XBI fell 1.19% after CPI and a 50bp December hike is now being discussed — the opposite of the rate relief biotech needs. The gate stays shut until the Kosdaq reclaims 700 with foreign buying.",
-   "kr": "반등에도 신호는 바뀌지 않았다. 코스닥은 667.61로 700선까지 아직 32p 남았고, 4.48% 오른 날에도 외국인은 1,273억 원을 팔았다. 대형 바이오도 소외됐다(삼성바이오로직스 −2.78%, 셀트리온 −3.33%, 의약품 업종 −1.84%, 중앙이코노미뉴스). 알테오젠은 전일 낙폭의 4분의 1가량만 되찾았다. 미국에서도 CPI 이후 XBI가 1.19% 내렸고 12월 50bp 인상론이 거론되기 시작해, 바이오에 필요한 금리 완화와는 반대 방향이다. 코스닥이 외국인 순매수와 함께 700선을 회복할 때까지 게이트는 닫힘 유지."
+   "en": "Half the reopening test was met. The Kosdaq closed at 705.10, above 700, but foreigners sold ₩135.4bn of it (Daum Finance) — the reclaim was institution-built, with support-package talk in the background that the FSS has denied. Large-cap bio lagged again (Samsung Biologics −2.59%); Alteogen's +4.08% came with foreign buying. In the US, the 11 Nov XBI close was not confirmed, and a December hike priced at about 90% is the opposite of the rate relief biotech needs. The gate reopens only when 700 holds with foreigners buying.",
+   "kr": "재개 조건의 절반만 충족됐다. 코스닥은 705.10으로 700선 위에서 마감했지만 외국인은 1,354억 원을 팔았다(다음 금융). 700선 회복은 기관이 만든 것이고, 그 배경에는 금감원이 부인한 부양책 기대가 깔려 있다. 대형 바이오는 이번에도 소외됐고(삼성바이오로직스 −2.59%), 알테오젠의 +4.08%는 외국인 매수를 동반했다. 미국 쪽은 11/11 XBI 종가를 확인하지 못했고, 약 90%까지 반영된 12월 인상은 바이오에 필요한 금리 완화와 정반대다. 외국인 매수 속에 700선이 지켜질 때 게이트를 다시 연다."
   }
  },
  "read": {
@@ -85,8 +85,8 @@
    "en": "IEUM's read",
    "kr": "IEUM's read"
   },
-  "en": "Tuesday's Seoul rally was real in size but thin in kind: KOSPI +4.39% and Kosdaq +4.48% after a near-12% three-day fall, with sidecars on the open, VKOSPI still at 58 and individuals selling ₩1.83tn into it. Foreigners came back to the KOSPI for the first time in eight sessions — the first constructive flow print in weeks — but they kept selling the Kosdaq, which is where the liquidity test for biotech sits. Then New York moved the goalposts. October core CPI ran 0.3% again, the 2-year jumped 17bp to 4.73%, the 10-year par reached 4.98% with an auction at 5.02%, and Waller put a 50bp December hike on the table. That is a tighter dollar-liquidity setup than Monday's, and EWY's −2.03% says Seoul opens with some of the bounce at risk. Oil (Brent $91.49) and the won (1,337.5) are easing, and on a live Brent print one nail would already be out — the regime turn, if it comes, will start there, not in equities. On the watchlist, PharmaResearch rose 5.51% to ₩249,000, its third straight up day, while foreign ownership slipped to 16.46%; Alteogen recovered 4.69% to ₩176,300 with foreigners net buyers and ownership up to 16.45%, still far below Monday's ₩200,500 gap. Until the Kosdaq reclaims 700 with foreign buying, the call stays defensive.",
-  "kr": "화요일 국내 증시의 반등은 폭은 컸지만 질은 얇았다. 3거래일간 12% 가까이 빠진 뒤 코스피 +4.39%, 코스닥 +4.48%를 기록했으나, 장 초반 사이드카가 걸렸고 VKOSPI는 여전히 58선이며 개인은 반등을 틈타 1조 8,289억 원을 내다 팔았다. 외국인은 8거래일 만에 코스피에서 순매수로 돌아서 수주 만에 처음으로 우호적인 수급 신호를 보냈지만, 바이오 유동성의 시험대인 코스닥에서는 여전히 매도 우위였다. 이어 뉴욕이 판을 바꿨다. 10월 근원 CPI가 또다시 0.3% 오르자 2년물은 17bp 뛴 4.73%, 10년물 par는 4.98%까지 올랐고 10년물 입찰은 5.02%에 낙찰됐으며, 월러 이사는 12월 50bp 인상을 논의 테이블에 올렸다. 월요일보다 달러 유동성 여건이 더 빡빡해진 셈이고, EWY −2.03%는 오늘 국내 장이 반등분 일부를 반납할 수 있음을 시사한다. 유가(Brent $91.49)와 원화(1,337.5원)는 완화 쪽으로 움직이고 있으며 실시간 Brent 기준이면 악재 하나는 이미 꺼진 상태다. 레짐 전환이 온다면 주식이 아니라 이 지점에서 먼저 시작될 것이다. 관심종목에서 파마리서치는 5.51% 오른 249,000원으로 3거래일 연속 상승했으나 외국인 지분율은 16.46%로 소폭 낮아졌다. 알테오젠은 4.69% 오른 176,300원으로 외국인이 순매수하며 지분율이 16.45%로 올랐지만, 월요일 갭(200,500원)과는 여전히 거리가 멀다. 코스닥이 외국인 순매수와 함께 700선을 되찾기 전까지 판단은 방어적으로 유지한다."
+  "en": "Two up days in a row have turned a short-covering bounce into a broader rally, and Wednesday's breadth was better than Tuesday's: the KOSPI rose 2.60% on ₩658.7bn of foreign buying, the Kosdaq jumped 5.62% to reclaim 700, and the won firmed to 1,333.6, its strongest close in two weeks. New York then confirmed the risk appetite through AI, not rates — CoreWeave +25%, Nasdaq +1.60% — on a day when the bond market was closed. That is the gap that matters. The price of money has not moved: the 10-year par is still 4.98%, a December hike is now roughly 90% priced, Goolsbee calls the inflation print borderline disturbing, and Brent has firmed back to $92.76. Equity rallies inside a tightening cycle tend to be sharp and short unless liquidity follows, and Thursday's Treasury reopen is the first real test of whether it does. In Korea the test is narrower: the Kosdaq is above 700, but foreigners sold it again and part of the move leaned on support-package talk the FSS has denied. On the watchlist, Alteogen rose 4.08% to ₩183,500 with foreigners buying for a third day and ownership up to 16.74%, closing in on the ₩200,500 gap; PharmaResearch slipped 0.60% to ₩247,500 after failing at ₩260,500 intraday, with foreign ownership down to 16.33% — its 6 Nov preliminary third quarter showed revenue +26.7% but operating profit only +1.2%, so the margin story, not the multiple, is what the market is pricing. The call stays defensive until foreign money confirms the Kosdaq reclaim.",
+  "kr": "이틀 연속 상승으로 숏커버성 반등은 좀 더 폭넓은 랠리로 번졌고, 수요일의 질은 화요일보다 나았다. 코스피는 외국인 6,587억 원 순매수에 2.60% 올랐고, 코스닥은 5.62% 급등하며 700선을 되찾았으며, 원화도 1,333.6원으로 2주 만의 강세 마감. 뉴욕은 금리가 아니라 AI로 위험선호를 확인시켰다. 채권시장이 휴장한 날 코어위브가 25% 뛰고 나스닥이 1.60% 올랐다. 핵심은 바로 이 괴리다. 돈의 가격은 그대로다. 10년물 par는 여전히 4.98%, 12월 인상은 약 90% 반영됐고, 굴스비 총재는 물가 지표를 우려스러운 수준에 가깝다고 했으며, Brent도 $92.76로 다시 올라섰다. 긴축 사이클 안의 주식 랠리는 유동성이 따라붙지 않으면 날카롭지만 짧게 끝나기 쉽고, 목요일 미 국채시장 재개장이 그 첫 시험대다. 국내의 시험대는 더 좁다. 코스닥은 700선 위에 섰지만 외국인은 또다시 팔았고, 상승분 일부는 금감원이 부인한 부양책 기대에 기댔다. 관심종목에서 알테오젠은 4.08% 오른 183,500원으로 외국인이 3거래일째 순매수하며 지분율이 16.74%로 높아졌고, 200,500원 갭에 다가서고 있다. 파마리서치는 장중 260,500원까지 올랐다가 밀리며 0.60% 내린 247,500원에 마감했고 외국인 지분율은 16.33%로 낮아졌다. 11/6 공시한 3분기 잠정실적은 매출 +26.7%에 영업이익은 +1.2%에 그쳐, 시장이 보는 것은 멀티플이 아니라 마진이다. 외국인 자금이 코스닥 700선 회복을 확인해줄 때까지 판단은 방어적으로 유지한다."
  },
  "watchlist": [
   {
@@ -97,18 +97,18 @@
     "kr": "상업화 단계 컴파운더"
    },
    "driver": {
-    "en": "Earnings revisions — 2Q26 OPM 37.2%, operating profit 3% below consensus",
-    "kr": "실적 추정치 — 2Q26 OPM 37.2%, 영업이익 컨센서스 3% 하회"
+    "en": "Earnings revisions — 3Q26 preliminary: revenue ₩171.5bn (+26.7% y/y), operating profit ₩62.6bn (+1.2%), OPM about 36.5% vs about 45.7% a year earlier",
+    "kr": "실적 추정치 — 3Q26 잠정: 매출 1,715억 원(+26.7% YoY), 영업이익 626억 원(+1.2%), OPM 약 36.5%(전년 동기 약 45.7%)"
    },
-   "last": "₩249,000 (+5.51%)",
+   "last": "₩247,500 (−0.60%)",
    "tag": {
-    "en": "KRX close 10 Nov (Daum Finance); prior close ₩236,000 on 9 Nov. Foreign ownership 16.46% on 10 Nov (16.75% on 9 Nov; Daum Finance investor data)",
-    "kr": "KRX 종가 11/10(다음 금융), 11/9 종가 ₩236,000. 외국인 지분율 11/10 16.46%(11/9 16.75%, 다음 금융 투자자별 매매)"
+    "en": "KRX close 11 Nov (Daum Finance); prior close ₩249,000 on 10 Nov. Foreign ownership 16.33% on 11 Nov (16.46% on 10 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/11(다음 금융), 11/10 종가 ₩249,000. 외국인 지분율 11/11 16.33%(11/10 16.46%, 다음 금융 투자자별 매매)"
    },
-   "level": "₩208,000 (52w low, 30 Oct; Daum KRX series) / ₩251,000 (10 Nov intraday high)",
+   "level": "₩208,000 (52w low, 30 Oct; Daum KRX series) / ₩260,500 (11 Nov intraday high)",
    "status": {
-    "en": "Up 5.51% to ₩249,000 on 72,766 shares, range ₩233,500–251,000 — a third straight gain and about 20% above the 30 Oct ₩208,000 low. Foreigners were net sellers (−11,860 shares) and ownership eased to 16.46%, so the rebound is institution-led (+15,997 shares). Results date (TradingView: 18 Nov) still unverified on DART.",
-    "kr": "5.51% 오른 ₩249,000 마감, 거래량 72,766주, 장중 ₩233,500~251,000. 3거래일 연속 상승으로 10/30 저점 ₩208,000 대비 약 20% 위. 외국인은 11,860주 순매도로 지분율이 16.46%로 낮아져 반등은 기관 주도(+15,997주). 실적 발표일(트레이딩뷰 11/18)은 DART 대조 전."
+    "en": "Eased 0.60% to ₩247,500 on 72,943 shares after trading ₩244,500–260,500 — opened at ₩253,000, tested ₩260,500 and gave it back, ending a three-day run. Foreigners net sold 4,088 shares and institutions 2,065; ownership fell to 16.33%. The 3Q26 preliminary results came out on 6 Nov (DART fair-disclosure, per StockHub): top line strong, operating profit flat, so the earlier 18 Nov date is moot.",
+    "kr": "₩244,500~260,500 범위에서 거래된 뒤 0.60% 내린 ₩247,500 마감, 거래량 72,943주. ₩253,000에 출발해 ₩260,500까지 올랐다가 상승분을 반납하며 3거래일 연속 상승 마감. 외국인 4,088주·기관 2,065주 순매도로 지분율은 16.33%로 하락. 3Q26 잠정실적은 11/6 공정공시로 발표돼(스톡허브, DART 기준) 매출은 견조했으나 영업이익은 제자리. 기존 11/18 일정은 의미가 없어짐."
    }
   },
   {
@@ -122,15 +122,15 @@
     "en": "US CMS drug-price negotiation rule (SC reformulations); Halozyme v. MSD patent series; partner royalty velocity; absorption of Alteogen Biologics (merger date 29 Dec)",
     "kr": "미 CMS 약가협상 규정(SC 제형), Halozyme–MSD 특허 소송 시리즈, 파트너 로열티 속도, 알테오젠바이오로직스 흡수합병(합병기일 12/29)"
    },
-   "last": "₩176,300 (+4.69%)",
+   "last": "₩183,500 (+4.08%)",
    "tag": {
-    "en": "KRX close 10 Nov (Daum Finance; Newspim also lists +4.69%); prior close ₩168,400 on 9 Nov. Foreign ownership 16.45% on 10 Nov (16.25% on 9 Nov; Daum Finance investor data)",
-    "kr": "KRX 종가 11/10(다음 금융, 뉴스핌도 +4.69%), 11/9 종가 ₩168,400. 외국인 지분율 11/10 16.45%(11/9 16.25%, 다음 금융 투자자별 매매)"
+    "en": "KRX close 11 Nov (Daum Finance; Financial News also lists +4.08%); prior close ₩176,300 on 10 Nov. Foreign ownership 16.74% on 11 Nov (16.45% on 10 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/11(다음 금융, 파이낸셜뉴스도 +4.08%), 11/10 종가 ₩176,300. 외국인 지분율 11/11 16.74%(11/10 16.45%, 다음 금융 투자자별 매매)"
    },
    "level": "₩152,500 (52w low, 9 Nov intraday) / ₩200,500 (6 Nov close, gap top)",
    "status": {
-    "en": "Rebounded 4.69% to ₩176,300 on 650,292 shares (about a quarter of Monday's volume), range ₩172,500–181,900 — a relief bounce that retraced roughly a quarter of the ₩32,100 drop. Foreigners net bought for a second day (+121,040 shares) and ownership rose to 16.45%. The CMS SC-reformulation question is unresolved; the 19 Nov Germany appeal hearing is the next hard catalyst.",
-    "kr": "4.69% 반등한 ₩176,300 마감, 거래량 650,292주(월요일의 약 4분의 1), 장중 ₩172,500~181,900. 전일 하락폭(₩32,100)의 약 4분의 1만 되돌린 기술적 반등. 외국인은 이틀째 순매수(+121,040주)하며 지분율이 16.45%로 상승. CMS의 SC 제형 문제는 미해소 상태이며, 다음 확정 재료는 11/19 독일 항소심."
+    "en": "Up 4.08% to ₩183,500 on 517,160 shares, range ₩173,400–186,500 — two days have now recovered about half of Monday's ₩32,100 drop. Foreigners net bought for a third day (+139,502 shares) and ownership rose to 16.74%, while institutions sold 37,449. The CMS SC-reformulation question is unresolved; the 19 Nov Germany appeal hearing is the next hard catalyst.",
+    "kr": "4.08% 오른 ₩183,500 마감, 거래량 517,160주, 장중 ₩173,400~186,500. 이틀간 월요일 하락폭(₩32,100)의 약 절반을 되찾았다. 외국인은 3거래일째 순매수(+139,502주)하며 지분율이 16.74%로 높아졌고, 기관은 37,449주 순매도. CMS의 SC 제형 문제는 미해소 상태이며, 다음 확정 재료는 11/19 독일 항소심."
    }
   },
   {
@@ -144,15 +144,15 @@
     "en": "Foreign net flow × won",
     "kr": "외국인 수급 × 원화"
    },
-   "last": "667.61 (+4.48%)",
+   "last": "705.10 (+5.62%)",
    "tag": {
-    "en": "KRX close 10 Nov (Newspim, 16:03 KST; Kosdaq +28.64pt)",
-    "kr": "KRX 종가 11/10 (뉴스핌 16:03 KST, +28.64p)"
+    "en": "KRX close 11 Nov (MediaPen 16:16 KST and Daum Finance; Kosdaq +37.49pt)",
+    "kr": "KRX 종가 11/11 (미디어펜 16:16 KST·다음 금융, +37.49p)"
    },
-   "level": "700 (reclaim) / 678.41 (5 Nov close) / 638.97 (9 Nov closing low)",
+   "level": "700 (hold) / 678.41 (5 Nov close) / 638.97 (9 Nov closing low)",
    "status": {
-    "en": "Back above 644.27 (6 Nov) to 667.61, 32pt below 700. Investors: institutions +₩221.9bn, foreigners −₩127.3bn, individuals −₩89.8bn — institution-led, without foreign confirmation. 678.41 is the next resistance; 638.97 is the low to hold.",
-    "kr": "644.27(11/6 종가)을 넘어 667.61로 회복, 700선까지 32p. 기관 +2,219억·외국인 −1,273억·개인 −898억 원으로 기관 주도, 외국인 확인은 없음. 다음 저항 678.41, 지켜야 할 저점 638.97."
+    "en": "Reclaimed 700 for the first time in five sessions, closing at 705.10. Investors: institutions +₩313.0bn, foreigners −₩135.4bn, individuals −₩183.8bn (Daum Finance) — institution-led, foreigners net sellers for another day. Holding 700 with foreign buying is the reopening signal; a close back below 678.41 would undo the reclaim.",
+    "kr": "5거래일 만에 700선을 회복해 705.10 마감. 기관 +3,130억·외국인 −1,354억·개인 −1,838억 원(다음 금융)으로 기관 주도, 외국인은 이번에도 순매도. 외국인 순매수 속 700선 안착이 재개 신호이며, 678.41 아래로 다시 밀리면 회복은 무효."
    }
   }
  ],
@@ -168,8 +168,8 @@
     "kr": "미국 / 국내 반도체"
    },
    "why": {
-    "en": "Nvidia fell 5.53% on 10 Nov and drives the Samsung/SK hynix leg that led the KOSPI rebound; date per Nvidia's 28 Oct release (call 2 p.m. PT)",
-    "kr": "엔비디아는 11/10 5.53% 하락했고, 코스피 반등을 이끈 삼성전자·SK하이닉스 흐름을 좌우. 일정은 엔비디아 10/28 공식 발표 기준(컨퍼런스콜 PT 오후 2시)"
+    "en": "Nvidia rebounded 2.9% on 11 Nov after falling nearly 10% earlier in the week (CNBC) and drives the Samsung/SK hynix leg that led the KOSPI rally; date per Nvidia's 28 Oct release (call 2 p.m. PT)",
+    "kr": "엔비디아는 주초 10% 가까이 빠진 뒤 11/11 2.9% 반등(CNBC)했고, 코스피 랠리를 이끈 삼성전자·SK하이닉스 흐름을 좌우. 일정은 엔비디아 10/28 공식 발표 기준(컨퍼런스콜 PT 오후 2시)"
    },
    "priority": "HIGH"
   },
@@ -188,22 +188,6 @@
     "kr": "불리한 판결 시 플랫폼 로열티 논리 재평가"
    },
    "priority": "HIGH"
-  },
-  {
-   "date": "TBC (TradingView lists 18 Nov)",
-   "event": {
-    "en": "PharmaResearch 3Q26 results (DART)",
-    "kr": "파마리서치 3Q26 실적 (DART)"
-   },
-   "scope": {
-    "en": "PharmaResearch",
-    "kr": "파마리서치"
-   },
-   "why": {
-    "en": "Operating margin trend is the price driver; date from TradingView only (18 Nov), not on DART; third-party Q3 figures conflict, so treat as unverified",
-    "kr": "영업이익률 추세가 가격 결정 변수. 일정은 트레이딩뷰(11/18) 기준이며 DART 공시 대조 전. 3분기 수치도 출처별로 엇갈려 미검증"
-   },
-   "priority": "MEDIUM"
   },
   {
    "date": "2026-11-26",
@@ -232,8 +216,8 @@
     "kr": "전 시장"
    },
    "why": {
-    "en": "After a hot October CPI (+0.4% headline, +0.3% core m/m), Waller said a 50bp hike should be considered and CME odds of a half-point move rose to about 13.6% (as reported, 10 Nov). Year-end regime call. Fed calendar lists 8–9 Dec",
-    "kr": "10월 CPI 상회(헤드라인 +0.4%, 근원 +0.3%, 전월비) 이후 월러 이사가 50bp 인상 검토를 언급했고 CME 기준 50bp 확률은 약 13.6%로 상승(11/10 보도 기준). 연말 레짐 판단. 연준 일정상 12/8~9"
+    "en": "After a hot October CPI, CME FedWatch odds of a December quarter-point hike rose to about 90% (CNBC, 11 Nov); Goolsbee called the report \"borderline disturbing\" and Waller had floated 50bp on 10 Nov. Year-end regime call. Fed calendar lists 8–9 Dec",
+    "kr": "10월 CPI 상회 이후 CME 페드워치 기준 12월 25bp 인상 확률은 약 90%(CNBC 11/11). 굴스비 총재는 \"우려스러운 수준에 가깝다\"고 했고, 월러 이사는 11/10 50bp까지 언급. 연말 레짐 판단. 연준 일정상 12/8~9"
    },
    "priority": "HIGH"
   },
@@ -256,32 +240,40 @@
  ],
  "sources": [
   {
-   "label": "Newspim — [마감시황] 외국인·기관 매수에 코스피·코스닥 동반 상승…5200선 탈환, 10 Nov 2026 (16:03 KST, updated 16:17)",
-   "url": "https://www.newspim.com/news/view/20261110001216"
+   "label": "MediaPen — 코스피 2.60% 상승하며 5375.36 마감…코스닥 700선 회복, 11 Nov 2026 (16:16 KST)",
+   "url": "https://www.mediapen.com/news/view/1136756"
   },
   {
-   "label": "Joongang Economy News — [마감시황] 코스피 '4% 급등' 5239 마감…외국인 순매수 전환, 10 Nov 2026 (16:05 KST)",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=562702"
+   "label": "Financial News — 5% 넘게 뛴 코스닥, 700선 탈환… 부양책 기대감에 '불기둥', 11 Nov 2026 (18:30 KST)",
+   "url": "https://www.fnnews.com/news/202611111830258613"
   },
   {
-   "label": "CNBC — CPI inflation report: October 2026, 10 Nov 2026",
-   "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+   "label": "Seoul Finance — [외환] 원·달러 환율 1333.6원 마감···3.9원↓, 11 Nov 2026",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=642547"
   },
   {
-   "label": "Avalon Capital Research — Closing Bell: Stocks Fall as Hotter October CPI Lifts the 2-Year Yield 17 Basis Points, 10 Nov 2026 (9:37 PM)",
-   "url": "https://avaloncapitalresearch.substack.com/p/closing-bell-stocks-fall-as-hotter"
+   "label": "Etoday — [환율마감] 원·달러 사흘째 하락해 2주일만 최저, 11 Nov 2026",
+   "url": "https://www.etoday.co.kr/news/view/2646954"
   },
   {
-   "label": "CNBC — Brent crude briefly dips below $90 for first time since August on Iran hopes, 10 Nov 2026",
-   "url": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html"
+   "label": "CNBC — Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade, 11 Nov 2026 (updated 4:22 PM EST)",
+   "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
   },
   {
-   "label": "US Treasury — daily par yield curve, 10 Nov 2026",
+   "label": "Seeking Alpha — Oil prices rise as Iran nuclear dispute fuels supply concerns, 11 Nov 2026 (4:47 PM ET)",
+   "url": "https://seekingalpha.com/news/4671034-oil-prices-rise-as-iran-nuclear-dispute-fuels-supply-concerns"
+  },
+  {
+   "label": "US Treasury — daily par yield curve, 10 Nov 2026 (bond market closed 11 Nov, Veterans Day)",
    "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv"
   },
   {
-   "label": "Daum Finance — PharmaResearch and Alteogen KRX daily quotes and foreign ownership, 10 Nov 2026",
+   "label": "Daum Finance — KOSPI/KOSDAQ investor flows; PharmaResearch and Alteogen KRX daily quotes and foreign ownership, 11 Nov 2026",
    "url": "https://finance.daum.net/quotes/A196170"
+  },
+  {
+   "label": "StockHub — PharmaResearch 3Q26 preliminary results (DART fair disclosure), 6 Nov 2026",
+   "url": "https://stockhub.kr/insights/view_1793928529400_lpa4nn99g"
   },
   {
    "label": "NVIDIA — Sets Conference Call for Third-Quarter Financial Results (28 Oct 2026)",

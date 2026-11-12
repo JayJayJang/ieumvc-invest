@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-13",
+  "headline": {
+   "en": "The relief rally stalled on Thursday. Seoul gave back part of its gains — KOSPI −0.61% to 5,342.73 despite ₩370.8bn of foreign buying, and the Kosdaq −1.22% to 696.53, back under 700 a day after reclaiming it, as foreigners sold ₩352.5bn. Then Nvidia announced Jensen Huang's resignation, the S&P 500 fell 0.35%, the 10-year par yield jumped to 5.10% and Brent settled at $95.82. Two of three nails lit; the biotech gate stays shut.",
+   "kr": "목요일 반등 랠리가 멈춰 섰다. 코스피는 외국인 3,708억 원 순매수에도 0.61% 내린 5,342.73, 코스닥은 외국인 3,525억 원 매도에 1.22% 하락한 696.53으로 하루 만에 700선을 다시 내줬다. 밤사이 엔비디아가 젠슨 황 CEO 사임을 발표하면서 S&P 500은 0.35% 밀렸고, 미 10년물 par 금리는 5.10%로 뛰었으며, Brent는 $95.82에 정산됐다. 3대 악재 2개 점등, 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, relief rally stalling — the 10-year par is back above 5% at 5.10%, Brent climbed to $95.82, Nvidia lost its founder-CEO and the Kosdaq slipped back below 700; the won (1,330.7) remains the one easing signal",
+   "kr": "RISK-OFF CONTRACTION(반등 랠리 정체) — 미 10년물 par는 5.10%로 다시 5%를 넘었고, Brent는 $95.82로 올랐으며, 엔비디아는 창업자 CEO를 잃었고 코스닥은 700선 아래로 되밀렸다. 완화 신호는 여전히 원화(1,330.7원) 하나뿐"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-12",
   "headline": {
    "en": "Seoul extended the bounce on Wednesday — KOSPI +2.60% to 5,375.36 on ₩658.7bn of foreign buying, Kosdaq +5.62% to 705.10, back above 700 for the first time in five sessions — and New York followed with S&P 500 +1.31% on CoreWeave. But CME now prices about a 90% chance of a December hike, and foreigners still sold the Kosdaq. Two of three nails lit, biotech gate shut.",

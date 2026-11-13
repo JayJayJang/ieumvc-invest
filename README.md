@@ -24,6 +24,26 @@ Every price, close and yield in a brief is a published, final figure. If one can
 - **52-week highs/lows** — adjusted for corporate actions (bonus issues, splits), taken from the KRX daily series; label them "adj." with the date set.
 - Tag every watchlist price with its source and session (e.g. "KRX close 22 Oct (Daum Finance)").
 
+## Watchlist universe
+From the 16 Nov 2026 brief on, every brief carries one row per name below (plus the KOSDAQ index row last). The list spans different archetypes so the watchlist is not one sector's story. To change it, edit this table.
+
+| Name | Code | Market | Archetype | Main price driver |
+|---|---|---|---|---|
+| Samsung Biologics | 207940 | KOSPI | CDMO / capacity | Contract wins, plant ramp, US tariff/BIOSECURE policy |
+| Celltrion | 068270 | KOSPI | Biosimilar commercial | US/EU launches, pricing, margins |
+| Yuhan | 000100 | KOSPI | Royalty / licensed asset | Lazertinib (Rybrevant combo) sales milestones |
+| PharmaResearch | 214450 | KOSDAQ | Commercial-stage compounder | Earnings revisions, aesthetics exports |
+| Alteogen | 196170 | KOSDAQ | Platform / royalty | SC-platform royalties, CMS rule, Halozyme litigation |
+| ABL Bio | 298380 | KOSDAQ | Platform / licensing | Bispecific and BBB-shuttle deals, partner data |
+| HLB | 028300 | KOSDAQ | Binary event | FDA review of rivoceranib + camrelizumab (liver cancer) |
+| Sam Chun Dang Pharm | 000250 | KOSDAQ | Formulation platform | Oral/SC formulation deals, biosimilar launches |
+| SK hynix | 000660 | KOSPI | Macro / foreign-flow proxy | AI memory demand, Nvidia read-through, foreign flows |
+
+Data (KRX regular-session close and foreign ownership, no API key needed; send a browser User-Agent and `Referer: https://finance.daum.net/quotes/A<code>`):
+- Daily closes: `https://finance.daum.net/api/quote/A<code>/days?symbolCode=A<code>&page=1&perPage=3&pagination=true` — use `tradePrice`, `changeRate`, high/low, volume.
+- Foreign ownership and investor net buying: `https://finance.daum.net/api/investor/days?symbolCode=A<code>&page=1&perPage=3` — use `foreignOwnSharesRate`, `foreignStraightPurchaseVolume`, `institutionStraightPurchaseVolume`. Its `tradePrice` mixes in NXT trades, so do not take prices from it.
+- Index closes and flows: `https://finance.daum.net/api/market_index/days?page=1&perPage=3&market=KOSPI|KOSDAQ&pagination=true`.
+
 ## Setup (once)
 1. Repository → Settings → Secrets and variables → Actions → New repository secret `ALPHAVANTAGE_API_KEY`.
 2. Settings → Pages → Source: Deploy from a branch, `main` / `/ (root)`; Custom domain `invest.ieumvc.com`; Enforce HTTPS.

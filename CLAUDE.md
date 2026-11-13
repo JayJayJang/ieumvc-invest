@@ -6,3 +6,4 @@
 
 ## Briefs
 - Follow the "Price rules (no estimates)" section in `README.md`: KRX regular-session closes for Korean prices, US Treasury par yields for rates, no derived or intraday figures presented as closes.
+- **Watchlist universe** — from the 16 Nov 2026 brief on, the watchlist covers every name in the "Watchlist universe" table in `README.md`, not only the names in the newest content file. Each stock row keeps the existing format (archetype, driver, last price with KRX-close tag and foreign ownership, level, status); price and ownership come from the Daum Finance endpoints listed there. Keep the KOSDAQ index row last.

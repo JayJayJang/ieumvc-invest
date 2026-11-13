@@ -76,6 +76,8 @@ tr:last-child td { border-bottom: 0; }
 .prio { font-size: 11px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); font-weight: 600; }
 .prio.HIGH { color: var(--bad); border-color: var(--bad); }
 .prio.MEDIUM { color: var(--warn); border-color: var(--warn); }
+td.key .note { color: var(--ink-2); font-weight: 400; font-size: 12px; margin-top: 4px; white-space: normal; min-width: 160px; max-width: 220px; }
+td.key .prio { margin-left: 2px; vertical-align: 1px; }
 
 /* commentary */
 .kv { display: grid; grid-template-columns: 1fr; gap: 10px; }

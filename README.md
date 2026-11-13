@@ -44,6 +44,14 @@ Data (KRX regular-session close and foreign ownership, no API key needed; send a
 - Foreign ownership and investor net buying: `https://finance.daum.net/api/investor/days?symbolCode=A<code>&page=1&perPage=3` — use `foreignOwnSharesRate`, `foreignStraightPurchaseVolume`, `institutionStraightPurchaseVolume`. Its `tradePrice` mixes in NXT trades, so do not take prices from it.
 - Index closes and flows: `https://finance.daum.net/api/market_index/days?page=1&perPage=3&market=KOSPI|KOSDAQ&pagination=true`.
 
+### Watchlist priority (reordered every brief)
+Rows are ordered by what happened in the previous sessions, not by a fixed list. Run `python scripts/watch.py` (after 16:00 KST it counts that day's session; before, the last finished one) and use its ranking:
+- **Strong triggers (2 pts):** 1-day move ≥5%; 3-session move ≥10%; volume ≥2× 20-session average; foreign ownership ±0.5pp over 3 sessions; foreign net buying/selling 5+ sessions running; a catalyst in the brief's calendar within 5 trading days.
+- **Moderate triggers (1 pt):** 1-day move ≥2.5%; 3-session move ≥5%; volume ≥1.5×; foreign ownership ±0.25pp; a 3–4 session foreign streak; a catalyst within 20 trading days.
+- **Rank:** the top 3 names with ≥2 pts are HIGH, plus any name with a catalyst within 5 trading days or a ≥10% day; other names with points are MEDIUM; 0 pts is LOW. Order HIGH → MEDIUM → LOW, by score; the KOSDAQ index row stays last.
+- **Events the script cannot see** — a new DART disclosure (earnings, licensing, trial readout, FDA/MFDS action, capital raise), a court ruling or a major press story in the last 2 sessions — raise a name to HIGH. The writer may raise a rank for such an event, never lower one the data set.
+- Each row carries `"priority": "HIGH" | "MEDIUM" | "LOW"` and `"trigger": {"en", "kr"}` — one short line naming what set the rank (e.g. "foreigners net bought 4 sessions; Germany appeal 19 Nov"). The page shows both under the name.
+
 ## Setup (once)
 1. Repository → Settings → Secrets and variables → Actions → New repository secret `ALPHAVANTAGE_API_KEY`.
 2. Settings → Pages → Source: Deploy from a branch, `main` / `/ (root)`; Custom domain `invest.ieumvc.com`; Enforce HTTPS.

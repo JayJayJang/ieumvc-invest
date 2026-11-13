@@ -99,7 +99,7 @@
       // watchlist
       var wt = document.querySelector('#watch-table tbody'); clear(wt);
       (content.watchlist || []).forEach(function (w) {
-        var tr = el('tr'); tr.appendChild(el('td', 'key', lang === 'kr' && w.name_kr ? w.name_kr : w.name)); tr.appendChild(el('td', null, T(w.archetype))); tr.appendChild(el('td', null, T(w.driver))); tr.appendChild(el('td', 'num', w.last || '—')); tr.appendChild(el('td', 'hide-sm', T(w.tag))); tr.appendChild(el('td', null, w.level || '—')); tr.appendChild(el('td', null, T(w.status))); wt.appendChild(tr);
+        var tr = el('tr'); var nm = el('td', 'key', lang === 'kr' && w.name_kr ? w.name_kr : w.name); if (w.priority) { nm.appendChild(document.createTextNode(' ')); nm.appendChild(el('span', 'prio ' + w.priority, w.priority)); } if (w.trigger) nm.appendChild(el('div', 'note', T(w.trigger))); tr.appendChild(nm); tr.appendChild(el('td', null, T(w.archetype))); tr.appendChild(el('td', null, T(w.driver))); tr.appendChild(el('td', 'num', w.last || '—')); tr.appendChild(el('td', 'hide-sm', T(w.tag))); tr.appendChild(el('td', null, w.level || '—')); tr.appendChild(el('td', null, T(w.status))); wt.appendChild(tr);
       });
       // calendar
       var ct = document.querySelector('#cal-table tbody'); clear(ct);

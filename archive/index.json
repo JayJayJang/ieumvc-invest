@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-16",
+  "headline": {
+   "en": "Friday ended a down week on the same split. The KOSPI fell 0.98% to 5,290.53 after touching 5,504 as foreigners sold ₩547.5bn; the Kosdaq rose 0.45% to 699.66 on institutional buying but missed 700 by a third of a point after an intraday 725.81. In New York the S&P 500 slipped 0.4% and the Nasdaq 0.91%, Nvidia fell another 2% on an HSBC downgrade, PPI ran 6.5% y/y and the 10-year par climbed to 5.15%. One of three nails lit on the snapshot, with Brent on the line; the biotech gate stays shut.",
+   "kr": "금요일 장도 같은 엇갈림으로 한 주를 마쳤다. 코스피는 장중 5,504까지 올랐다가 외국인 5,475억 원 매도에 밀려 0.98% 내린 5,290.53, 코스닥은 기관 매수로 0.45% 오른 699.66에 마감했으나 장중 725.81을 찍고도 700선에 0.34p 못 미쳤다. 뉴욕에선 S&P 500 −0.4%, 나스닥 −0.91%. 엔비디아는 HSBC의 투자의견 하향에 2% 더 밀렸고, 10월 PPI는 전년 대비 6.5% 올랐으며, 미 10년물 par는 5.15%로 높아졌다. 스냅샷 기준 3대 악재 1개 점등(Brent는 경계선), 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, rates still climbing — the 10-year par rose to 5.15%, the dollar index hit its highest since April 2025 and a December Fed hike is priced as near-certain; Brent has stopped rising ($95.84, second weekly loss) and the won (1,336.7) remains well inside its easing trend",
+   "kr": "RISK-OFF CONTRACTION(금리 상승 지속) — 미 10년물 par는 5.15%로 올랐고 달러인덱스는 2025년 4월 이후 최고치, 12월 연준 인상은 기정사실화. Brent는 상승을 멈췄고($95.84, 2주 연속 주간 하락) 원화(1,336.7원)는 여전히 완화 추세 안에 있다"
+  },
+  "nails": 1
+ },
+ {
   "date": "2026-11-13",
   "headline": {
    "en": "The relief rally stalled on Thursday. Seoul gave back part of its gains — KOSPI −0.61% to 5,342.73 despite ₩370.8bn of foreign buying, and the Kosdaq −1.22% to 696.53, back under 700 a day after reclaiming it, as foreigners sold ₩352.5bn. Then Nvidia announced Jensen Huang's resignation, the S&P 500 fell 0.35%, the 10-year par yield jumped to 5.10% and Brent settled at $95.82. Two of three nails lit; the biotech gate stays shut.",

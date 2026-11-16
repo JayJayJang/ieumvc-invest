@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-17",
+  "headline": {
+   "en": "Monday was the sell-off the market had been pricing toward. Foreigners dumped about ₩1.38tn of KOSPI, most of it in Samsung Electronics and SK hynix, and the index fell 3.59% to 5,100.50; the Kosdaq lost 4.86% to 665.65 as institutions joined the selling. In New York the S&P 500 fell 1.9% and the Nasdaq 2.5%, Nvidia dropped 4.1% a day before its first report without Jensen Huang, and Washington tightened rules on remote access to advanced chips. Brent fell 3.5% to $92.44 and the 10-year par eased to 5.12%. One of three nails lit, with oil now clearly off; the biotech gate stays shut.",
+   "kr": "월요일 장은 시장이 줄곧 대비해 온 매도로 나타났다. 외국인이 코스피에서 약 1.38조 원을, 그것도 대부분 삼성전자와 SK하이닉스에서 쏟아내며 지수는 3.59% 내린 5,100.50, 코스닥은 기관까지 매도에 가세해 4.86% 급락한 665.65로 마감했다. 뉴욕에선 S&P 500 −1.9%, 나스닥 −2.5%. 젠슨 황 없는 첫 실적을 하루 앞둔 엔비디아는 4.1% 빠졌고, 미 정부는 첨단 칩 원격 접근 규제를 강화했다. Brent는 3.5% 내린 $92.44, 10년물 par는 5.12%로 소폭 하락. 3대 악재 1개 점등(유가는 확실히 소등), 바이오 게이트 닫힘 유지."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, now in the equity tape — rates paused at a high level (10-year par 5.12%) and oil is falling, but the AI-capex leg of the market is de-rating under Nvidia's leadership change and foreigners are exiting Korean semis; the won (1,335.7) remains inside its easing trend",
+   "kr": "RISK-OFF CONTRACTION(주식시장으로 전이) — 금리는 높은 수준에서 숨을 고르고(10년물 par 5.12%) 유가는 내리고 있지만, 엔비디아 경영진 교체 속에 AI 설비투자 축이 디레이팅되며 외국인이 국내 반도체에서 빠져나가고 있다. 원화(1,335.7원)는 여전히 완화 추세 안"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-16",
   "headline": {
    "en": "Friday ended a down week on the same split. The KOSPI fell 0.98% to 5,290.53 after touching 5,504 as foreigners sold ₩547.5bn; the Kosdaq rose 0.45% to 699.66 on institutional buying but missed 700 by a third of a point after an intraday 725.81. In New York the S&P 500 slipped 0.4% and the Nasdaq 0.91%, Nvidia fell another 2% on an HSBC downgrade, PPI ran 6.5% y/y and the 10-year par climbed to 5.15%. One of three nails lit on the snapshot, with Brent on the line; the biotech gate stays shut.",

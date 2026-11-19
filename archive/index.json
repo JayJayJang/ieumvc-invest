@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-20",
+  "headline": {
+   "en": "Seoul rallied a second day — the KOSPI rose 1.39% to 5,137.89 and the Kosdaq 3.32% to 684.81, both closing at the day's high after an intraday dip below 5,000 — but foreigners sold again (−₩405.5bn KOSPI, −₩212.7bn Kosdaq) and institutions carried the tape. Overnight Wall Street broke: Anthropic opened 34% above its $83 IPO price and closed about 17% up, yet the S&P 500 fell 2.02% to 7,175.83 for a sixth straight loss, the Dow lost 1,101 points to 49,097.06 and the Nasdaq 2.25%. The 10-year par eased to 5.04%; the won firmed to 1,330.0. Two of three nails lit on the data file, one on the latest prints; the biotech gate stays shut.",
+   "kr": "서울은 이틀 연속 올랐다. 장중 5,000선을 내줬던 코스피는 1.39% 오른 5,137.89, 코스닥은 3.32% 오른 684.81로 둘 다 고가로 마감했다. 다만 외국인은 또 팔았고(코스피 −4,055억, 코스닥 −2,127억 원) 지수를 받친 건 기관이었다. 간밤 뉴욕은 무너졌다. 앤트로픽이 공모가($83) 대비 34% 높게 출발해 약 17% 상승 마감했지만, S&P 500은 2.02% 내린 7,175.83으로 6거래일 연속 하락했고 다우는 1,101p 급락한 49,097.06, 나스닥은 2.25% 밀렸다. 10년물 par는 5.04%로 내렸고 원/달러는 1,330.0원(원화 강세). 3대 악재는 데이터 파일 기준 2개, 최신 공표치 기준 1개 점등, 바이오 게이트는 닫힘 유지."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, floor not confirmed — Seoul's two-day rebound ran on institutions while foreigners sold a fifth KOSPI and seventh Kosdaq session, and New York's sixth straight loss (S&P 500 −2.02%, VIX near 29) came on the day of the AI trade's biggest listing; the 10-year par (5.04%) and the won (1,330.0) eased",
+   "kr": "RISK-OFF CONTRACTION, 바닥 미확인 — 서울의 이틀 반등은 기관 몫이었고 외국인은 코스피 5거래일·코스닥 7거래일 연속 매도했다. 뉴욕은 AI 최대 상장일에 6거래일 연속 하락(S&P 500 −2.02%, VIX 29 근접). 10년물 par(5.04%)와 원/달러(1,330.0원)는 완화"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-19",
   "headline": {
    "en": "Seoul took Nvidia's beat at face value: the KOSPI rose 1.99% to 5,067.44, back above 5,000 a day after losing it, and the Kosdaq gained 1.96% to 662.81 — but foreigners still sold both markets, and institutions did the buying. Wall Street did not follow: Nvidia fell 2.9% on the day, the October minutes showed some officials open to a 50bp hike, and the S&P 500 slipped 0.23% to 7,323.64 for a fifth straight loss. The 10-year par eased to 5.07%; the won firmed to 1,333.0. Sam Chun Dang fell 14.56% after an FDA complete response letter on its aflibercept biosimilar surfaced. One of three nails lit; the biotech gate stays shut.",

@@ -1,0 +1,610 @@
+{
+ "date": "2026-11-24",
+ "as_of": {
+  "en": "24 Nov 2026, 08:30 KST · US close 23 Nov (S&P 500 +4.73%, Nasdaq +6.51%) · KRX close 23 Nov (24 Nov session not yet open)",
+  "kr": "2026년 11월 24일 08:30 KST · 미국 11/23 종가(S&P 500 +4.73%, 나스닥 +6.51%) · 국내 11/23 종가 기준(11/24 장 개장 전)"
+ },
+ "headline": {
+  "en": "Seoul sold first, New York reversed later. Monday's KOSPI fell 3.31% to 4,708.54 after a second sell sidecar in two sessions and an intraday low of 4,586.80; the Kosdaq slid 1.58% to 635.45, its lowest close since December 2024, and the KOSPI pharma index lost 4.9%. Hours later Nvidia's board reinstated Jensen Huang as CEO, the stock jumped about 31%, and the S&P 500 rose 4.73% to 7,237.17 while the Nasdaq gained 6.51% to 24,089.56, its best day since April 2025. Brent fell 3.5% to $89.37 and the 10-year par held at 4.92%; the won closed at 1,345.9. On the latest prints one of three nails is lit, two on the data file; the biotech gate stays shut until Seoul confirms the US turn.",
+  "kr": "서울이 먼저 팔았고, 뉴욕은 나중에 방향을 틀었다. 월요일 코스피는 이틀 연속 매도 사이드카가 걸리고 장중 4,586.80까지 밀린 끝에 3.31% 내린 4,708.54로 마감했다. 코스닥은 1.58% 내린 635.45로 2024년 12월 이후 최저 종가를 기록했고, 코스피 의약품지수는 4.9% 빠졌다. 몇 시간 뒤 엔비디아 이사회가 젠슨 황을 CEO로 복귀시키자 주가는 약 31% 급등했고, S&P 500은 4.73% 오른 7,237.17, 나스닥은 6.51% 뛴 24,089.56으로 2025년 4월 이후 최대 상승률을 기록했다. Brent는 3.5% 내린 $89.37, 10년물 par는 4.92%로 제자리, 원/달러는 1,345.9원에 마감했다. 3대 악재는 최신 공표치 기준 1개, 데이터 파일 기준 2개 점등. 서울이 미국의 반전을 확인하기 전까지 바이오 게이트는 닫아둔다."
+ },
+ "regime": {
+  "label": {
+   "en": "Regime",
+   "kr": "레짐"
+  },
+  "value": {
+   "en": "RISK-OFF CONTRACTION, relief rally under test — New York's +4.7% day came on one company's governance news, not on easier money: a December Fed hike stays priced, the Bank of Korea is expected to hike on Thursday, and foreigners have sold the KOSPI seven sessions and the Kosdaq thirteen running (Daum KRX data)",
+   "kr": "RISK-OFF CONTRACTION, 안도 랠리 검증 구간 — 뉴욕의 +4.7%는 유동성 완화가 아닌 한 기업의 지배구조 뉴스에서 나왔다. 12월 연준 인상은 여전히 반영돼 있고, 한은은 목요일 인상이 유력하며, 외국인은 코스피 7거래일·코스닥 13거래일 연속 순매도 중이다(다음 금융 KRX 자료)"
+  },
+  "note": {
+   "en": "Data file: data/latest.json is the 23 Nov 11:58 KST snapshot (about 20 hours old, within the two-day limit; no failed series logged); the 24 Nov 07:30 KST workflow snapshot had not landed when this brief was written, and in that file the 10-year series ends 19 Nov and Brent 17 Nov. On the file the nails count is 2 of 3 (build.py method, latest vs about 60 sessions earlier): US 10Y 5.04% on 19 Nov vs 4.70% on 24 Aug — above; USD/KRW 1,346.06 on 20 Nov vs 1,376.49 on 28 Aug — below; Brent $92.94 on 17 Nov vs $92.71 on 24 Aug — above. On the latest published figures the count is 1: the 23 Nov Treasury par 10-year 4.92% (unchanged) is above the August base; the 23 Nov Seoul day-session close of 1,345.9 (+9.7, Asia Economy 15:39 KST) is below; Brent fell 3.5% to $89.37 on 23 Nov, its lowest close since 28 Aug (Reuters via Time News; Investing.com notes the front month rolled to February that day) — below. Treasury par yields on 23 Nov: 2-year 4.63%, 10-year 4.92%, 30-year 5.29% (home.treasury.gov; 20 Nov: 4.63% / 4.92% / 5.31%). ETF closes in the snapshot are 20 Nov: SPY $689.81 (−3.64%), XBI $140.18 (−2.73%), EWY $123.26 (−8.42%), TLT $81.45 (+1.37%), UUP $29.62 (−0.03%); 23 Nov ETF closes are not in the data file.",
+   "kr": "데이터 파일: data/latest.json은 11/23 11:58 스냅샷으로 약 20시간 경과해 '2일 이내' 기준 안이다(수집 실패 기록 없음). 다만 이 브리프 작성 시점까지 11/24 07:30 워크플로 스냅샷이 반영되지 않았고, 파일 내 10년물 시계열은 11/19, Brent는 11/17에서 끝난다. 이 파일 기준 3대 지표는 2/3 점등(build.py 방식, 최신값 vs 약 60거래일 전). 11/19 미 10년물 5.04%는 8/24 4.70%보다 높고, 11/20 원/달러 1,346.06원은 8/28 1,376.49원보다 낮으며, 11/17 Brent $92.94는 8/24 $92.71을 웃돈다. 최신 공표치로는 1개다. 11/23 재무부 10년물 par 4.92%(보합)는 8월 기준치 위, 11/23 서울 외환시장 주간 종가 1,345.9원(+9.7원, 아시아경제 15:39)은 아래, Brent는 11/23 3.5% 내린 $89.37로 8/28 이후 최저 종가(로이터·타임뉴스, 인베스팅닷컴은 이날 근월물이 2월물로 교체됐다고 표기)여서 역시 아래다. 11/23 par 금리는 2년물 4.63%, 10년물 4.92%, 30년물 5.29%(home.treasury.gov, 11/20은 4.63%/4.92%/5.31%). 스냅샷 ETF 종가는 11/20 기준 SPY $689.81(−3.64%), XBI $140.18(−2.73%), EWY $123.26(−8.42%), TLT $81.45(+1.37%), UUP $29.62(−0.03%)이며, 11/23 ETF 종가는 데이터 파일에 없다."
+  }
+ },
+ "posture": [
+  {
+   "market": {
+    "en": "US / Nasdaq",
+    "kr": "미국 / 나스닥"
+   },
+   "stance": {
+    "en": "Defensive — a violent relief day on one name; the hike is still priced",
+    "kr": "방어적 — 한 종목발 급반등, 금리 인상 기대는 그대로"
+   },
+   "note": {
+    "en": "Monday: S&P 500 +4.73% to 7,237.17, Dow +1,447.98pt (+3.01%) to 49,595.31, Nasdaq Composite +6.51% to 24,089.56 — its best day since April 2025 (CNBC, updated 4:10 p.m. ET; JournalArta; 24/7 Wall St. snapshots differ slightly). The trigger was governance, not macro: Nvidia's board unanimously reinstated Jensen Huang as president, CEO and director, effective immediately, saying it had input from senior US government officials and that an independent committee will complete its review of a foreign intelligence effort that targeted him; he had resigned on 11 Nov, with CFO Colette Kress as interim CEO (Nvidia release, 23 Nov; Al Jazeera). Nvidia rose about 31%, Micron 19%, CoreWeave 22%, AMD almost 7% (CNBC). Rates did not help: the Treasury par 10-year was unchanged at 4.92% and the 2-year at 4.63% (home.treasury.gov), and a December hike stays priced (CNBC, 20 Nov). Brent fell 3.5% to $89.37 and WTI 3.9% to $80.17 on IEA and EIA surplus forecasts (Reuters via Time News). One day does not undo a 10% correction; the test is whether the rally broadens beyond the AI names before the 25 Nov PCE print.",
+    "kr": "월요일 S&P 500은 4.73% 오른 7,237.17, 다우는 1,447.98p(3.01%) 뛴 49,595.31, 나스닥 종합은 6.51% 급등한 24,089.56으로 2025년 4월 이후 최대 상승률을 기록했다(CNBC 미 동부 16:10 갱신, 저널아르타, 24/7월스트리트 집계는 소폭 상이). 방아쇠는 매크로가 아닌 지배구조였다. 엔비디아 이사회는 만장일치로 젠슨 황을 사장·CEO·이사로 즉시 복귀시키면서, 미 정부 고위 당국자의 의견을 들었고 그를 겨냥한 외국 정보기관 공작에 대한 독립 위원회 조사를 마무리하겠다고 밝혔다. 황은 11/11 사임했고 콜레트 크레스 CFO가 임시 CEO를 맡아왔다(엔비디아 발표 11/23, 알자지라). 엔비디아는 약 31%, 마이크론 19%, 코어위브 22%, AMD는 7% 가까이 올랐다(CNBC). 금리는 도움이 되지 않았다. 재무부 par 10년물은 4.92%, 2년물은 4.63%로 보합(home.treasury.gov)이고 12월 인상 기대도 그대로다(CNBC 11/20). Brent는 IEA·EIA의 공급 과잉 전망에 3.5% 내린 $89.37, WTI는 3.9% 내린 $80.17(로이터·타임뉴스). 하루 반등으로 10% 조정이 지워지지는 않는다. 11/25 PCE 발표 전에 랠리가 AI 종목 밖으로 확산되는지가 관건이다."
+   }
+  },
+  {
+   "market": {
+    "en": "Hong Kong / HKEX",
+    "kr": "홍콩 / HKEX"
+   },
+   "stance": {
+    "en": "Out — no fresh HKEX data; the chip rebound helps, the China-spy angle cuts both ways",
+    "kr": "관망 — HKEX 신규 수치 미확인, 반도체 반등은 호재이나 중국 첩보 이슈는 양날의 칼"
+   },
+   "note": {
+    "en": "No fresh HKEX data was gathered today. The US chip rebound removes Friday's immediate pressure on Asian tech, but the story behind it — Huang's resignation tied to an alleged Chinese intelligence effort (Al Jazeera), and Friday's short report on AMD firmware reaching a sanctioned Chinese server maker — keeps US–China technology scrutiny in the headlines. With the US 10-year steady at 4.92% and a December Fed hike priced, funding conditions through the HKD peg have not eased.",
+    "kr": "오늘은 HKEX 별도 수치를 확인하지 못했다. 미 반도체 반등으로 금요일 아시아 기술주를 짓눌렀던 압력은 일단 걷혔다. 다만 그 배경, 즉 중국 정보기관 공작 의혹과 얽힌 황의 사임(알자지라)과 AMD 펌웨어가 제재 대상 중국 서버업체로 흘러갔다는 지난주 공매도 리포트는 미·중 기술 감시를 계속 헤드라인에 올려둔다. 미 10년물이 4.92%에 머물고 12월 연준 인상이 반영된 만큼 홍콩달러 페그를 통한 자금 여건은 풀리지 않았다."
+   }
+  },
+  {
+   "market": {
+    "en": "Korea / Kosdaq",
+    "kr": "한국 / 코스닥"
+   },
+   "stance": {
+    "en": "Cash — 635.45, lowest close since Dec 2024; foreigners net sellers 13 sessions running",
+    "kr": "현금 — 635.45, 2024년 12월 이후 최저 종가, 외국인 13거래일 연속 매도"
+   },
+   "note": {
+    "en": "Kosdaq −10.23pt (−1.58%) to 635.45 on 23 Nov, below the 9 Nov closing low and the lowest close since 9 Dec 2024 (News1, 16:59 KST). KRX flows via Daum: foreigners −₩37.6bn, institutions +₩195.0bn, individuals −₩169.4bn. KOSPI −161.42pt (−3.31%) to 4,708.54 after an intraday low of 4,586.80; a sell sidecar fired at about 11:33 KST, the second in two sessions (ISSUE ON, 21:58 KST). KOSPI flows (Daum KRX data): foreigners −₩256.5bn (a seventh straight selling session), institutions +₩176.3bn, individuals −₩353.2bn; DigitalToday's 15:55 KST tally was −₩247.0bn / +₩187.2bn / −₩367.0bn. Samsung Electronics −3.06% to ₩177,500, SK hynix −2.52% to ₩1,085,000. USD/KRW day-session close 1,345.9, up ₩9.7 (Asia Economy, 15:39 KST). Policy: after an emergency meeting on 22 Nov the government is preparing a ₩10tn market stabilization fund, eases listed companies' buyback order limits from 24 Nov for three months and has put illegal short selling under special monitoring; no fund money has yet been deployed (ISSUE ON). Tuesday opens after Nvidia's +31% and a +6.5% Nasdaq.",
+    "kr": "11/23 코스닥은 10.23p(1.58%) 내린 635.45로 11/9 종가 저점을 밑돌며 2024년 12월 9일 이후 최저 종가를 기록했다(뉴스1 16:59). 다음 금융 KRX 자료 기준 외국인 −376억·기관 +1,950억·개인 −1,694억 원. 코스피는 장중 4,586.80까지 밀린 끝에 161.42p(3.31%) 내린 4,708.54로 마감했고, 오전 11시 33분께 이틀 연속 매도 사이드카가 발동됐다(이슈온 21:58). 코스피 수급(다음 금융 KRX 자료)은 외국인 −2,565억 원(7거래일 연속 매도)·기관 +1,763억·개인 −3,532억 원으로, 디지털투데이 15:55 집계는 −2,470억/+1,872억/−3,670억 원. 삼성전자 −3.06%(17만7,500원), SK하이닉스 −2.52%(108만5,000원). 원/달러 주간 종가는 9.7원 오른 1,345.9원(아시아경제 15:39). 정책 대응도 나왔다. 정부는 11/22 긴급 회의 뒤 10조 원 규모 증시안정펀드를 준비 중이고, 24일부터 3개월간 상장사 자사주 매입 주문 한도를 완화하며, 불법 공매도를 특별 감시한다. 펀드 자금은 아직 집행 전이다(이슈온). 화요일 장은 엔비디아 +31%, 나스닥 +6.5% 뒤에 열린다."
+   }
+  }
+ ],
+ "biotech_gate": {
+  "label": {
+   "en": "Biotech sector gate",
+   "kr": "바이오 섹터 게이트"
+  },
+  "value": {
+   "en": "CLOSED",
+   "kr": "닫힘"
+  },
+  "note": {
+   "en": "Not met. The Kosdaq closed 64.6pt below 700 at a 23-month low, with foreigners net sellers a 13th straight session (Daum KRX data). Healthcare underperformed the KOSPI: the KOSPI pharma index fell 4.9%, the KOSPI 200 healthcare index 5.2% and the KRX healthcare index 3.9%, with Yuhan −6.0%, Celltrion −5.2% and Samsung Biologics −4.9%; the Kosdaq pharma index fell a milder 1.7% (Medicopharma, 16:35 KST). Stock-specific bright spots were policy-driven — Cure Cell hit the upper limit after its CAR-T therapy cleared NHIS price talks, with reimbursement from 1 Dec (Medicopharma). In the US the latest XBI close in the data file is $140.18 on 20 Nov (−2.73%); the 23 Nov XBI close was not found. A Nasdaq rebound driven by one chipmaker is not yet a biotech reopening signal; the gate reopens only when the Kosdaq holds 700 with foreigners buying.",
+   "kr": "조건 미충족. 코스닥은 700선을 64.6p 밑돈 23개월 저점에서 마감했고, 외국인은 13거래일 연속 순매도했다(다음 금융 KRX 자료). 헬스케어는 코스피보다 약했다. 코스피 의약품지수 −4.9%, 코스피200 헬스케어 −5.2%, KRX 헬스케어 −3.9%였고 유한양행 −6.0%, 셀트리온 −5.2%, 삼성바이오로직스 −4.9%가 빠졌다. 코스닥 제약지수는 −1.7%로 상대적으로 덜 밀렸다(메디코파마 16:35). 개별 호재는 정책에서 나왔다. 큐로셀은 CAR-T 치료제가 건보공단 약가 협상을 마쳐 12/1부터 급여가 적용된다는 소식에 상한가를 기록했다(메디코파마). 미국은 데이터 파일상 최신 XBI 종가가 11/20 $140.18(−2.73%)이며 11/23 XBI 종가는 확인하지 못했다. 반도체 한 종목이 끌어올린 나스닥 반등은 아직 바이오 재개 신호가 아니다. 외국인 매수 속에 코스닥이 700선을 지킬 때 게이트를 다시 연다."
+  }
+ },
+ "read": {
+  "label": {
+   "en": "IEUM's read",
+   "kr": "IEUM's read"
+  },
+  "en": "The order of events matters. Seoul traded Monday on Friday's New York rout and made new lows — the Kosdaq at its weakest close since December 2024, a second KOSPI sidecar, the KOSPI pharma index down 1.6pp more than the market — and only then did New York reverse, on the reinstatement of one chief executive. That makes Tuesday a clean test of how much of Korea's slide was imported AI-chip fear and how much is domestic and structural. The case for the first: the selling was led by memory and large-cap pharma that foreigners own, and the US rebound hits exactly that channel. The case for the second: nothing in the liquidity backdrop moved. The 10-year par sat at 4.92%, a December Fed hike is still priced, the won closed weaker at 1,345.9, and the Bank of Korea is expected to raise its rate to 3.25% on Thursday. Oil is the one real easing — Brent's 3.5% drop to $89.37, its lowest close since 28 Aug, keeps that nail out on the latest prints. The government's response (buyback limits eased from today, a ₩10tn fund in preparation) can slow forced selling but does not bring foreigners back. A rebound led by foreign buying in SK hynix and the large-cap healthcare names would be the first evidence of a turn; a retail- and policy-led bounce would not. Until the Kosdaq holds 700 with foreigners buying, the stance stays defensive.",
+  "kr": "순서가 중요하다. 서울은 월요일 금요일 뉴욕 폭락을 반영하며 신저가를 썼다. 코스닥은 2024년 12월 이후 최저 종가, 코스피는 이틀 연속 사이드카, 코스피 의약품지수는 지수보다 1.6%p 더 빠졌다. 뉴욕이 방향을 튼 건 그다음이었고, 계기는 CEO 한 명의 복귀였다. 그래서 화요일은 한국 증시 하락 중 어디까지가 수입된 AI 반도체 공포이고 어디부터가 국내 구조적 요인인지 가려볼 시험대다. 전자를 지지하는 근거는 매도가 외국인 보유 비중이 큰 메모리와 대형 제약·바이오주에 몰렸고, 미국 반등이 바로 그 경로를 건드린다는 점이다. 후자를 지지하는 근거는 유동성 여건이 전혀 움직이지 않았다는 점이다. 10년물 par는 4.92%에 머물렀고 12월 연준 인상은 여전히 반영돼 있으며, 원화는 1,345.9원으로 약세 마감했고 한은은 목요일 3.25%로 인상할 것이 유력하다. 실질적 완화는 유가뿐이다. Brent가 3.5% 내린 $89.37로 8/28 이후 최저 종가를 기록하며 최신 공표치 기준 유가 지표는 꺼진 상태를 유지했다. 정부 대책(오늘부터 자사주 매입 한도 완화, 10조 원 펀드 준비)은 투매 속도는 늦출 수 있어도 외국인을 되돌리지는 못한다. SK하이닉스와 대형 헬스케어주에서 외국인 매수가 이끄는 반등이라면 추세 전환의 첫 증거가 되겠지만, 개인과 정책이 끌어올리는 반등이라면 그렇지 않다. 외국인 매수 속에 코스닥이 700선을 지킬 때까지 판단은 방어적으로 유지한다."
+ },
+ "watchlist": [
+  {
+   "name": "Yuhan (000100)",
+   "name_kr": "유한양행 (000100)",
+   "priority": "HIGH",
+   "trigger": {
+    "en": "−5.96% day; foreign ownership −0.57pp over 3 sessions (22.24% → 21.67%); KOSPI pharma index −4.9%",
+    "kr": "일간 −5.96%, 외국인 지분율 3거래일 −0.57%p(22.24%→21.67%), 코스피 의약품지수 −4.9%"
+   },
+   "archetype": {
+    "en": "Royalty / licensed asset",
+    "kr": "로열티 / 기술이전 자산"
+   },
+   "driver": {
+    "en": "Lazertinib (Rybrevant combo) sales milestones",
+    "kr": "레이저티닙(리브리반트 병용) 매출 마일스톤"
+   },
+   "last": "₩75,800 (−5.96%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩80,600. Foreign ownership 21.67% on 23 Nov (22.02% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩80,600. 외국인 지분율 11/23 21.67%(11/20 22.02%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩73,200 (20-session intraday low) / ₩74,700 (23 Nov intraday low; 29 Oct close) / ₩83,200 (17 Nov close, 20-session closing high) — Daum KRX series",
+   "status": {
+    "en": "The watchlist's worst day: traded ₩74,700–79,900 and closed −5.96% at ₩75,800 on 163,422 shares (0.74× average) — a heavy fall on ordinary volume. Foreigners net sold 19,519 shares, institutions +6,487; foreign ownership fell to 21.67%, the steepest three-session drop in the universe. The move came with the sector rather than on news: the KOSPI pharma index fell 4.9%, 1.6pp more than the KOSPI, with Celltrion −5.2% and Samsung Biologics −4.9% (Medicopharma, 16:35 KST). No company disclosure or news explaining the drop was found.",
+    "kr": "관심 종목 중 가장 약했다. ₩74,700~79,900에서 거래돼 5.96% 내린 ₩75,800에 마감했고, 거래량은 163,422주(평균의 0.74배)로 평이한 거래 속 급락이다. 외국인 19,519주 순매도, 기관 6,487주 순매수. 외국인 지분율은 21.67%로 내려 유니버스 내 3거래일 감소폭이 가장 컸다. 개별 악재보다 업종 흐름에 휩쓸린 모습이다. 코스피 의약품지수는 코스피보다 1.6%p 더 빠진 4.9% 하락했고, 셀트리온(−5.2%)·삼성바이오로직스(−4.9%)도 동반 약세였다(메디코파마 16:35). 하락을 설명할 공시나 뉴스는 확인되지 않았다."
+   }
+  },
+  {
+   "name": "Alteogen (196170)",
+   "name_kr": "알테오젠 (196170)",
+   "priority": "HIGH",
+   "trigger": {
+    "en": "UK patent trial 30 Nov (4 trading days); Italy hearing 2 Dec; −3.38% day; foreigners net sold 4 sessions",
+    "kr": "11/30 영국 특허 재판(4거래일 후), 12/2 이탈리아 심리, 일간 −3.38%, 외국인 4거래일 연속 순매도"
+   },
+   "archetype": {
+    "en": "Platform / royalty",
+    "kr": "플랫폼 / 로열티"
+   },
+   "driver": {
+    "en": "Halozyme v. MSD patent series (German injunction lifted on appeal 19 Nov; Dutch eight-country order still in force; UK trial 30 Nov, Italy hearing 2 Dec per press); US CMS rule on SC reformulations; partner royalty velocity; Alteogen Biologics merger (29 Dec)",
+    "kr": "Halozyme–MSD 특허 소송(11/19 독일 가처분 항소심서 취소, 네덜란드 8개국 명령은 유효, 보도 기준 11/30 영국 재판·12/2 이탈리아 심리), 미 CMS의 SC 제형 규정, 파트너 로열티 속도, 알테오젠바이오로직스 합병(12/29)"
+   },
+   "last": "₩168,500 (−3.38%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩174,400. Foreign ownership 16.92% on 23 Nov (17.08% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩174,400. 외국인 지분율 11/23 16.92%(11/20 17.08%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩152,500 (52w low, 9 Nov intraday) / ₩168,400 (9 Nov close) / ₩200,500 (6 Nov close, gap top)",
+   "status": {
+    "en": "Gave back Friday's court-driven gain: traded ₩164,500–173,900 and closed −3.38% at ₩168,500, ₩100 above the 9 Nov close, on 348,723 shares (0.72× average). Foreigners sold a fourth straight session (−5,291 shares, small) and institutions bought 47,348; ownership 16.92%. No new disclosure was found. The legal calendar now dominates: a UK patent trial on 30 Nov and the first Italian injunction hearing on 2 Dec (press citing MSD's SEC filing), with the Dutch eight-country order still in force after Munich lifted the German injunction on 19 Nov.",
+    "kr": "금요일 법원발 상승분을 반납했다. ₩164,500~173,900에서 거래돼 3.38% 내린 ₩168,500에 마감, 11/9 종가보다 불과 100원 높다. 거래량은 348,723주(평균의 0.72배). 외국인은 4거래일 연속 순매도(−5,291주, 소량)했고 기관이 47,348주를 샀다. 외국인 지분율 16.92%. 신규 공시는 확인되지 않았다. 이제 변수는 법정 일정이다. 11/30 영국 특허 재판, 12/2 이탈리아 가처분 첫 심리가 잡혀 있고(MSD SEC 공시 인용 보도), 11/19 뮌헨 법원이 독일 가처분을 취소했지만 네덜란드 법원의 8개국 판매 제한 명령은 여전히 유효하다."
+   }
+  },
+  {
+   "name": "SK hynix (000660)",
+   "name_kr": "SK하이닉스 (000660)",
+   "priority": "HIGH",
+   "trigger": {
+    "en": "Foreigners net sold 8 sessions running (Daum investor data); −2.52% day, −5.2% over 3 sessions; Nvidia +31% overnight on Huang's reinstatement",
+    "kr": "외국인 8거래일 연속 순매도(다음 금융 투자자별), 일간 −2.52%·3거래일 −5.2%, 간밤 젠슨 황 복귀에 엔비디아 +31%"
+   },
+   "archetype": {
+    "en": "Macro / foreign-flow proxy",
+    "kr": "매크로 / 외국인 수급 프록시"
+   },
+   "driver": {
+    "en": "AI memory demand; Nvidia read-through (Huang reinstated as CEO 23 Nov, shares +31%; Micron +19%, CNBC); foreign flows",
+    "kr": "AI 메모리 수요, 엔비디아 연동(11/23 젠슨 황 CEO 복귀로 +31%, 마이크론 +19%, CNBC), 외국인 수급"
+   },
+   "last": "₩1,085,000 (−2.52%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩1,113,000. Foreign ownership 49.38% on 23 Nov (49.41% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩1,113,000. 외국인 지분율 11/23 49.38%(11/20 49.41%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩1,044,000 (23 Nov intraday low, 20-session low) / ₩1,085,000 (23 Nov close, 20-session closing low) / ₩1,526,000 (29 Oct close) — Daum KRX series",
+   "status": {
+    "en": "Broke the 6 Nov intraday low of ₩1,089,000, trading down to ₩1,044,000 before closing −2.52% at ₩1,085,000, a 20-session closing low, on 3,778,909 shares (1.05× average). Foreigners sold an eighth straight session (−166,230 shares) and institutions −27,323. Overnight the setup flipped: Nvidia's board unanimously reinstated Jensen Huang as CEO (company release, 23 Nov) and the stock rose about 31%, Micron 19% and the VanEck semiconductor ETF more than 16% intraday (CNBC, 4:10 p.m. ET). Whether foreigners stop selling Seoul's memory names on that is the first test of Tuesday's session.",
+    "kr": "11/6 장중 저점 ₩1,089,000을 깨고 ₩1,044,000까지 밀린 뒤 2.52% 내린 ₩1,085,000, 20거래일 종가 최저로 마감했다. 거래량 3,778,909주(평균의 1.05배). 외국인은 8거래일 연속(−166,230주), 기관도 27,323주 순매도. 간밤 판이 뒤집혔다. 엔비디아 이사회가 만장일치로 젠슨 황을 CEO에 복귀시켰고(회사 발표 11/23), 주가는 약 31%, 마이크론은 19% 뛰었으며 반에크 반도체 ETF는 장중 16% 넘게 올랐다(CNBC 미 동부 16:10). 이를 계기로 외국인의 메모리주 매도가 멈출지가 화요일 장의 첫 시험대다."
+   }
+  },
+  {
+   "name": "ABL Bio (298380)",
+   "name_kr": "에이비엘바이오 (298380)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "−4.26% day; −6.2% over 3 sessions; foreign ownership +0.36pp over 3 sessions; broke the 9 Nov low",
+    "kr": "일간 −4.26%, 3거래일 −6.2%, 외국인 지분율 3거래일 +0.36%p, 11/9 저점 하향 이탈"
+   },
+   "archetype": {
+    "en": "Platform / licensing",
+    "kr": "플랫폼 / 라이선싱"
+   },
+   "driver": {
+    "en": "Bispecific and BBB-shuttle (Grabody) deals; partner clinical data",
+    "kr": "이중항체·BBB 셔틀(그랩바디) 기술이전, 파트너 임상 데이터"
+   },
+   "last": "₩33,750 (−4.26%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩35,250. Foreign ownership 15.01% on 23 Nov (14.72% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩35,250. 외국인 지분율 11/23 15.01%(11/20 14.72%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩32,400 (23 Nov intraday low, 20-session low) / ₩33,750 (23 Nov close, 20-session closing low) / ₩42,500 (11 Nov close) — Daum KRX series",
+   "status": {
+    "en": "Traded ₩32,400–34,850 and closed −4.26% at ₩33,750, a fresh 20-session closing low, after breaking the 9 Nov intraday low of ₩33,900; volume 238,842 shares (0.75× average). Foreigners −24,532 shares, institutions +32,641; Daum's ownership series still shows foreign holdings rising to 15.01% from 14.72%. No company disclosure was found; the move tracks the drug-developer selling.",
+    "kr": "₩32,400~34,850에서 거래돼 4.26% 내린 ₩33,750, 20거래일 종가 신저가로 마감했다. 장중 11/9 저점(₩33,900)도 깨졌다. 거래량 238,842주(평균의 0.75배). 외국인 −24,532주, 기관 +32,641주였으나 다음 금융 지분율 자료상 외국인 보유 비중은 14.72%에서 15.01%로 오히려 늘었다. 회사 공시는 확인되지 않았고 신약 개발주 매도 흐름을 따른 하락으로 본다."
+   }
+  },
+  {
+   "name": "HLB (028300)",
+   "name_kr": "HLB (028300)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "Foreign ownership −0.62pp over 3 sessions; foreigners net sold 4 sessions; HLB Life Science merger terms set (Medicopharma)",
+    "kr": "외국인 지분율 3거래일 −0.62%p, 외국인 4거래일 연속 순매도, HLB생명과학 흡수합병 조건 확정(메디코파마)"
+   },
+   "archetype": {
+    "en": "Binary event",
+    "kr": "바이너리 이벤트"
+   },
+   "driver": {
+    "en": "FDA review of rivoceranib + camrelizumab (liver cancer) — PDUFA goal 9 Apr 2027 (Hankyung, 4 Nov); absorption of HLB Life Science (shareholder meeting 30 Mar 2027)",
+    "kr": "리보세라닙+캄렐리주맙(간암) FDA 심사 — PDUFA 목표일 2027년 4월 9일(한국경제 11/4), HLB생명과학 흡수합병(2027년 3월 30일 주총)"
+   },
+   "last": "₩26,750 (−1.11%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩27,050. Foreign ownership 12.79% on 23 Nov (13.00% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩27,050. 외국인 지분율 11/23 12.79%(11/20 13.00%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩26,300 (23 Nov intraday low, 20-session low) / ₩26,750 (23 Nov close, 20-session closing low) / ₩41,700 (2 Nov close) — Daum KRX series",
+   "status": {
+    "en": "Closed −1.11% at ₩26,750, another 20-session closing low, after a ₩26,300–27,550 range on 491,865 shares (0.81× average). Foreigners sold a fourth session (−1,129 shares, small) while institutions bought 113,055; foreign ownership has fallen from 13.41% on 18 Nov to 12.79%. Corporate action: the boards of HLB and HLB Life Science decided on 19 Nov to pursue an absorption merger with HLB surviving — 0.0857532 HLB shares per HLB Life Science share, a ₩3,063 appraisal price, shareholder meeting 30 Mar 2027 and merger date 1 Jul 2027; either side may walk if appraisal claims exceed ₩20bn (Medicopharma, 23 Nov 16:35 KST). HLB Life Science fell 16.8%. The FDA goal date stays 9 Apr 2027.",
+    "kr": "₩26,300~27,550에서 거래돼 1.11% 내린 ₩26,750, 또다시 20거래일 종가 최저로 마감했다. 거래량 491,865주(평균의 0.81배). 외국인은 4거래일째 순매도(−1,129주, 소량), 기관은 113,055주 순매수했고, 외국인 지분율은 11/18 13.41%에서 12.79%로 낮아졌다. 지배구조 이슈도 있다. HLB와 HLB생명과학 이사회가 11/19 HLB 존속 흡수합병을 재추진하기로 결의했다. 합병비율은 HLB생명과학 1주당 HLB 0.0857532주, 주식매수청구가 ₩3,063, 주총 2027년 3월 30일, 합병기일 7월 1일이며, 매수청구액이 200억 원을 넘으면 양사 협의로 계약을 해제할 수 있다(메디코파마 11/23 16:35). HLB생명과학은 16.8% 급락. FDA 목표일은 2027년 4월 9일 그대로다."
+   }
+  },
+  {
+   "name": "Celltrion (068270)",
+   "name_kr": "셀트리온 (068270)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "−5.16% day; foreigners' three-session buying streak ended (−26,952 shares)",
+    "kr": "일간 −5.16%, 외국인 3거래일 연속 순매수 마감(−26,952주)"
+   },
+   "archetype": {
+    "en": "Biosimilar commercial",
+    "kr": "바이오시밀러 상업화"
+   },
+   "driver": {
+    "en": "US/EU launches, pricing, margins; Eyedenzelt (aflibercept) Japan price listing 12 Nov",
+    "kr": "미·유럽 출시, 약가, 마진, 아이덴젤트(아플리버셉트) 11/12 일본 약가 등재"
+   },
+   "last": "₩202,000 (−5.16%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩213,000. Foreign ownership 25.71% on 23 Nov (25.67% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩213,000. 외국인 지분율 11/23 25.71%(11/20 25.67%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩188,600 (27 Oct close) / ₩199,000 (23 Nov intraday low) / ₩215,000 (19 Nov close, 20-session closing high) — Daum KRX series",
+   "status": {
+    "en": "Friday's defensive stand broke: traded ₩199,000–209,000 and closed −5.16% at ₩202,000 on 437,634 shares (0.72× average). Foreigners turned net sellers (−26,952 shares) after three buying days; institutions bought 95,482. The fall came with the KOSPI pharma index (−4.9%; Medicopharma). No new disclosure was found.",
+    "kr": "금요일의 방어력이 꺾였다. ₩199,000~209,000에서 거래돼 5.16% 내린 ₩202,000에 마감, 거래량 437,634주(평균의 0.72배). 외국인은 사흘 매수 후 순매도(−26,952주)로 돌아섰고 기관이 95,482주를 샀다. 코스피 의약품지수(−4.9%, 메디코파마)와 같은 흐름이다. 추가 공시는 확인되지 않았다."
+   }
+  },
+  {
+   "name": "Samsung Biologics (207940)",
+   "name_kr": "삼성바이오로직스 (207940)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "−4.94% day; −5.7% over 3 sessions; new 20-session closing low",
+    "kr": "일간 −4.94%, 3거래일 −5.7%, 20거래일 종가 신저가"
+   },
+   "archetype": {
+    "en": "CDMO / capacity",
+    "kr": "CDMO / 캐파"
+   },
+   "driver": {
+    "en": "Contract wins, plant ramp, US tariff/BIOSECURE policy",
+    "kr": "수주, 공장 램프업, 미 관세·BIOSECURE 정책"
+   },
+   "last": "₩1,288,000 (−4.94%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩1,355,000. Foreign ownership 12.55% on 23 Nov (12.52% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩1,355,000. 외국인 지분율 11/23 12.55%(11/20 12.52%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩1,268,000 (23 Nov intraday low, 20-session low) / ₩1,288,000 (23 Nov close, 20-session closing low) / ₩1,520,000 (5 Nov close) — Daum KRX series",
+   "status": {
+    "en": "Traded ₩1,268,000–1,329,000 and closed −4.94% at ₩1,288,000, a new 20-session closing low, on 47,842 shares (0.78× average). Foreigners −11,854 shares, institutions +7,517. Sector selling, not news: the KOSPI 200 healthcare index fell 5.2% (Medicopharma). No new disclosure was found.",
+    "kr": "₩1,268,000~1,329,000에서 거래돼 4.94% 내린 ₩1,288,000, 20거래일 종가 최저로 마감했다. 거래량 47,842주(평균의 0.78배). 외국인 −11,854주, 기관 +7,517주. 개별 재료가 아닌 업종 매도로, 코스피200 헬스케어지수가 5.2% 하락했다(메디코파마). 추가 공시는 확인되지 않았다."
+   }
+  },
+  {
+   "name": "PharmaResearch (214450)",
+   "name_kr": "파마리서치 (214450)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "Foreign ownership −0.43pp over 3 sessions; foreigners net sold 3 sessions; +3.2% over 3 sessions",
+    "kr": "외국인 지분율 3거래일 −0.43%p, 외국인 3거래일 연속 순매도, 3거래일 +3.2%"
+   },
+   "archetype": {
+    "en": "Commercial-stage compounder",
+    "kr": "상업화 단계 컴파운더"
+   },
+   "driver": {
+    "en": "Earnings revisions — 3Q26 preliminary: revenue ₩171.5bn (+26.7% y/y), operating profit ₩62.6bn (+1.2%), OPM about 36.5% vs about 45.7% a year earlier; aesthetics exports",
+    "kr": "실적 추정치 — 3Q26 잠정: 매출 1,715억 원(+26.7% YoY), 영업이익 626억 원(+1.2%), OPM 약 36.5%(전년 동기 약 45.7%), 에스테틱 수출"
+   },
+   "last": "₩273,500 (−0.55%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩275,000. Foreign ownership 16.07% on 23 Nov (16.51% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩275,000. 외국인 지분율 11/23 16.07%(11/20 16.51%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩208,000 (52w low, 30 Oct; Daum KRX series) / ₩266,000 (23 Nov intraday low; 20 Oct close) / ₩287,500 (20 Nov intraday high)",
+   "status": {
+    "en": "The universe's steadiest name on a weak day: traded ₩266,000–284,500 and closed −0.55% at ₩273,500 on 98,197 shares (1.08× average, the highest relative volume in the group). Foreigners sold a third session (−3,091 shares) and ownership eased to 16.07%; institutions bought 11,687. The 3Q26 margin debate (OPM about 36.5% vs 45.7% a year earlier) is unchanged; no new disclosure was found.",
+    "kr": "약세장 속 유니버스에서 가장 견조했다. ₩266,000~284,500에서 거래돼 0.55% 내린 ₩273,500에 마감했고, 거래량은 98,197주(평균의 1.08배)로 관심 종목 중 상대 거래량이 가장 많았다. 외국인은 3거래일째 순매도(−3,091주)해 지분율이 16.07%로 낮아졌고, 기관은 11,687주 순매수. 3Q26 마진 논쟁(OPM 약 36.5%, 전년 45.7%)은 그대로이며 추가 공시는 확인되지 않았다."
+   }
+  },
+  {
+   "name": "Sam Chun Dang Pharm (000250)",
+   "name_kr": "삼천당제약 (000250)",
+   "priority": "MEDIUM",
+   "trigger": {
+    "en": "+5.2% over 3 sessions; flat on 23 Nov after two up days",
+    "kr": "3거래일 +5.2%, 이틀 상승 후 11/23 보합"
+   },
+   "archetype": {
+    "en": "Formulation platform",
+    "kr": "제형 플랫폼"
+   },
+   "driver": {
+    "en": "SCD411 (aflibercept) US review — FDA complete response letter (18 Aug, made public 18 Nov), company resubmission 6 Nov; Japan NHI listing 12 Nov; oral/SC formulation deals",
+    "kr": "SCD411(아플리버셉트) 미국 허가 — FDA 보완요구서(8/18자, 11/18 공개), 11/6 보완자료 제출, 11/12 일본 약가 등재, 경구·SC 제형 기술이전"
+   },
+   "last": "₩144,500 (0.00%)",
+   "tag": {
+    "en": "KRX close 23 Nov (Daum Finance); prior close ₩144,500. Foreign ownership 2.63% on 23 Nov (2.50% on 20 Nov; Daum Finance investor data)",
+    "kr": "KRX 종가 11/23(다음 금융), 전일 종가 ₩144,500. 외국인 지분율 11/23 2.63%(11/20 2.50%, 다음 금융 투자자별 매매)"
+   },
+   "level": "₩113,000 (18 Nov intraday low) / ₩137,300 (18 Nov close) / ₩160,700 (17 Nov close) — Daum KRX series",
+   "status": {
+    "en": "Unchanged at ₩144,500 after a ₩138,400–147,800 range on 101,189 shares (0.67× average) — a flat close on a −1.58% Kosdaq. Foreigners −20,251 shares, institutions +14,774; Daum's series shows foreign ownership at 2.63%. Still 10.1% below the 17 Nov close; the FDA's response to the 6 Nov SCD411 resubmission is the next variable. No new disclosure was found.",
+    "kr": "₩138,400~147,800에서 거래된 끝에 ₩144,500 보합 마감, 거래량 101,189주(평균의 0.67배). 코스닥이 1.58% 내린 날 버텼다. 외국인 −20,251주, 기관 +14,774주이며 다음 금융 자료상 외국인 지분율은 2.63%. 11/17 종가보다는 여전히 10.1% 낮다. 11/6 제출한 SCD411 보완자료에 대한 FDA 회신이 다음 변수이며 추가 공시는 확인되지 않았다."
+   }
+  },
+  {
+   "name": "KOSDAQ index",
+   "name_kr": "코스닥 지수",
+   "archetype": {
+    "en": "Index",
+    "kr": "지수"
+   },
+   "driver": {
+    "en": "Foreign net flow × won",
+    "kr": "외국인 수급 × 원화"
+   },
+   "last": "635.45 (−1.58%)",
+   "tag": {
+    "en": "KRX close 23 Nov (News1 16:59 KST and Daum Finance; −10.23pt)",
+    "kr": "KRX 종가 11/23(뉴스1 16:59, 다음 금융, −10.23p)"
+   },
+   "level": "700 (reclaim) / 638.97 (9 Nov close, broken) / 627.01 (9 Dec 2024 close)",
+   "status": {
+    "en": "Fell 10.23pt to 635.45, below the 9 Nov closing low of 638.97 and the lowest close since 9 Dec 2024 (627.01; News1, Newspim via ISSUE ON). Flows on KRX data via Daum: foreigners −₩37.6bn (net sellers a 13th straight session since 6 Nov), institutions +₩195.0bn, individuals −₩169.4bn. Healthcare was mixed: the Kosdaq pharma index fell 1.7% and the Kosdaq 150 healthcare index 2.4%; 33 of 212 healthcare names fell 5% or more and 6 rose that much (Medicopharma; Medipana). 700 is 64.6pt above.",
+    "kr": "10.23p 내린 635.45로 11/9 종가 저점(638.97)을 밑돌며 2024년 12월 9일(627.01) 이후 최저 종가를 기록했다(뉴스1, 뉴스핌·이슈온 인용). 다음 금융 KRX 자료 기준 외국인 −376억 원(11/6 이후 13거래일 연속 매도), 기관 +1,950억 원, 개인 −1,694억 원. 헬스케어는 엇갈렸다. 코스닥 제약지수 −1.7%, 코스닥150 헬스케어 −2.4%였고, 212종목 중 5% 이상 하락이 33개, 상승이 6개였다(메디코파마·메디파나뉴스). 700선까지는 64.6p."
+   }
+  }
+ ],
+ "catalysts": [
+  {
+   "date": "2026-11-24",
+   "event": {
+    "en": "Korea — eased buyback order limits for listed companies take effect (three months); ₩10tn stabilization fund in preparation",
+    "kr": "한국 — 상장사 자사주 매입 주문 한도 완화 시행(3개월), 10조 원 증시안정펀드 준비"
+   },
+   "scope": {
+    "en": "KOSPI / Kosdaq",
+    "kr": "코스피 / 코스닥"
+   },
+   "why": {
+    "en": "Announced after the 22 Nov emergency market meeting, with special monitoring of illegal short selling for three months; no stabilization-fund money had been deployed as of 23 Nov (ISSUE ON, 21:58 KST, citing several outlets). Policy support can slow forced selling; it does not replace foreign demand. Not verified against a government release",
+    "kr": "11/22 긴급 시장점검회의 뒤 발표됐고, 불법 공매도도 3개월간 특별 감시한다. 11/23 기준 증안펀드 자금은 미집행(이슈온 21:58, 복수 매체 인용). 정책 지원은 투매 속도를 늦출 수 있으나 외국인 수요를 대신하지는 못한다. 정부 보도자료 대조 전"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-11-25",
+   "event": {
+    "en": "US October PCE inflation and 3Q GDP revision (Korea-time release window per press)",
+    "kr": "미국 10월 PCE 물가·3분기 GDP 수정치(언론 기준 한국시간 발표)"
+   },
+   "scope": {
+    "en": "All markets",
+    "kr": "전 시장"
+   },
+   "why": {
+    "en": "The last major inflation print before the 8–9 Dec FOMC; a hot PCE would firm the priced hike after a week in which Governor Cook warned against falling behind. Thanksgiving closes US markets on 26 Nov. Dates per Seoul Economic Daily week-ahead (22 Nov), not verified against BEA",
+    "kr": "12/8~9 FOMC 전 마지막 주요 물가 지표. 쿡 이사가 인플레이션 대응 지연을 경계한 주에 PCE가 높게 나오면 인상 기대가 굳어진다. 미국 증시는 11/26 추수감사절 휴장. 일정은 서울경제 주간 전망(11/22) 기준이며 BEA 대조 전"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-11-26",
+   "event": {
+    "en": "Bank of Korea rate decision",
+    "kr": "한국은행 금통위"
+   },
+   "scope": {
+    "en": "Kosdaq / KRW",
+    "kr": "코스닥 / 원화"
+   },
+   "why": {
+    "en": "Korean liquidity gate; the last rate meeting of 2026 (Sidae, 23 Nov 13:40 KST). All 10 bond-market experts polled by Money Today expect a 25bp hike from 3.00% to 3.25%, seven of them unanimous (22 Nov); all 14 economists in Asia Economy's poll expect the same (22 Nov 11:53 KST), and brokers Shinyoung, Yuanta, LS and Heungkuk forecast 3.25% (Sidae). KB Securities does not rule out a hold. A hike into a 23-month Kosdaq low tightens the backdrop. Date per press, not verified against a Bank of Korea release",
+    "kr": "국내 유동성 게이트이자 올해 마지막 금통위(시대일보 11/23 13:40). 머니투데이 설문에서 채권 전문가 10명 전원이 3.00%→3.25% 0.25%p 인상을 예상했고 7명은 만장일치를 점쳤다(11/22). 아시아경제 설문의 이코노미스트 14명도 전원 인상 전망(11/22 11:53), 신영·유안타·LS·흥국증권도 3.25%를 예상했다(시대일보). KB증권은 동결 가능성도 배제하지 않았다. 코스닥 23개월 저점에서의 인상은 여건을 더 조인다. 일정은 언론 기준이며 한은 공식 일정 대조 전"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "2026-11-30",
+   "event": {
+    "en": "Alteogen — UK patent trial, Halozyme v. MSD (Keytruda SC)",
+    "kr": "알테오젠 — 영국 특허 재판(할로자임 vs MSD, 키트루다SC)"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Follows the 19 Nov Munich appeal ruling lifting the German injunction. Press reports conflict on which patent is at issue (a separate European patent, or the divisional EP 347 after Halozyme gave up EP 622 in the UK). Date per press citing MSD's SEC filing, not verified against the filing",
+    "kr": "11/19 뮌헨 항소심의 독일 가처분 취소에 이은 일정. 쟁점 특허가 별도 유럽 특허인지, 할로자임이 영국에서 EP 622를 포기한 뒤 남은 분할특허 EP 347인지는 보도마다 다르다. MSD SEC 공시를 인용한 언론 보도 기준이며 공시 원문 대조 전"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "2026-12-02",
+   "event": {
+    "en": "Alteogen — first Italian preliminary-injunction hearing (Halozyme v. MSD Italy and CMO BSP Pharmaceuticals)",
+    "kr": "알테오젠 — 이탈리아 판매금지 가처분 첫 심리(할로자임 vs MSD 이탈리아 법인·위탁생산사 BSP)"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Italy is one of the eight countries under the Dutch order; an injunction against the contract manufacturer would reach supply, not just sales. Date per press citing MSD's SEC filing, not verified against the filing",
+    "kr": "이탈리아는 네덜란드 명령 대상 8개국 중 하나. 위탁생산사를 상대로 한 가처분이 인용되면 판매뿐 아니라 공급까지 영향을 받는다. MSD SEC 공시를 인용한 언론 보도 기준이며 공시 원문 대조 전"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-09",
+   "event": {
+    "en": "FOMC decision — last of 2026",
+    "kr": "FOMC — 2026년 마지막 회의"
+   },
+   "scope": {
+    "en": "All markets",
+    "kr": "전 시장"
+   },
+   "why": {
+    "en": "A 25bp hike stays heavily priced (CNBC, 20 Nov); Governor Cook warned on 20 Nov against falling behind on inflation; October minutes showed a few policymakers would back 50bp if inflation data disappoint. Monday's equity rebound did not move rates: Treasury par 23 Nov 2-year 4.63%, 10-year 4.92%, 30-year 5.29% (home.treasury.gov). Year-end regime call. Fed calendar lists 8–9 Dec",
+    "kr": "12월 25bp 인상 기대는 여전히 높다(CNBC 11/20). 쿡 이사는 11/20 인플레이션 대응 지연을 경계했고, 10월 의사록에서는 물가 지표가 나쁘면 50bp 인상도 지지하겠다는 위원이 일부 있었다. 월요일 주가 급반등에도 금리는 움직이지 않았다. 11/23 재무부 par 금리 2년물 4.63%, 10년물 4.92%, 30년물 5.29%(home.treasury.gov). 연말 레짐 판단. 연준 일정상 12/8~9"
+   },
+   "priority": "HIGH"
+  },
+  {
+   "date": "2026-12-11",
+   "event": {
+    "en": "Kosdaq 150 rebalancing effective (16 constituent changes announced 18 Nov)",
+    "kr": "코스닥150 정기변경 적용(11/18 발표, 16종목 교체)"
+   },
+   "scope": {
+    "en": "Kosdaq / healthcare",
+    "kr": "코스닥 / 헬스케어"
+   },
+   "why": {
+    "en": "Six healthcare names join the Kosdaq 150 (Seers Technology, April Bio, Algenomics, Curient, Dongkook Pharm, Reeves Med) and rose an average 11.8% on 19 Nov; Gemvax, Curexo and GI Innovation leave. Passive flows into the effective date can lift the Kosdaq without foreign discretionary buying. Date per Medicopharma (19 Nov, 17:30 KST), not verified against the KRX notice",
+    "kr": "헬스케어 6종목(씨어스테크놀로지·에이프릴바이오·알지노믹스·큐리언트·동국제약·리브스메드)이 코스닥150에 새로 편입되며 11/19 평균 11.8% 상승, 젬백스·큐렉소·지아이이노베이션은 제외. 적용일까지 패시브 자금이 외국인 재량 매수 없이도 코스닥을 끌어올릴 수 있다. 일정은 메디코파마(11/19 17:30) 기준이며 KRX 공지 대조 전"
+   },
+   "priority": "MEDIUM"
+  },
+  {
+   "date": "2026-12-29",
+   "event": {
+    "en": "Alteogen–Alteogen Biologics merger effective date (per company decision of 6 Oct, as reported by JobPost)",
+    "kr": "알테오젠–알테오젠바이오로직스 합병기일(10/6 이사회 결정, 잡포스트 보도)"
+   },
+   "scope": {
+    "en": "Alteogen",
+    "kr": "알테오젠"
+   },
+   "why": {
+    "en": "Corporate-structure change; dated per press, not yet checked against the DART filing",
+    "kr": "지배구조 변화 이벤트. 일정은 언론 기준이며 DART 공시 대조 전"
+   },
+   "priority": "LOW"
+  },
+  {
+   "date": "2027-03-30",
+   "event": {
+    "en": "HLB — shareholder meeting on the absorption of HLB Life Science (merger date 1 Jul 2027)",
+    "kr": "HLB — HLB생명과학 흡수합병 승인 주총(합병기일 2027년 7월 1일)"
+   },
+   "scope": {
+    "en": "HLB",
+    "kr": "HLB"
+   },
+   "why": {
+    "en": "Boards decided on 19 Nov: 0.0857532 HLB shares per HLB Life Science share, appraisal price ₩3,063, appraisal window 30 Mar–19 Apr; either side may terminate if claims exceed ₩20bn. Per Medicopharma (23 Nov 16:35 KST) citing the disclosure, not verified against DART",
+    "kr": "11/19 양사 이사회 결의. 합병비율 HLB생명과학 1주당 HLB 0.0857532주, 주식매수청구가 ₩3,063, 청구기간 3/30~4/19, 청구액 200억 원 초과 시 계약 해제 가능. 공시를 인용한 메디코파마(11/23 16:35) 기준이며 DART 대조 전"
+   },
+   "priority": "LOW"
+  },
+  {
+   "date": "2027-04-09",
+   "event": {
+    "en": "HLB — FDA PDUFA goal date, rivoceranib + camrelizumab (liver cancer)",
+    "kr": "HLB — 리보세라닙+캄렐리주맙(간암) FDA PDUFA 목표일"
+   },
+   "scope": {
+    "en": "HLB",
+    "kr": "HLB"
+   },
+   "why": {
+    "en": "Fourth attempt: Elevar resubmitted the NDA on 9 Oct and Hengrui the camrelizumab BLA; FDA accepted them as a Class 2 resubmission with a 9 Apr 2027 goal date, ruling out a 2026 decision (Hankyung, 4 Nov). Date per press citing the company's FDA notice",
+    "kr": "네 번째 도전. 엘레바가 10/9 NDA를, 항서제약이 캄렐리주맙 BLA를 재제출했고 FDA는 클래스2로 분류해 목표일을 2027년 4월 9일로 지정, 연내 승인은 무산(한국경제 11/4). 회사의 FDA 통지 관련 보도 기준"
+   },
+   "priority": "MEDIUM"
+  }
+ ],
+ "sources": [
+  {
+   "label": "News1 — 4700선 겨우 지킨 코스피…코스닥 2년 만에 '최저', 23 Nov 2026 (16:59 KST)",
+   "url": "https://www.news1.kr/finance/market-exr/6363234"
+  },
+  {
+   "label": "ISSUE ON — 코스피 3.31%↓ 4708.54 마감…장중 4600선 아래, 매도 사이드카 연이틀·코스닥 2년여 만에 최저, 23 Nov 2026 (21:58 KST)",
+   "url": "https://www.issueon.co.kr/news/articleView.html?idxno=14462"
+  },
+  {
+   "label": "DigitalToday — 코스피 3.31% 하락해 4700선...엔비디아·AI 우려 '여전', 23 Nov 2026 (15:55 KST)",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717449"
+  },
+  {
+   "label": "Businesskorea — [마감 시황] 코스피, 외국인·개인 동반 매도에 3.3% 급락하며 4,700선 턱걸이 마감, 23 Nov 2026 (17:59 KST)",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281954"
+  },
+  {
+   "label": "Asia Economy — 원·달러 환율, 9.7원 오른 1345.9원(오후 3시30분), 23 Nov 2026 (15:39 KST)",
+   "url": "https://view.asiae.co.kr/article/2026112315391264636"
+  },
+  {
+   "label": "Medicopharma — [바이오 마감 브리핑] 제약 4.9% 하락에 대형주 약세…큐로셀·애드바이오텍 상한가, 23 Nov 2026 (16:35 KST)",
+   "url": "https://www.medicopharma.co.kr/news/articleView.html?idxno=70589"
+  },
+  {
+   "label": "Medipana — [주가] 11월 23일 주요 제약·바이오·기기 5% 변동 현황, 23 Nov 2026",
+   "url": "https://www.medipana.com/news/articleView.html?idxno=422400"
+  },
+  {
+   "label": "Sidae — 올해 마지막 금통위 26일 열린다…증권가, 추가 금리 인상 무게, 23 Nov 2026 (13:40 KST)",
+   "url": "https://www.sidae.com/article/2026112313401865961"
+  },
+  {
+   "label": "Money Today — 전문가 10명 전원 \"11월 금리인상…내년 3.5%까지 올린다\", 22 Nov 2026",
+   "url": "https://www.mt.co.kr/economy/2026/11/22/2026112009065366740"
+  },
+  {
+   "label": "Asia Economy — [금통위poll]①11월 금리 인상…향후 관건은 \"점도표 3.75%\", 22 Nov 2026 (11:53 KST)",
+   "url": "https://view.asiae.co.kr/article/2026112210490320195"
+  },
+  {
+   "label": "CNBC — Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia, 23 Nov 2026 (updated 4:10 PM ET)",
+   "url": "https://www.cnbc.com/2026/11/22/stock-market-today-live-updates.html"
+  },
+  {
+   "label": "CNBC — Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%, 23 Nov 2026",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html"
+  },
+  {
+   "label": "NVIDIA — NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director, 23 Nov 2026",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+  },
+  {
+   "label": "Al Jazeera — Nvidia board reinstates Jensen Huang as CEO, 23 Nov 2026",
+   "url": "https://www.aljazeera.com/economy/2026/11/23/nvidia-board-reinstates-jensen-huang-as-ceo"
+  },
+  {
+   "label": "JournalArta — S&P 500 closes 4.73% higher, Nasdaq jumps 6.51% as VIX plunges, 24 Nov 2026",
+   "url": "https://journalarta.com/en/2026/11/24/stock-market-today-sp-500-closes-4-73-higher-nasdaq-jumps-6-51-as-vix-plunges/"
+  },
+  {
+   "label": "Time News (Reuters) — Brent, WTI drop as supply surplus view outweighs Middle East attacks, 23 Nov 2026",
+   "url": "https://time.news/brent-wti-drop-as-supply-surplus-view-outweighs-middle-east-attacks/"
+  },
+  {
+   "label": "US Treasury — daily par yield curve, 23 Nov 2026",
+   "url": "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/daily-treasury-rates.csv/2026/all?type=daily_treasury_yield_curve&field_tdr_date_value=2026&page&_format=csv"
+  },
+  {
+   "label": "Daum Finance — KOSPI/KOSDAQ investor flows; KRX daily quotes and foreign ownership for the nine watchlist names, 23 Nov 2026",
+   "url": "https://finance.daum.net/quotes/A000660"
+  },
+  {
+   "label": "Topstar News — 알테오젠, 미국·독일 특허 호재에도 주가 17만원대…반등 막는 변수는, 21 Nov 2026 (15:20 KST; cites MSD SEC filing for UK 30 Nov / Italy 2 Dec)",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282345"
+  },
+  {
+   "label": "Seoul Economic Daily — 美 특허심판 승소·獨 판매금지 해제…알테오젠 '키트루다SC' 확장 탄력, 20 Nov 2026 (09:53 KST)",
+   "url": "https://m.sedaily.com/article/20116811"
+  },
+  {
+   "label": "Hankyung — HLB 간암신약 리보세라닙, 美 FDA 본심사 재개…내년 4월 결론, 4 Nov 2026",
+   "url": "https://www.hankyung.com/article/202611044332i"
+  },
+  {
+   "label": "StockHub — PharmaResearch 3Q26 preliminary results (DART fair disclosure), 6 Nov 2026",
+   "url": "https://stockhub.kr/insights/view_1793928529400_lpa4nn99g"
+  }
+ ]
+}

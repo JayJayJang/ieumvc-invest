@@ -1,5 +1,17 @@
 [
  {
+  "date": "2026-11-24",
+  "headline": {
+   "en": "Seoul sold first, New York reversed later. Monday's KOSPI fell 3.31% to 4,708.54 after a second sell sidecar in two sessions and an intraday low of 4,586.80; the Kosdaq slid 1.58% to 635.45, its lowest close since December 2024, and the KOSPI pharma index lost 4.9%. Hours later Nvidia's board reinstated Jensen Huang as CEO, the stock jumped about 31%, and the S&P 500 rose 4.73% to 7,237.17 while the Nasdaq gained 6.51% to 24,089.56, its best day since April 2025. Brent fell 3.5% to $89.37 and the 10-year par held at 4.92%; the won closed at 1,345.9. On the latest prints one of three nails is lit, two on the data file; the biotech gate stays shut until Seoul confirms the US turn.",
+   "kr": "서울이 먼저 팔았고, 뉴욕은 나중에 방향을 틀었다. 월요일 코스피는 이틀 연속 매도 사이드카가 걸리고 장중 4,586.80까지 밀린 끝에 3.31% 내린 4,708.54로 마감했다. 코스닥은 1.58% 내린 635.45로 2024년 12월 이후 최저 종가를 기록했고, 코스피 의약품지수는 4.9% 빠졌다. 몇 시간 뒤 엔비디아 이사회가 젠슨 황을 CEO로 복귀시키자 주가는 약 31% 급등했고, S&P 500은 4.73% 오른 7,237.17, 나스닥은 6.51% 뛴 24,089.56으로 2025년 4월 이후 최대 상승률을 기록했다. Brent는 3.5% 내린 $89.37, 10년물 par는 4.92%로 제자리, 원/달러는 1,345.9원에 마감했다. 3대 악재는 최신 공표치 기준 1개, 데이터 파일 기준 2개 점등. 서울이 미국의 반전을 확인하기 전까지 바이오 게이트는 닫아둔다."
+  },
+  "regime": {
+   "en": "RISK-OFF CONTRACTION, relief rally under test — New York's +4.7% day came on one company's governance news, not on easier money: a December Fed hike stays priced, the Bank of Korea is expected to hike on Thursday, and foreigners have sold the KOSPI seven sessions and the Kosdaq thirteen running (Daum KRX data)",
+   "kr": "RISK-OFF CONTRACTION, 안도 랠리 검증 구간 — 뉴욕의 +4.7%는 유동성 완화가 아닌 한 기업의 지배구조 뉴스에서 나왔다. 12월 연준 인상은 여전히 반영돼 있고, 한은은 목요일 인상이 유력하며, 외국인은 코스피 7거래일·코스닥 13거래일 연속 순매도 중이다(다음 금융 KRX 자료)"
+  },
+  "nails": null
+ },
+ {
   "date": "2026-11-23",
   "headline": {
    "en": "Black Friday in Seoul: the KOSPI fell 5.21% to 4,869.96, a 10-month closing low, and the Kosdaq 5.71% to 645.68, with sell sidecars on both boards as foreigners (−₩1.13tn) and institutions (−₩950.9bn) dumped KOSPI stock into retail buying. New York then did worse: the S&P 500 fell 3.7% to 6,910.39 for a seventh straight loss and entered correction, the Nasdaq dropped 5.3% to 22,617.73 and turned negative for 2026, and Nvidia lost about 14% on a Reuters report of an SEC accounting inquiry. The 10-year par fell to 4.92%; the won weakened to 1,336.2. One of three nails is lit on the latest prints, two on the stale data file; the biotech gate stays shut — with one stock-specific bright spot: a Munich appeal court lifted the German Keytruda SC injunction.",

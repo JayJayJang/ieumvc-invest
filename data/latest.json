@@ -1,5 +1,5 @@
 {
- "as_of": "2026-11-26T13:16+09:00",
+ "as_of": "2026-11-27T13:26+09:00",
  "source": "Alpha Vantage \u2014 FRED 10Y CMT (daily), FX daily USD/KRW, EIA Brent (daily), end-of-day quotes; fetched by the workflow",
  "series": {
   "ust10y": {
@@ -1053,10 +1053,6 @@
    "unit": "KRW",
    "points": [
     {
-     "date": "2026-07-09",
-     "value": 1505.11
-    },
-    {
      "date": "2026-07-10",
      "value": 1498.85
     },
@@ -1451,6 +1447,10 @@
     {
      "date": "2026-11-25",
      "value": 1343.77
+    },
+    {
+     "date": "2026-11-26",
+     "value": 1342.95
     }
    ]
   },
